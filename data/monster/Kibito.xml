@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Kibito" nameDescription="an Kibito" race="blood" experience="25000" speed="650" manacost="0">
+	<health now="300000" max="300000"/>
+	<look type="221" corpse="13493"/>
+	<targetchange interval="5000" chance="8"/>
+	<strategy attack="100" defense="0"/>
+	<flags>
+		<flag summonable="0"/> <flag sagamonster = "0" />
+		<flag attackable="1"/>
+		<flag hostile="1"/>
+		<flag illusionable="0"/>
+		<flag convinceable="0"/>
+		<flag pushable="1"/>
+		<flag canpushitems="1"/>
+		<flag canpushcreatures="1"/>
+		<flag targetdistance="1"/>
+		<flag staticattack="90"/>
+		<flag runonhealth="0"/>
+	</flags>
+	<attacks>
+		<attack name="melee" interval="1000" min="-5000" max="-3500"/>
+		<attack name="shoge chiha" interval="1000" chance="50" min="-2500" max="-4000"/>
+	</attacks>
+	<defenses armor="0" defense="0">
+	</defenses>
+	<immunities>
+		<immunity physical="0"/>
+		<immunity energy="0"/>
+		<immunity fire="0"/>
+		<immunity poison="0"/>
+		<immunity lifedrain="0"/>
+		<immunity paralyze="0"/>
+		<immunity outfit="1"/>
+		<immunity invisible="0"/>
+	</immunities>
+	<voices interval="5000" chance="10">
+		<voice sentence="Você não deveria estar aqui!"/>
+		<voice sentence="Maldito!"/>
+	</voices>
+		<loot>
+			<item id="2148" countmax="100" chance="100000"/> <!-- Cents -->
+			<item id="2152" countmax="50" chance="50000"/> <!-- Dollars -->
+			<item id="2160" countmax="3" chance="500"/> <!-- Golds -->
+			<item id="12777" countmax="15" chance="10000"/> <!-- Senzu Leaf -->
+			
+			<item id="12736" chance="2500"/> <!-- Makankosappo Power -->
+			<item id="12737" chance="2500"/> <!-- Makankosappo -->
+			<item id="12738" chance="1000"/> <!-- Strong Makankosappo -->
+			<item id="12658" chance="100"/> <!-- Shin Armor -->
+		</loot>
+</monster>

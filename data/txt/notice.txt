@@ -1,0 +1,62 @@
+-----------------------------
+                 *** Novidades ***
+-----------------------------
+Rates:
+LvL 1 ao 99 - 10x
+LvL 100 ao 149 - 5x
+LvL 150 ao 199 - 3x
+LvL 200 ao 399 - 1x
+LvL 400 ao 599 - 0.75x
+LvL 600 ao 699 - 0.50x
+LvL 700 ao 799 - 0.25x
+LvL 800 - 0x (Level Máximo)
+-----------------------------
+Level mínimo para rebornar: 250
+Level máximo para rebornar: 600
+-----------------------------
+Rush Event Adicionado:
+Domingo - 19h
+Recompensa: Stamina Potion.
+Necessita ser premium e level 200.
+Comandos: !run join / !run leave
+-----------------------------
+Castle Of Honor:
+Quarta e Sábado - 19:30 às 21:00
+O teleport se localiza no templo principal.
+Comandos da guild dominante: !tcastle
+-----------------------------
+Zombie Event:
+Recompensa: Super C17 Armor + 100 Red Senzus.
+Evento manual, será anunciado em broadcast.
+O teleport se localiza a esquerda do Yama.
+-----------------------------
+Battlefield Event:
+Segunda e Sexta - 20:00
+Quarta - 18:30
+Recompensa: 300 Red Senzus + 100 Golds.
+O teleport se localiza a direita do Yama.
+-----------------------------
+Comandos de Guild:
+!createguild Name
+!joinguild Name
+!invite Nick
+!kick Nick
+!promote Nick
+!demote Nick
+!guild
+!disband
+/bguild
+/war invite, GuildName, QtdFrags
+/war invite, GuildName, QtdFrags, Money
+/war accept, GuildName
+/war reject, GuildName
+/war cancel, GuildName
+/balance
+/balance donate QtdMoney
+/balance pick QtdMoney 
+-----------------------------
+Digite /commands para ver todos seus comandos.
+-----------------------------
+Digite !report para reportar algum bug.
+-----------------------------
+Digite "tecnicas" ou "!tecnicas" para ver suas magias.

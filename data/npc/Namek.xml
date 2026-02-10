@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Namek" script="scroll.lua" walkinterval="2000">
+	<health now="100" max="100" />
+	<look type="166"/>
+	<parameters>
+		<parameter key="message_greet" value="Olá, |PLAYERNAME|! Eu troco Magic Leafs por diferentes scrolls, tais como: {Pink Scroll}, {Yellow Scroll}, {Blue Scroll}, {Green Scroll} e {Red Scroll}." />
+		<parameter key="message_farewell" value="Até mais, |PLAYERNAME|!" />
+	</parameters>
+</npc>

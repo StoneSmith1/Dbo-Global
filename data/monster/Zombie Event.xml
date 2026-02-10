@@ -1,0 +1,31 @@
+﻿<monster name="Zombie Event" nameDescription="an Zombie Event" race="blood" experience="1000000" speed="200" manacost="0">
+	<health now="10000000" max="10000000"/>
+	<look type="479" corpse="13366"/>
+	<targetchange interval="5000" chance="10"/>
+	<strategy attack="100" defense="0"/>
+	<flags>
+		<flag summonable="0"/> <flag sagamonster = "0" />
+		<flag attackable="1"/>
+		<flag hostile="1"/>
+		<flag illusionable="0"/>
+		<flag convinceable="0"/>
+		<flag pushable="0"/>
+		<flag canpushitems="1"/>
+		<flag canpushcreatures="1"/>
+		<flag targetdistance="1"/>
+		<flag staticattack="90"/>
+		<flag runonhealth="0"/>
+	</flags>
+	<attacks>
+		<attack name="melee" interval="1000" min="-1000000" max="-1000000"/>
+	</attacks>
+	<defenses armor="0" defense="0"/>
+<immunities>
+  <immunity paralyze="1"/>
+  <immunity invisible="1"/>
+</immunities>
+<script>
+  <event name="ZombieThink"/>
+  <event name="ZombieDeath"/>
+</script>
+</monster>

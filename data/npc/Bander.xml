@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Bander" script="default.lua" walkinterval="2000">
+	<health now="100" max="100"/>
+	<look type="452"/>
+	<parameters>
+		<parameter key="module_shop" value="1"/>
+		<parameter key="message_greet" value="Olá, |PLAYERNAME|! Eu vendo Band Of Loss. Diga {Trade}."/>
+		<parameter key="shop_buyable" value="Band Of Loss,12757,50000;Black Band,13376,10000;Blue Band,13428,50000;Red Band,13429,50000;Grey Band,13430,10000;Green Band,13431,100000;Yellow Band,13433,50000;Brown Band,13441,10000"/>
+	</parameters>
+</npc>

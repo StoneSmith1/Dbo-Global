@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Sword Vip" script="sword vip.lua" walkinterval="2000">
+	<health now="100" max="100" />
+	<look type="323"/>
+	<parameters>
+		<parameter key="message_greet" value="Olá, |PLAYERNAME|! Vendo Sword Vip Por 20 Premium Points {sword}." />
+		<parameter key="message_farewell" value="Até mais, |PLAYERNAME|!" />
+	</parameters>
+</npc>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Helmet Trader" script="default.lua" walkinterval="2000">
+	<health now="100" max="100"/>
+	<look type="456"/>
+	<parameters>
+		<parameter key="module_shop" value="1"/>
+		<parameter key="message_greet" value="Olá, |PLAYERNAME|! Eu compro alguns Helmets. Diga {Trade}."/>
+		<parameter key="shop_sellable" value="
+			Eye Mask,12621,5000;
+			Chibi Gohan Cap,12622,5000;
+			Red Ribbon Cap,12623,10000;
+			Ninja Helmet,12625,25000;
+			Soldier Helmet,12626,15000;
+			Pai Pai Helmet,12627,50000;
+			Paul Cap,12628,60000;
+			Piccolo Cap,12629,500000;
+			Broly Amulation,12630,100000;
+			Great Saiyan Helmet,12631,350000;
+			Janemba Helmet,12632,4000000;
+			Cell Helmet,12633,5000000;
+			First Bandana,12634,10000
+		"/>
+	</parameters>
+</npc>

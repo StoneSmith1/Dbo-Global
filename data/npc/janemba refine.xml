@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Janemba refine" script="janemba refine.lua" walkinterval="0">
+	<health now="100" max="100"/>
+	<look type="590"/>
+	<parameters>
+		<parameter key="module_shop" value="1"/>
+		<parameter key="message_greet" value="Olá, |PLAYERNAME|! Eu posso te levar para o {Sala De Refine}."/>
+	</parameters>
+</npc>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Porunga npc" script="porunga npc.lua" walkinterval="2000">
+	<health now="100" max="100" />
+	<look type="467"/>
+	<parameters>
+		<parameter key="message_greet" value="Olá, |PLAYERNAME|! Seja Bem Vindo Ao Nosso Servidor,Com a sua ajuda Chegaremos muito longe." />
+		<parameter key="message_farewell" value="Até mais, |PLAYERNAME|!" />
+	</parameters>
+</npc>

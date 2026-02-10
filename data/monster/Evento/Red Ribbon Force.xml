@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Red Ribbon Force" nameDescription="an Red Ribbon Force" race="blood" experience="500000" speed="500" manacost="0">
+	<health now="2000000" max="2000000"/>
+	<look type="496" corpse="13372"/>
+	<targetchange interval="5000" chance="8"/>
+	<strategy attack="100" defense="0"/>
+	<flags>
+		<flag summonable="0"/>
+		<flag attackable="1"/>
+		<flag hostile="1"/>
+		<flag illusionable="0"/>
+		<flag convinceable="0"/>
+		<flag pushable="1"/>
+		<flag canpushitems="1"/>
+		<flag canpushcreatures="1"/>
+		<flag targetdistance="1"/>
+		<flag staticattack="90"/>
+		<flag runonhealth="0"/>
+	</flags>
+	<attacks>
+		<attack name="melee" interval="1000" min="-3000" max="-5000"/>
+		<attack name="dynamic punch" interval="1000" chance="75" min="-2500" max="-6000"/>
+		<attack name="bakuhatsuha" interval="3000" chance="80" min="-2000" max="-5000"/>
+	</attacks>
+	<defenses armor="0" defense="0">
+	</defenses>
+	<immunities>
+		<immunity physical="0"/>
+		<immunity energy="0"/>
+		<immunity fire="0"/>
+		<immunity poison="0"/>
+		<immunity lifedrain="0"/>
+		<immunity paralyze="0"/>
+		<immunity outfit="1"/>
+		<immunity invisible="0"/>
+	</immunities>
+	<voices interval="5000" chance="10">
+		<voice sentence="Nossas forças especiais é invencível!"/>
+		<voice sentence="Venham! Estou aqui!"/>
+		<voice sentence="Posso morrer agora, mas meus amigos me vingarão!"/>
+	</voices>
+		<loot>
+			<item id="2148" countmax="300" chance="100000"/> <!-- Cents -->
+			<item id="2152" countmax="200" chance="50000"/> <!-- Dollars -->
+			<item id="2160" countmax="5" chance="10000"/> <!-- Gold -->
+		</loot>
+</monster>

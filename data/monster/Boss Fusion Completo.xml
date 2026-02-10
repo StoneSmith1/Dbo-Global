@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Boss Fusion Completo" nameDescription="an boss fusion completo" race="blood" experience="100" speed="700" manacost="0">
+	<health now="9500000" max="9500000"/>
+	<look type="15" head="1" body="1" legs="1" feet="1" addons="0" corpse="12816"/>
+	<targetchange interval="5000" chance="8"/>
+	<strategy attack="100" defense="0"/>
+	<flags>
+		<flag summonable="0"/> <flag sagamonster = "0" />
+		<flag attackable="1"/>
+		<flag hostile="1"/>
+		<flag illusionable="0"/>
+		<flag convinceable="0"/>
+		<flag pushable="1"/>
+		<flag canpushitems="1"/>
+		<flag canpushcreatures="1"/>
+		<flag targetdistance="1"/>
+		<flag staticattack="90"/>
+		<flag runonhealth="0"/>
+	</flags>
+	<attacks>
+		<attack name="melee" interval="1000" min="-20000" max="-40500"/>
+		<attack name="saiyajin blast" interval="1000" chance="30" min="-1000" max="-5000"/>
+		<attack name="explosion" interval="1000" chance="30" min="-10000" max="-25000"/>
+		<attack name="super explosion wave" interval="2500" chance="40" min="-5000" max="-12000"/>
+		<attack name="big bang attack" interval="1500" chance="35" min="-6000" max="-20000"/>
+		<attack name="super ryuken" interval="1000" chance="35" min="-8000" max="-15000"/>
+	</attacks>
+	<defenses armor="0" defense="0">
+	</defenses>
+	<immunities>
+		<immunity physical="0"/>
+		<immunity energy="0"/>
+		<immunity fire="0"/>
+		<immunity poison="0"/>
+		<immunity lifedrain="0"/>
+		<immunity paralyze="1"/>
+		<immunity outfit="1"/>
+		<immunity invisible="1"/>
+	</immunities>
+		<loot>
+			<item id="2152" countmax="500" chance="100000"/> <!-- Dollars -->
+			<item id="2160" countmax="3" chance="20"/> <!-- Golds -->
+			<item id="12779" countmax="200" chance="100000"/> <!-- Senzu Bean -->
+			<item id="12779" countmax="100" chance="100000"/> <!-- Magic Senzu Bean -->
+		</loot>
+      <script>
+<event name="Boss Fusion Completo" />
+</script>
+</monster>

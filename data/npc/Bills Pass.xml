@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Bills Pass" script="bills pass.lua" walkinterval="0">
+	<health now="100" max="100"/>
+	<look type="626"/>
+	<parameters>
+		<parameter key="module_shop" value="1"/>
+		<parameter key="message_greet" value="Olá, |PLAYERNAME|! Se voce me arranja 500 {divindade essencias}, voce poderá ter acesso a nossa area de upgrade."/>
+	</parameters>
+</npc>

@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<npc name="Removedor de Frags" script="data/npc/scripts/skullremover.lua" walkinterval="5000" floorchange="0">
+<health now="100" max="100"/>
+<look type="565" head="78" body="88" legs="0" feet="88" addons="3"/>
+<parameters>
+<parameter key="message_greet" value="iaew |PLAYERNAME|. Eu posso {remover} seu red skull, Se quiser diga {remover} seu fila da puta." />
+</parameters>
+</npc>

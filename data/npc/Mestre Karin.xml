@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Mestre Karin" script="default.lua" walkinterval="2000">
+	<health now="100" max="100"/>
+	<look type="465"/>
+	<parameters>
+		<parameter key="module_shop" value="1"/>
+		<parameter key="message_greet" value="Olá, |PLAYERNAME|! Eu vendo algumas sementes dos deuses. Diga {Trade}."/>
+		<parameter key="shop_buyable" value="Hp Potion,12775,100;Ki Potion,12776,100;Senzu Leaf,12777,1000;Senzu Root,12778,1500;Senzu Bean,12779,5000"/>
+	</parameters>
+</npc>

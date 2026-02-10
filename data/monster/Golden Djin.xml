@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Golden Djin" nameDescription="an Golden Djin" race="blood" experience="130000" speed="700" manacost="0">
+	<health now="500000" max="500000"/>
+	<look type="411" head="1" body="1" legs="1" feet="1" addons="0" corpse="12871"/>
+	<targetchange interval="5000" chance="8"/>
+	<strategy attack="100" defense="0"/>
+	<flags>
+		<flag summonable="0"/> <flag sagamonster = "0" />
+		<flag attackable="1"/>
+		<flag hostile="1"/>
+		<flag illusionable="0"/>
+		<flag convinceable="0"/>
+		<flag pushable="1"/>
+		<flag canpushitems="1"/>
+		<flag canpushcreatures="1"/>
+		<flag targetdistance="1"/>
+		<flag staticattack="90"/>
+		<flag runonhealth="0"/>
+	</flags>
+	<attacks>
+		<attack name="melee" interval="200" min="-3500" max="-5000"/>
+		<attack name="shunkanido" interval="2000" chance="50" min="-5000" max="-10000"/>
+	</attacks>
+	<defenses armor="0" defense="0">
+	</defenses>
+	<immunities>
+		<immunity physical="0"/>
+		<immunity energy="0"/>
+		<immunity fire="0"/>
+		<immunity poison="0"/>
+		<immunity lifedrain="0"/>
+		<immunity paralyze="1"/>
+		<immunity outfit="1"/>
+		<immunity invisible="1"/>
+	</immunities>
+		<loot>
+			<item id="2148" countmax="100" chance="100000"/> <!-- Cents -->
+			<item id="2152" countmax="100" chance="100000"/> <!-- Dollars -->
+			<item id="2160" countmax="5" chance="1000"/> <!-- Golds -->
+			<item id="12779" countmax="10" chance="5000"/> <!-- Senzu Bean -->
+		</loot>
+</monster>

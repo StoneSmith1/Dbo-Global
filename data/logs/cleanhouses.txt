@@ -1,0 +1,5513 @@
+[26/02/2015 13:01:49]  :: Houses cleaned:
+
+There were no houses to clean.
+[26/02/2015 13:05:33]  :: Houses cleaned:
+
+There were no houses to clean.
+[26/02/2015 16:07:26]  :: Houses cleaned:
+
+There were no houses to clean.
+[26/02/2015 16:55:32]  :: Houses cleaned:
+
+There were no houses to clean.
+[26/02/2015 17:31:49]  :: Houses cleaned:
+
+There were no houses to clean.
+[26/02/2015 18:49:53]  :: Houses cleaned:
+
+There were no houses to clean.
+[27/02/2015 00:21:14]  :: Houses cleaned:
+
+There were no houses to clean.
+[27/02/2015 00:50:12]  :: Houses cleaned:
+
+There were no houses to clean.
+[27/02/2015 13:17:06]  :: Houses cleaned:
+
+There were no houses to clean.
+[27/02/2015 14:05:39]  :: Houses cleaned:
+
+There were no houses to clean.
+[27/02/2015 16:20:26]  :: Houses cleaned:
+
+There were no houses to clean.
+[27/02/2015 16:24:10]  :: Houses cleaned:
+
+There were no houses to clean.
+[27/02/2015 16:28:15]  :: Houses cleaned:
+
+There were no houses to clean.
+[27/02/2015 17:42:14]  :: Houses cleaned:
+
+There were no houses to clean.
+[27/02/2015 18:32:37]  :: Houses cleaned:
+
+There were no houses to clean.
+[27/02/2015 19:06:56]  :: Houses cleaned:
+
+There were no houses to clean.
+[27/02/2015 21:36:34]  :: Houses cleaned:
+
+There were no houses to clean.
+[27/02/2015 21:44:42]  :: Houses cleaned:
+
+There were no houses to clean.
+[27/02/2015 22:16:21]  :: Houses cleaned:
+
+There were no houses to clean.
+[28/02/2015 12:59:58]  :: Houses cleaned:
+
+There were no houses to clean.
+[28/02/2015 13:01:56]  :: Houses cleaned:
+
+There were no houses to clean.
+[02/03/2015 23:31:07]  :: Houses cleaned:
+
+There were no houses to clean.
+[04/03/2015 06:31:40]  :: Houses cleaned:
+
+There were no houses to clean.
+[04/03/2015 12:42:08]  :: Houses cleaned:
+
+There were no houses to clean.
+[05/03/2015 13:47:16]  :: Houses cleaned:
+
+There were no houses to clean.
+[05/03/2015 13:55:13]  :: Houses cleaned:
+
+There were no houses to clean.
+[05/03/2015 13:58:32]  :: Houses cleaned:
+
+There were no houses to clean.
+[05/03/2015 14:01:13]  :: Houses cleaned:
+
+There were no houses to clean.
+[05/03/2015 14:02:54]  :: Houses cleaned:
+
+There were no houses to clean.
+[08/03/2015 00:30:52]  :: Houses cleaned:
+
+There were no houses to clean.
+[08/03/2015 15:53:58]  :: Houses cleaned:
+
+There were no houses to clean.
+[09/03/2015 17:15:04]  :: Houses cleaned:
+
+There were no houses to clean.
+[09/03/2015 22:57:53]  :: Houses cleaned:
+
+There were no houses to clean.
+[10/03/2015 00:17:31]  :: Houses cleaned:
+
+There were no houses to clean.
+[10/03/2015 00:31:11]  :: Houses cleaned:
+
+There were no houses to clean.
+[10/03/2015 01:16:22]  :: Houses cleaned:
+
+There were no houses to clean.
+[10/03/2015 01:31:20]  :: Houses cleaned:
+
+There were no houses to clean.
+[10/03/2015 01:34:00]  :: Houses cleaned:
+
+There were no houses to clean.
+[10/03/2015 02:06:08]  :: Houses cleaned:
+
+There were no houses to clean.
+[10/03/2015 02:17:16]  :: Houses cleaned:
+
+There were no houses to clean.
+[10/03/2015 02:45:32]  :: Houses cleaned:
+
+There were no houses to clean.
+[10/03/2015 04:47:12]  :: Houses cleaned:
+
+There were no houses to clean.
+[10/03/2015 05:07:56]  :: Houses cleaned:
+
+There were no houses to clean.
+[10/03/2015 05:16:29]  :: Houses cleaned:
+
+There were no houses to clean.
+[11/03/2015 11:34:58]  :: Houses cleaned:
+
+There were no houses to clean.
+[11/03/2015 12:29:28]  :: Houses cleaned:
+
+There were no houses to clean.
+[11/03/2015 12:33:37]  :: Houses cleaned:
+
+There were no houses to clean.
+[11/03/2015 12:43:35]  :: Houses cleaned:
+
+There were no houses to clean.
+[11/03/2015 12:48:13]  :: Houses cleaned:
+
+There were no houses to clean.
+[11/03/2015 12:50:34]  :: Houses cleaned:
+
+There were no houses to clean.
+[11/03/2015 13:05:10]  :: Houses cleaned:
+
+There were no houses to clean.
+[11/03/2015 13:07:47]  :: Houses cleaned:
+
+There were no houses to clean.
+[11/03/2015 15:41:30]  :: Houses cleaned:
+
+There were no houses to clean.
+[11/03/2015 15:52:44]  :: Houses cleaned:
+
+There were no houses to clean.
+[11/03/2015 16:24:56]  :: Houses cleaned:
+
+There were no houses to clean.
+[11/03/2015 16:41:14]  :: Houses cleaned:
+
+There were no houses to clean.
+[11/03/2015 16:55:58]  :: Houses cleaned:
+
+There were no houses to clean.
+[11/03/2015 17:32:46]  :: Houses cleaned:
+
+There were no houses to clean.
+[15/03/2015 05:25:13]  :: Houses cleaned:
+
+There were no houses to clean.
+[15/03/2015 06:03:08]  :: Houses cleaned:
+
+There were no houses to clean.
+[15/03/2015 06:17:33]  :: Houses cleaned:
+
+There were no houses to clean.
+[15/03/2015 09:00:10]  :: Houses cleaned:
+
+There were no houses to clean.
+[15/03/2015 09:07:38]  :: Houses cleaned:
+
+There were no houses to clean.
+[15/03/2015 12:03:53]  :: Houses cleaned:
+
+There were no houses to clean.
+[15/03/2015 16:09:06]  :: Houses cleaned:
+
+There were no houses to clean.
+[15/03/2015 16:31:07]  :: Houses cleaned:
+
+There were no houses to clean.
+[15/03/2015 16:33:43]  :: Houses cleaned:
+
+There were no houses to clean.
+[15/03/2015 17:25:05]  :: Houses cleaned:
+
+There were no houses to clean.
+[15/03/2015 17:38:07]  :: Houses cleaned:
+
+There were no houses to clean.
+[15/03/2015 17:50:52]  :: Houses cleaned:
+
+There were no houses to clean.
+[15/03/2015 18:23:25]  :: Houses cleaned:
+
+There were no houses to clean.
+[16/03/2015 02:38:39]  :: Houses cleaned:
+
+There were no houses to clean.
+[18/03/2015 09:53:00]  :: Houses cleaned:
+
+There were no houses to clean.
+[18/03/2015 09:54:02]  :: Houses cleaned:
+
+There were no houses to clean.
+[18/03/2015 09:57:18]  :: Houses cleaned:
+
+There were no houses to clean.
+[18/03/2015 10:00:04]  :: Houses cleaned:
+
+There were no houses to clean.
+[18/03/2015 10:08:01]  :: Houses cleaned:
+
+There were no houses to clean.
+[18/03/2015 10:18:16]  :: Houses cleaned:
+
+There were no houses to clean.
+[18/03/2015 12:26:16]  :: Houses cleaned:
+
+There were no houses to clean.
+[18/03/2015 12:29:08]  :: Houses cleaned:
+
+There were no houses to clean.
+[19/03/2015 07:59:53]  :: Houses cleaned:
+
+There were no houses to clean.
+[20/03/2015 13:46:23]  :: Houses cleaned:
+
+There were no houses to clean.
+[20/03/2015 14:05:53]  :: Houses cleaned:
+
+There were no houses to clean.
+[20/03/2015 16:37:48]  :: Houses cleaned:
+
+There were no houses to clean.
+[21/03/2015 07:58:23]  :: Houses cleaned:
+
+There were no houses to clean.
+[21/03/2015 08:06:07]  :: Houses cleaned:
+
+There were no houses to clean.
+[21/03/2015 12:29:14]  :: Houses cleaned:
+
+There were no houses to clean.
+[21/03/2015 12:53:43]  :: Houses cleaned:
+
+There were no houses to clean.
+[21/03/2015 12:55:34]  :: Houses cleaned:
+
+There were no houses to clean.
+[21/03/2015 21:24:30]  :: Houses cleaned:
+
+There were no houses to clean.
+[21/03/2015 21:25:22]  :: Houses cleaned:
+
+There were no houses to clean.
+[21/03/2015 23:44:45]  :: Houses cleaned:
+
+There were no houses to clean.
+[22/03/2015 16:08:22]  :: Houses cleaned:
+
+There were no houses to clean.
+[22/03/2015 19:09:28]  :: Houses cleaned:
+
+There were no houses to clean.
+[23/03/2015 06:30:42]  :: Houses cleaned:
+
+There were no houses to clean.
+[23/03/2015 19:51:01]  :: Houses cleaned:
+
+There were no houses to clean.
+[30/03/2015 11:41:23]  :: Houses cleaned:
+
+There were no houses to clean.
+[31/03/2015 08:54:38]  :: Houses cleaned:
+
+There were no houses to clean.
+[02/04/2015 06:54:12]  :: Houses cleaned:
+
+There were no houses to clean.
+[04/04/2015 03:20:25]  :: Houses cleaned:
+
+There were no houses to clean.
+[21/07/2015 15:06:50]  :: Houses cleaned:
+
+There were no houses to clean.
+[21/07/2015 15:28:38]  :: Houses cleaned:
+
+There were no houses to clean.
+[21/07/2015 15:55:54]  :: Houses cleaned:
+
+There were no houses to clean.
+[21/07/2015 16:07:59]  :: Houses cleaned:
+
+There were no houses to clean.
+[21/07/2015 16:21:41]  :: Houses cleaned:
+
+There were no houses to clean.
+[21/07/2015 16:37:36]  :: Houses cleaned:
+
+There were no houses to clean.
+[21/07/2015 16:50:46]  :: Houses cleaned:
+
+There were no houses to clean.
+[21/07/2015 17:19:55]  :: Houses cleaned:
+
+There were no houses to clean.
+[21/07/2015 17:25:13]  :: Houses cleaned:
+
+There were no houses to clean.
+[21/07/2015 17:28:19]  :: Houses cleaned:
+
+There were no houses to clean.
+[21/07/2015 17:38:54]  :: Houses cleaned:
+
+There were no houses to clean.
+[21/07/2015 19:15:45]  :: Houses cleaned:
+
+There were no houses to clean.
+[21/07/2015 20:00:20]  :: Houses cleaned:
+
+There were no houses to clean.
+[21/07/2015 22:51:03]  :: Houses cleaned:
+
+There were no houses to clean.
+[21/07/2015 23:34:05]  :: Houses cleaned:
+
+There were no houses to clean.
+[21/07/2015 23:56:33]  :: Houses cleaned:
+
+There were no houses to clean.
+[22/07/2015 18:31:06]  :: Houses cleaned:
+
+There were no houses to clean.
+[22/07/2015 18:57:15]  :: Houses cleaned:
+
+There were no houses to clean.
+[22/07/2015 19:05:59]  :: Houses cleaned:
+
+There were no houses to clean.
+[22/07/2015 19:10:35]  :: Houses cleaned:
+
+There were no houses to clean.
+[22/07/2015 19:19:57]  :: Houses cleaned:
+
+There were no houses to clean.
+[22/07/2015 19:23:32]  :: Houses cleaned:
+
+There were no houses to clean.
+[22/07/2015 19:34:24]  :: Houses cleaned:
+
+There were no houses to clean.
+[22/07/2015 19:39:00]  :: Houses cleaned:
+
+There were no houses to clean.
+[22/07/2015 19:40:58]  :: Houses cleaned:
+
+There were no houses to clean.
+[22/07/2015 19:45:42]  :: Houses cleaned:
+
+There were no houses to clean.
+[22/07/2015 19:49:46]  :: Houses cleaned:
+
+There were no houses to clean.
+[22/07/2015 20:03:43]  :: Houses cleaned:
+
+There were no houses to clean.
+[22/07/2015 20:09:46]  :: Houses cleaned:
+
+There were no houses to clean.
+[22/07/2015 20:14:32]  :: Houses cleaned:
+
+There were no houses to clean.
+[22/07/2015 20:20:28]  :: Houses cleaned:
+
+There were no houses to clean.
+[22/07/2015 20:24:01]  :: Houses cleaned:
+
+There were no houses to clean.
+[22/07/2015 20:26:13]  :: Houses cleaned:
+
+There were no houses to clean.
+[22/07/2015 20:28:30]  :: Houses cleaned:
+
+There were no houses to clean.
+[22/07/2015 21:28:33]  :: Houses cleaned:
+
+There were no houses to clean.
+[22/07/2015 22:47:31]  :: Houses cleaned:
+
+There were no houses to clean.
+[22/07/2015 22:59:55]  :: Houses cleaned:
+
+There were no houses to clean.
+[22/07/2015 23:13:27]  :: Houses cleaned:
+
+There were no houses to clean.
+[22/07/2015 23:29:32]  :: Houses cleaned:
+
+There were no houses to clean.
+[22/07/2015 23:53:36]  :: Houses cleaned:
+
+There were no houses to clean.
+[22/07/2015 23:58:28]  :: Houses cleaned:
+
+There were no houses to clean.
+[23/07/2015 00:43:48]  :: Houses cleaned:
+
+There were no houses to clean.
+[23/07/2015 01:07:08]  :: Houses cleaned:
+
+There were no houses to clean.
+[23/07/2015 01:26:47]  :: Houses cleaned:
+
+There were no houses to clean.
+[23/07/2015 01:30:58]  :: Houses cleaned:
+
+There were no houses to clean.
+[23/07/2015 01:32:35]  :: Houses cleaned:
+
+There were no houses to clean.
+[23/07/2015 02:49:17]  :: Houses cleaned:
+
+There were no houses to clean.
+[23/07/2015 02:50:44]  :: Houses cleaned:
+
+There were no houses to clean.
+[23/07/2015 02:53:51]  :: Houses cleaned:
+
+There were no houses to clean.
+[23/07/2015 02:55:07]  :: Houses cleaned:
+
+There were no houses to clean.
+[23/07/2015 02:56:41]  :: Houses cleaned:
+
+There were no houses to clean.
+[23/07/2015 03:08:33]  :: Houses cleaned:
+
+There were no houses to clean.
+[23/07/2015 03:15:36]  :: Houses cleaned:
+
+There were no houses to clean.
+[23/07/2015 03:18:33]  :: Houses cleaned:
+
+There were no houses to clean.
+[23/07/2015 03:32:49]  :: Houses cleaned:
+
+There were no houses to clean.
+[23/07/2015 03:41:54]  :: Houses cleaned:
+
+There were no houses to clean.
+[23/07/2015 03:42:44]  :: Houses cleaned:
+
+There were no houses to clean.
+[23/07/2015 03:44:00]  :: Houses cleaned:
+
+There were no houses to clean.
+[23/07/2015 15:07:30]  :: Houses cleaned:
+
+There were no houses to clean.
+[23/07/2015 16:23:56]  :: Houses cleaned:
+
+There were no houses to clean.
+[23/07/2015 16:26:08]  :: Houses cleaned:
+
+There were no houses to clean.
+[23/07/2015 16:47:20]  :: Houses cleaned:
+
+There were no houses to clean.
+[23/07/2015 16:52:29]  :: Houses cleaned:
+
+There were no houses to clean.
+[23/07/2015 16:58:14]  :: Houses cleaned:
+
+There were no houses to clean.
+[23/07/2015 17:01:33]  :: Houses cleaned:
+
+There were no houses to clean.
+[23/07/2015 17:05:12]  :: Houses cleaned:
+
+There were no houses to clean.
+[23/07/2015 17:10:25]  :: Houses cleaned:
+
+There were no houses to clean.
+[23/07/2015 17:44:19]  :: Houses cleaned:
+
+There were no houses to clean.
+[23/07/2015 17:56:43]  :: Houses cleaned:
+
+There were no houses to clean.
+[23/07/2015 17:59:59]  :: Houses cleaned:
+
+There were no houses to clean.
+[23/07/2015 18:05:19]  :: Houses cleaned:
+
+There were no houses to clean.
+[23/07/2015 18:17:53]  :: Houses cleaned:
+
+There were no houses to clean.
+[23/07/2015 18:20:31]  :: Houses cleaned:
+
+There were no houses to clean.
+[23/07/2015 18:25:22]  :: Houses cleaned:
+
+There were no houses to clean.
+[23/07/2015 18:31:14]  :: Houses cleaned:
+
+There were no houses to clean.
+[23/07/2015 18:36:18]  :: Houses cleaned:
+
+There were no houses to clean.
+[23/07/2015 18:41:23]  :: Houses cleaned:
+
+There were no houses to clean.
+[23/07/2015 18:50:26]  :: Houses cleaned:
+
+There were no houses to clean.
+[23/07/2015 19:04:34]  :: Houses cleaned:
+
+There were no houses to clean.
+[23/07/2015 19:15:42]  :: Houses cleaned:
+
+There were no houses to clean.
+[23/07/2015 19:48:45]  :: Houses cleaned:
+
+There were no houses to clean.
+[23/07/2015 20:03:55]  :: Houses cleaned:
+
+There were no houses to clean.
+[23/07/2015 20:11:49]  :: Houses cleaned:
+
+There were no houses to clean.
+[23/07/2015 20:44:22]  :: Houses cleaned:
+
+There were no houses to clean.
+[23/07/2015 21:58:26]  :: Houses cleaned:
+
+There were no houses to clean.
+[24/07/2015 01:17:54]  :: Houses cleaned:
+
+There were no houses to clean.
+[24/07/2015 01:25:15]  :: Houses cleaned:
+
+There were no houses to clean.
+[24/07/2015 03:37:05]  :: Houses cleaned:
+
+There were no houses to clean.
+[24/07/2015 19:14:56]  :: Houses cleaned:
+
+There were no houses to clean.
+[24/07/2015 19:38:53]  :: Houses cleaned:
+
+There were no houses to clean.
+[24/07/2015 19:44:35]  :: Houses cleaned:
+
+There were no houses to clean.
+[24/07/2015 19:46:00]  :: Houses cleaned:
+
+There were no houses to clean.
+[24/07/2015 20:11:25]  :: Houses cleaned:
+
+There were no houses to clean.
+[24/07/2015 20:18:09]  :: Houses cleaned:
+
+There were no houses to clean.
+[24/07/2015 21:13:20]  :: Houses cleaned:
+
+There were no houses to clean.
+[24/07/2015 21:25:36]  :: Houses cleaned:
+
+There were no houses to clean.
+[25/07/2015 12:42:36]  :: Houses cleaned:
+
+There were no houses to clean.
+[25/07/2015 12:45:40]  :: Houses cleaned:
+
+There were no houses to clean.
+[25/07/2015 12:49:18]  :: Houses cleaned:
+
+There were no houses to clean.
+[25/07/2015 16:32:41]  :: Houses cleaned:
+
+There were no houses to clean.
+[25/07/2015 23:24:26]  :: Houses cleaned:
+
+There were no houses to clean.
+[26/07/2015 00:04:24]  :: Houses cleaned:
+
+There were no houses to clean.
+[26/07/2015 00:09:16]  :: Houses cleaned:
+
+There were no houses to clean.
+[26/07/2015 00:12:02]  :: Houses cleaned:
+
+There were no houses to clean.
+[26/07/2015 00:20:11]  :: Houses cleaned:
+
+There were no houses to clean.
+[26/07/2015 00:25:47]  :: Houses cleaned:
+
+There were no houses to clean.
+[26/07/2015 03:01:40]  :: Houses cleaned:
+
+There were no houses to clean.
+[26/07/2015 06:33:14]  :: Houses cleaned:
+
+There were no houses to clean.
+[26/07/2015 07:17:29]  :: Houses cleaned:
+
+There were no houses to clean.
+[26/07/2015 07:19:46]  :: Houses cleaned:
+
+There were no houses to clean.
+[26/07/2015 08:00:14]  :: Houses cleaned:
+
+There were no houses to clean.
+[26/07/2015 09:44:51]  :: Houses cleaned:
+
+There were no houses to clean.
+[26/07/2015 11:35:52]  :: Houses cleaned:
+
+There were no houses to clean.
+[26/07/2015 11:38:21]  :: Houses cleaned:
+
+There were no houses to clean.
+[26/07/2015 11:39:07]  :: Houses cleaned:
+
+There were no houses to clean.
+[26/07/2015 11:39:59]  :: Houses cleaned:
+
+There were no houses to clean.
+[26/07/2015 13:08:30]  :: Houses cleaned:
+
+There were no houses to clean.
+[26/07/2015 13:26:26]  :: Houses cleaned:
+
+There were no houses to clean.
+[26/07/2015 13:26:36]  :: Houses cleaned:
+
+There were no houses to clean.
+[26/07/2015 17:50:36]  :: Houses cleaned:
+
+There were no houses to clean.
+[26/07/2015 18:23:02]  :: Houses cleaned:
+
+There were no houses to clean.
+[26/07/2015 18:24:26]  :: Houses cleaned:
+
+There were no houses to clean.
+[26/07/2015 18:50:57]  :: Houses cleaned:
+
+There were no houses to clean.
+[26/07/2015 18:55:48]  :: Houses cleaned:
+
+There were no houses to clean.
+[26/07/2015 19:52:01]  :: Houses cleaned:
+
+There were no houses to clean.
+[26/07/2015 19:54:16]  :: Houses cleaned:
+
+There were no houses to clean.
+[23/02/2018 20:56:33]  :: Houses cleaned:
+
+There were no houses to clean.
+[23/02/2018 21:18:22]  :: Houses cleaned:
+
+There were no houses to clean.
+[23/02/2018 22:01:15]  :: Houses cleaned:
+
+There were no houses to clean.
+[23/02/2018 22:31:12]  :: Houses cleaned:
+
+There were no houses to clean.
+[23/02/2018 22:50:22]  :: Houses cleaned:
+
+There were no houses to clean.
+[23/02/2018 22:55:51]  :: Houses cleaned:
+
+There were no houses to clean.
+[23/02/2018 23:06:52]  :: Houses cleaned:
+
+There were no houses to clean.
+[23/02/2018 23:11:57]  :: Houses cleaned:
+
+There were no houses to clean.
+[23/02/2018 23:14:48]  :: Houses cleaned:
+
+There were no houses to clean.
+[24/02/2018 01:56:11]  :: Houses cleaned:
+
+There were no houses to clean.
+[24/02/2018 12:05:22]  :: Houses cleaned:
+
+There were no houses to clean.
+[24/02/2018 15:02:25]  :: Houses cleaned:
+
+There were no houses to clean.
+[24/02/2018 16:40:46]  :: Houses cleaned:
+
+There were no houses to clean.
+[25/02/2018 01:01:34]  :: Houses cleaned:
+
+There were no houses to clean.
+[25/02/2018 04:50:43]  :: Houses cleaned:
+
+There were no houses to clean.
+[25/02/2018 04:54:47]  :: Houses cleaned:
+
+There were no houses to clean.
+[25/02/2018 04:57:05]  :: Houses cleaned:
+
+There were no houses to clean.
+[25/02/2018 16:52:27]  :: Houses cleaned:
+
+There were no houses to clean.
+[25/02/2018 18:46:38]  :: Houses cleaned:
+
+There were no houses to clean.
+[25/02/2018 18:55:14]  :: Houses cleaned:
+
+There were no houses to clean.
+[25/02/2018 19:24:06]  :: Houses cleaned:
+
+There were no houses to clean.
+[25/02/2018 22:04:58]  :: Houses cleaned:
+
+There were no houses to clean.
+[25/02/2018 22:10:09]  :: Houses cleaned:
+
+There were no houses to clean.
+[25/02/2018 22:20:30]  :: Houses cleaned:
+
+There were no houses to clean.
+[25/02/2018 22:24:09]  :: Houses cleaned:
+
+There were no houses to clean.
+[25/02/2018 22:26:17]  :: Houses cleaned:
+
+There were no houses to clean.
+[25/02/2018 22:29:03]  :: Houses cleaned:
+
+There were no houses to clean.
+[25/02/2018 22:31:43]  :: Houses cleaned:
+
+There were no houses to clean.
+[25/02/2018 22:33:35]  :: Houses cleaned:
+
+There were no houses to clean.
+[25/02/2018 22:35:57]  :: Houses cleaned:
+
+There were no houses to clean.
+[25/02/2018 22:37:14]  :: Houses cleaned:
+
+There were no houses to clean.
+[25/02/2018 22:38:42]  :: Houses cleaned:
+
+There were no houses to clean.
+[25/02/2018 22:40:03]  :: Houses cleaned:
+
+There were no houses to clean.
+[25/02/2018 22:42:29]  :: Houses cleaned:
+
+There were no houses to clean.
+[25/02/2018 23:07:46]  :: Houses cleaned:
+
+There were no houses to clean.
+[25/02/2018 23:10:43]  :: Houses cleaned:
+
+There were no houses to clean.
+[25/02/2018 23:12:31]  :: Houses cleaned:
+
+There were no houses to clean.
+[25/02/2018 23:16:09]  :: Houses cleaned:
+
+There were no houses to clean.
+[26/02/2018 00:11:56]  :: Houses cleaned:
+
+There were no houses to clean.
+[26/02/2018 00:17:46]  :: Houses cleaned:
+
+There were no houses to clean.
+[26/02/2018 00:25:18]  :: Houses cleaned:
+
+There were no houses to clean.
+[26/02/2018 00:28:38]  :: Houses cleaned:
+
+There were no houses to clean.
+[26/02/2018 00:32:42]  :: Houses cleaned:
+
+There were no houses to clean.
+[26/02/2018 00:44:09]  :: Houses cleaned:
+
+There were no houses to clean.
+[26/02/2018 00:51:56]  :: Houses cleaned:
+
+There were no houses to clean.
+[26/02/2018 00:59:33]  :: Houses cleaned:
+
+There were no houses to clean.
+[26/02/2018 09:23:26]  :: Houses cleaned:
+
+There were no houses to clean.
+[26/02/2018 09:54:07]  :: Houses cleaned:
+
+There were no houses to clean.
+[26/02/2018 09:58:16]  :: Houses cleaned:
+
+There were no houses to clean.
+[26/02/2018 10:02:12]  :: Houses cleaned:
+
+There were no houses to clean.
+[26/02/2018 10:04:53]  :: Houses cleaned:
+
+There were no houses to clean.
+[26/02/2018 10:07:15]  :: Houses cleaned:
+
+There were no houses to clean.
+[26/02/2018 10:11:20]  :: Houses cleaned:
+
+There were no houses to clean.
+[26/02/2018 10:15:51]  :: Houses cleaned:
+
+There were no houses to clean.
+[26/02/2018 10:16:50]  :: Houses cleaned:
+
+There were no houses to clean.
+[26/02/2018 10:19:31]  :: Houses cleaned:
+
+There were no houses to clean.
+[26/02/2018 10:26:14]  :: Houses cleaned:
+
+There were no houses to clean.
+[26/02/2018 10:28:49]  :: Houses cleaned:
+
+There were no houses to clean.
+[26/02/2018 10:31:42]  :: Houses cleaned:
+
+There were no houses to clean.
+[26/02/2018 10:40:21]  :: Houses cleaned:
+
+There were no houses to clean.
+[26/02/2018 10:42:37]  :: Houses cleaned:
+
+There were no houses to clean.
+[26/02/2018 11:19:37]  :: Houses cleaned:
+
+There were no houses to clean.
+[26/02/2018 11:52:08]  :: Houses cleaned:
+
+There were no houses to clean.
+[26/02/2018 12:04:42]  :: Houses cleaned:
+
+There were no houses to clean.
+[26/02/2018 12:24:43]  :: Houses cleaned:
+
+There were no houses to clean.
+[26/02/2018 12:27:41]  :: Houses cleaned:
+
+There were no houses to clean.
+[26/02/2018 12:29:14]  :: Houses cleaned:
+
+There were no houses to clean.
+[26/02/2018 13:15:35]  :: Houses cleaned:
+
+There were no houses to clean.
+[26/02/2018 13:17:49]  :: Houses cleaned:
+
+There were no houses to clean.
+[26/02/2018 13:20:46]  :: Houses cleaned:
+
+There were no houses to clean.
+[26/02/2018 13:22:46]  :: Houses cleaned:
+
+There were no houses to clean.
+[26/02/2018 13:24:47]  :: Houses cleaned:
+
+There were no houses to clean.
+[26/02/2018 13:26:12]  :: Houses cleaned:
+
+There were no houses to clean.
+[26/02/2018 13:28:39]  :: Houses cleaned:
+
+There were no houses to clean.
+[26/02/2018 13:30:05]  :: Houses cleaned:
+
+There were no houses to clean.
+[26/02/2018 13:43:57]  :: Houses cleaned:
+
+There were no houses to clean.
+[26/02/2018 13:57:44]  :: Houses cleaned:
+
+There were no houses to clean.
+[26/02/2018 14:05:48]  :: Houses cleaned:
+
+There were no houses to clean.
+[26/02/2018 14:06:54]  :: Houses cleaned:
+
+There were no houses to clean.
+[26/02/2018 14:12:16]  :: Houses cleaned:
+
+There were no houses to clean.
+[26/02/2018 14:16:43]  :: Houses cleaned:
+
+There were no houses to clean.
+[26/02/2018 14:19:00]  :: Houses cleaned:
+
+There were no houses to clean.
+[26/02/2018 14:20:13]  :: Houses cleaned:
+
+There were no houses to clean.
+[26/02/2018 14:23:09]  :: Houses cleaned:
+
+There were no houses to clean.
+[26/02/2018 21:22:07]  :: Houses cleaned:
+
+There were no houses to clean.
+[26/02/2018 22:47:44]  :: Houses cleaned:
+
+There were no houses to clean.
+[26/02/2018 23:03:29]  :: Houses cleaned:
+
+There were no houses to clean.
+[26/02/2018 23:07:28]  :: Houses cleaned:
+
+There were no houses to clean.
+[26/02/2018 23:13:51]  :: Houses cleaned:
+
+There were no houses to clean.
+[27/02/2018 14:41:24]  :: Houses cleaned:
+
+There were no houses to clean.
+[27/02/2018 15:30:20]  :: Houses cleaned:
+
+There were no houses to clean.
+[27/02/2018 15:33:43]  :: Houses cleaned:
+
+There were no houses to clean.
+[27/02/2018 15:58:21]  :: Houses cleaned:
+
+There were no houses to clean.
+[27/02/2018 16:20:24]  :: Houses cleaned:
+
+There were no houses to clean.
+[27/02/2018 22:54:39]  :: Houses cleaned:
+
+There were no houses to clean.
+[27/02/2018 23:03:50]  :: Houses cleaned:
+
+There were no houses to clean.
+[27/02/2018 23:19:38]  :: Houses cleaned:
+
+There were no houses to clean.
+[27/02/2018 23:35:08]  :: Houses cleaned:
+
+There were no houses to clean.
+[27/02/2018 23:40:30]  :: Houses cleaned:
+
+There were no houses to clean.
+[28/02/2018 00:05:06]  :: Houses cleaned:
+
+There were no houses to clean.
+[28/02/2018 00:07:24]  :: Houses cleaned:
+
+There were no houses to clean.
+[28/02/2018 00:14:53]  :: Houses cleaned:
+
+There were no houses to clean.
+[28/02/2018 00:19:39]  :: Houses cleaned:
+
+There were no houses to clean.
+[28/02/2018 00:27:03]  :: Houses cleaned:
+
+There were no houses to clean.
+[28/02/2018 00:28:47]  :: Houses cleaned:
+
+There were no houses to clean.
+[28/02/2018 00:38:21]  :: Houses cleaned:
+
+There were no houses to clean.
+[28/02/2018 00:42:19]  :: Houses cleaned:
+
+There were no houses to clean.
+[28/02/2018 00:44:52]  :: Houses cleaned:
+
+There were no houses to clean.
+[28/02/2018 07:25:47]  :: Houses cleaned:
+
+There were no houses to clean.
+[28/02/2018 07:30:21]  :: Houses cleaned:
+
+There were no houses to clean.
+[28/02/2018 07:32:43]  :: Houses cleaned:
+
+There were no houses to clean.
+[28/02/2018 08:03:45]  :: Houses cleaned:
+
+There were no houses to clean.
+[28/02/2018 08:44:31]  :: Houses cleaned:
+
+There were no houses to clean.
+[28/02/2018 08:47:35]  :: Houses cleaned:
+
+There were no houses to clean.
+[28/02/2018 09:02:34]  :: Houses cleaned:
+
+There were no houses to clean.
+[28/02/2018 09:31:21]  :: Houses cleaned:
+
+There were no houses to clean.
+[28/02/2018 09:47:33]  :: Houses cleaned:
+
+There were no houses to clean.
+[28/02/2018 09:49:40]  :: Houses cleaned:
+
+There were no houses to clean.
+[28/02/2018 10:14:33]  :: Houses cleaned:
+
+There were no houses to clean.
+[28/02/2018 10:52:56]  :: Houses cleaned:
+
+There were no houses to clean.
+[28/02/2018 11:17:16]  :: Houses cleaned:
+
+There were no houses to clean.
+[28/02/2018 11:21:26]  :: Houses cleaned:
+
+There were no houses to clean.
+[28/02/2018 11:26:30]  :: Houses cleaned:
+
+There were no houses to clean.
+[28/02/2018 11:36:45]  :: Houses cleaned:
+
+There were no houses to clean.
+[28/02/2018 11:41:32]  :: Houses cleaned:
+
+There were no houses to clean.
+[28/02/2018 12:12:06]  :: Houses cleaned:
+
+There were no houses to clean.
+[28/02/2018 12:24:44]  :: Houses cleaned:
+
+There were no houses to clean.
+[28/02/2018 14:31:20]  :: Houses cleaned:
+
+There were no houses to clean.
+[28/02/2018 14:39:52]  :: Houses cleaned:
+
+There were no houses to clean.
+[28/02/2018 14:47:32]  :: Houses cleaned:
+
+There were no houses to clean.
+[28/02/2018 14:49:28]  :: Houses cleaned:
+
+There were no houses to clean.
+[28/02/2018 15:05:57]  :: Houses cleaned:
+
+There were no houses to clean.
+[28/02/2018 15:07:28]  :: Houses cleaned:
+
+There were no houses to clean.
+[28/02/2018 15:08:16]  :: Houses cleaned:
+
+There were no houses to clean.
+[28/02/2018 15:09:37]  :: Houses cleaned:
+
+There were no houses to clean.
+[28/02/2018 15:15:23]  :: Houses cleaned:
+
+There were no houses to clean.
+[28/02/2018 15:23:22]  :: Houses cleaned:
+
+There were no houses to clean.
+[28/02/2018 15:39:55]  :: Houses cleaned:
+
+There were no houses to clean.
+[28/02/2018 15:41:47]  :: Houses cleaned:
+
+There were no houses to clean.
+[28/02/2018 15:45:48]  :: Houses cleaned:
+
+There were no houses to clean.
+[28/02/2018 16:19:45]  :: Houses cleaned:
+
+There were no houses to clean.
+[28/02/2018 16:41:55]  :: Houses cleaned:
+
+There were no houses to clean.
+[28/02/2018 16:46:50]  :: Houses cleaned:
+
+There were no houses to clean.
+[28/02/2018 16:54:06]  :: Houses cleaned:
+
+There were no houses to clean.
+[28/02/2018 16:55:33]  :: Houses cleaned:
+
+There were no houses to clean.
+[28/02/2018 17:01:51]  :: Houses cleaned:
+
+There were no houses to clean.
+[28/02/2018 17:06:32]  :: Houses cleaned:
+
+There were no houses to clean.
+[28/02/2018 17:08:08]  :: Houses cleaned:
+
+There were no houses to clean.
+[28/02/2018 17:11:27]  :: Houses cleaned:
+
+There were no houses to clean.
+[28/02/2018 17:19:01]  :: Houses cleaned:
+
+There were no houses to clean.
+[28/02/2018 17:23:21]  :: Houses cleaned:
+
+There were no houses to clean.
+[28/02/2018 17:26:54]  :: Houses cleaned:
+
+There were no houses to clean.
+[28/02/2018 17:27:45]  :: Houses cleaned:
+
+There were no houses to clean.
+[28/02/2018 17:30:02]  :: Houses cleaned:
+
+There were no houses to clean.
+[28/02/2018 17:31:17]  :: Houses cleaned:
+
+There were no houses to clean.
+[28/02/2018 17:40:34]  :: Houses cleaned:
+
+There were no houses to clean.
+[28/02/2018 17:44:00]  :: Houses cleaned:
+
+There were no houses to clean.
+[28/02/2018 17:47:13]  :: Houses cleaned:
+
+There were no houses to clean.
+[28/02/2018 17:48:30]  :: Houses cleaned:
+
+There were no houses to clean.
+[28/02/2018 17:53:08]  :: Houses cleaned:
+
+There were no houses to clean.
+[28/02/2018 18:17:05]  :: Houses cleaned:
+
+There were no houses to clean.
+[28/02/2018 18:22:29]  :: Houses cleaned:
+
+There were no houses to clean.
+[28/02/2018 18:29:00]  :: Houses cleaned:
+
+There were no houses to clean.
+[28/02/2018 18:37:15]  :: Houses cleaned:
+
+There were no houses to clean.
+[28/02/2018 18:40:50]  :: Houses cleaned:
+
+There were no houses to clean.
+[28/02/2018 18:47:09]  :: Houses cleaned:
+
+There were no houses to clean.
+[28/02/2018 19:28:54]  :: Houses cleaned:
+
+There were no houses to clean.
+[28/02/2018 19:36:15]  :: Houses cleaned:
+
+There were no houses to clean.
+[28/02/2018 19:40:02]  :: Houses cleaned:
+
+There were no houses to clean.
+[28/02/2018 19:44:16]  :: Houses cleaned:
+
+There were no houses to clean.
+[28/02/2018 19:53:39]  :: Houses cleaned:
+
+There were no houses to clean.
+[28/02/2018 20:03:19]  :: Houses cleaned:
+
+There were no houses to clean.
+[28/02/2018 20:06:13]  :: Houses cleaned:
+
+There were no houses to clean.
+[28/02/2018 20:27:39]  :: Houses cleaned:
+
+There were no houses to clean.
+[28/02/2018 20:58:12]  :: Houses cleaned:
+
+There were no houses to clean.
+[28/02/2018 21:15:19]  :: Houses cleaned:
+
+There were no houses to clean.
+[28/02/2018 21:16:32]  :: Houses cleaned:
+
+There were no houses to clean.
+[28/02/2018 21:18:37]  :: Houses cleaned:
+
+There were no houses to clean.
+[28/02/2018 21:19:28]  :: Houses cleaned:
+
+There were no houses to clean.
+[28/02/2018 21:24:58]  :: Houses cleaned:
+
+There were no houses to clean.
+[28/02/2018 21:29:59]  :: Houses cleaned:
+
+There were no houses to clean.
+[01/03/2018 05:52:05]  :: Houses cleaned:
+
+There were no houses to clean.
+[01/03/2018 06:03:49]  :: Houses cleaned:
+
+There were no houses to clean.
+[22/02/2018 12:49:53]  :: Houses cleaned:
+
+There were no houses to clean.
+[22/02/2018 14:48:02]  :: Houses cleaned:
+
+There were no houses to clean.
+[01/03/2018 15:08:29]  :: Houses cleaned:
+
+There were no houses to clean.
+[01/03/2018 15:22:34]  :: Houses cleaned:
+
+There were no houses to clean.
+[01/03/2018 15:51:36]  :: Houses cleaned:
+
+There were no houses to clean.
+[01/03/2018 16:26:51]  :: Houses cleaned:
+
+There were no houses to clean.
+[01/03/2018 17:47:53]  :: Houses cleaned:
+
+There were no houses to clean.
+[01/03/2018 17:50:57]  :: Houses cleaned:
+
+There were no houses to clean.
+[01/03/2018 18:21:49]  :: Houses cleaned:
+
+There were no houses to clean.
+[01/03/2018 20:27:52]  :: Houses cleaned:
+
+There were no houses to clean.
+[01/03/2018 21:59:04]  :: Houses cleaned:
+
+There were no houses to clean.
+[01/03/2018 22:01:41]  :: Houses cleaned:
+
+There were no houses to clean.
+[01/03/2018 22:03:51]  :: Houses cleaned:
+
+There were no houses to clean.
+[01/03/2018 22:08:12]  :: Houses cleaned:
+
+There were no houses to clean.
+[02/03/2018 01:47:15]  :: Houses cleaned:
+
+There were no houses to clean.
+[02/03/2018 01:55:31]  :: Houses cleaned:
+
+There were no houses to clean.
+[02/03/2018 01:57:19]  :: Houses cleaned:
+
+There were no houses to clean.
+[02/03/2018 02:02:05]  :: Houses cleaned:
+
+There were no houses to clean.
+[02/03/2018 02:39:21]  :: Houses cleaned:
+
+There were no houses to clean.
+[02/03/2018 02:41:21]  :: Houses cleaned:
+
+There were no houses to clean.
+[02/03/2018 02:47:36]  :: Houses cleaned:
+
+There were no houses to clean.
+[02/03/2018 02:50:40]  :: Houses cleaned:
+
+There were no houses to clean.
+[02/03/2018 03:17:44]  :: Houses cleaned:
+
+There were no houses to clean.
+[02/03/2018 03:35:50]  :: Houses cleaned:
+
+There were no houses to clean.
+[02/03/2018 04:33:00]  :: Houses cleaned:
+
+There were no houses to clean.
+[02/03/2018 04:36:58]  :: Houses cleaned:
+
+There were no houses to clean.
+[02/03/2018 04:37:24]  :: Houses cleaned:
+
+There were no houses to clean.
+[02/03/2018 04:41:09]  :: Houses cleaned:
+
+There were no houses to clean.
+[02/03/2018 04:44:31]  :: Houses cleaned:
+
+There were no houses to clean.
+[02/03/2018 04:53:39]  :: Houses cleaned:
+
+There were no houses to clean.
+[02/03/2018 05:09:53]  :: Houses cleaned:
+
+There were no houses to clean.
+[02/03/2018 05:11:27]  :: Houses cleaned:
+
+There were no houses to clean.
+[02/03/2018 05:14:39]  :: Houses cleaned:
+
+There were no houses to clean.
+[02/03/2018 05:42:49]  :: Houses cleaned:
+
+There were no houses to clean.
+[02/03/2018 05:43:29]  :: Houses cleaned:
+
+There were no houses to clean.
+[02/03/2018 05:45:29]  :: Houses cleaned:
+
+There were no houses to clean.
+[02/03/2018 06:09:41]  :: Houses cleaned:
+
+There were no houses to clean.
+[02/03/2018 06:16:57]  :: Houses cleaned:
+
+There were no houses to clean.
+[02/03/2018 16:12:29]  :: Houses cleaned:
+
+There were no houses to clean.
+[02/03/2018 16:15:16]  :: Houses cleaned:
+
+There were no houses to clean.
+[02/03/2018 17:00:07]  :: Houses cleaned:
+
+There were no houses to clean.
+[02/03/2018 17:17:44]  :: Houses cleaned:
+
+There were no houses to clean.
+[02/03/2018 17:18:48]  :: Houses cleaned:
+
+There were no houses to clean.
+[02/03/2018 19:03:30]  :: Houses cleaned:
+
+There were no houses to clean.
+[02/03/2018 19:06:04]  :: Houses cleaned:
+
+There were no houses to clean.
+[02/03/2018 19:07:36]  :: Houses cleaned:
+
+There were no houses to clean.
+[02/03/2018 19:09:53]  :: Houses cleaned:
+
+There were no houses to clean.
+[02/03/2018 19:27:55]  :: Houses cleaned:
+
+There were no houses to clean.
+[02/03/2018 19:55:24]  :: Houses cleaned:
+
+There were no houses to clean.
+[02/03/2018 20:43:36]  :: Houses cleaned:
+
+There were no houses to clean.
+[02/03/2018 21:34:48]  :: Houses cleaned:
+
+There were no houses to clean.
+[02/03/2018 21:35:13]  :: Houses cleaned:
+
+There were no houses to clean.
+[03/03/2018 00:53:44]  :: Houses cleaned:
+
+There were no houses to clean.
+[03/03/2018 01:47:51]  :: Houses cleaned:
+
+There were no houses to clean.
+[03/03/2018 01:48:59]  :: Houses cleaned:
+
+There were no houses to clean.
+[03/03/2018 12:13:00]  :: Houses cleaned:
+
+There were no houses to clean.
+[03/03/2018 12:15:15]  :: Houses cleaned:
+
+There were no houses to clean.
+[03/03/2018 12:19:02]  :: Houses cleaned:
+
+There were no houses to clean.
+[03/03/2018 13:24:17]  :: Houses cleaned:
+
+There were no houses to clean.
+[03/03/2018 13:41:45]  :: Houses cleaned:
+
+There were no houses to clean.
+[03/03/2018 13:47:39]  :: Houses cleaned:
+
+There were no houses to clean.
+[03/03/2018 14:59:42]  :: Houses cleaned:
+
+There were no houses to clean.
+[03/03/2018 15:56:37]  :: Houses cleaned:
+
+There were no houses to clean.
+[03/03/2018 21:22:40]  :: Houses cleaned:
+
+There were no houses to clean.
+[03/03/2018 22:29:07]  :: Houses cleaned:
+
+There were no houses to clean.
+[04/03/2018 01:18:23]  :: Houses cleaned:
+
+There were no houses to clean.
+[04/03/2018 03:16:30]  :: Houses cleaned:
+
+There were no houses to clean.
+[04/03/2018 03:17:24]  :: Houses cleaned:
+
+There were no houses to clean.
+[04/03/2018 03:22:19]  :: Houses cleaned:
+
+There were no houses to clean.
+[04/03/2018 03:34:11]  :: Houses cleaned:
+
+There were no houses to clean.
+[04/03/2018 13:39:03]  :: Houses cleaned:
+
+There were no houses to clean.
+[04/03/2018 15:32:55]  :: Houses cleaned:
+
+There were no houses to clean.
+[04/03/2018 15:51:57]  :: Houses cleaned:
+
+There were no houses to clean.
+[04/03/2018 15:57:18]  :: Houses cleaned:
+
+There were no houses to clean.
+[04/03/2018 19:21:41]  :: Houses cleaned:
+
+There were no houses to clean.
+[04/03/2018 19:26:30]  :: Houses cleaned:
+
+There were no houses to clean.
+[04/03/2018 19:27:12]  :: Houses cleaned:
+
+There were no houses to clean.
+[04/03/2018 19:28:26]  :: Houses cleaned:
+
+There were no houses to clean.
+[04/03/2018 19:32:22]  :: Houses cleaned:
+
+There were no houses to clean.
+[04/03/2018 19:33:15]  :: Houses cleaned:
+
+There were no houses to clean.
+[04/03/2018 19:36:05]  :: Houses cleaned:
+
+There were no houses to clean.
+[04/03/2018 19:37:30]  :: Houses cleaned:
+
+There were no houses to clean.
+[04/03/2018 19:39:19]  :: Houses cleaned:
+
+There were no houses to clean.
+[04/03/2018 19:52:22]  :: Houses cleaned:
+
+There were no houses to clean.
+[05/03/2018 01:23:33]  :: Houses cleaned:
+
+There were no houses to clean.
+[05/03/2018 01:35:33]  :: Houses cleaned:
+
+There were no houses to clean.
+[05/03/2018 01:58:50]  :: Houses cleaned:
+
+There were no houses to clean.
+[05/03/2018 03:09:27]  :: Houses cleaned:
+
+There were no houses to clean.
+[05/03/2018 03:23:56]  :: Houses cleaned:
+
+There were no houses to clean.
+[05/03/2018 12:28:22]  :: Houses cleaned:
+
+There were no houses to clean.
+[05/03/2018 17:37:04]  :: Houses cleaned:
+
+There were no houses to clean.
+[05/03/2018 17:47:58]  :: Houses cleaned:
+
+There were no houses to clean.
+[05/03/2018 17:52:15]  :: Houses cleaned:
+
+There were no houses to clean.
+[05/03/2018 17:55:04]  :: Houses cleaned:
+
+There were no houses to clean.
+[05/03/2018 18:05:04]  :: Houses cleaned:
+
+There were no houses to clean.
+[05/03/2018 18:08:18]  :: Houses cleaned:
+
+There were no houses to clean.
+[05/03/2018 18:09:09]  :: Houses cleaned:
+
+There were no houses to clean.
+[05/03/2018 18:19:39]  :: Houses cleaned:
+
+There were no houses to clean.
+[05/03/2018 18:20:42]  :: Houses cleaned:
+
+There were no houses to clean.
+[08/01/2018 20:17:29]  :: Houses cleaned:
+
+There were no houses to clean.
+[08/01/2018 20:19:18]  :: Houses cleaned:
+
+There were no houses to clean.
+[08/01/2018 20:19:40]  :: Houses cleaned:
+
+There were no houses to clean.
+[08/01/2018 20:37:22]  :: Houses cleaned:
+
+There were no houses to clean.
+[08/01/2018 21:03:15]  :: Houses cleaned:
+
+There were no houses to clean.
+[08/01/2018 21:04:50]  :: Houses cleaned:
+
+There were no houses to clean.
+[08/01/2018 21:25:01]  :: Houses cleaned:
+
+There were no houses to clean.
+[08/01/2018 21:27:53]  :: Houses cleaned:
+
+There were no houses to clean.
+[08/01/2018 22:09:44]  :: Houses cleaned:
+
+There were no houses to clean.
+[08/01/2018 22:12:29]  :: Houses cleaned:
+
+There were no houses to clean.
+[08/01/2018 22:19:30]  :: Houses cleaned:
+
+There were no houses to clean.
+[08/01/2018 22:41:21]  :: Houses cleaned:
+
+There were no houses to clean.
+[08/01/2018 23:46:41]  :: Houses cleaned:
+
+There were no houses to clean.
+[08/01/2018 23:51:17]  :: Houses cleaned:
+
+There were no houses to clean.
+[08/01/2018 23:52:34]  :: Houses cleaned:
+
+There were no houses to clean.
+[08/01/2018 23:53:15]  :: Houses cleaned:
+
+There were no houses to clean.
+[09/03/2018 05:52:03]  :: Houses cleaned:
+
+There were no houses to clean.
+[09/03/2018 12:32:22]  :: Houses cleaned:
+
+There were no houses to clean.
+[09/03/2018 13:18:02]  :: Houses cleaned:
+
+There were no houses to clean.
+[09/03/2018 13:34:15]  :: Houses cleaned:
+
+There were no houses to clean.
+[09/03/2018 13:38:58]  :: Houses cleaned:
+
+There were no houses to clean.
+[09/03/2018 14:00:17]  :: Houses cleaned:
+
+There were no houses to clean.
+[09/03/2018 14:02:28]  :: Houses cleaned:
+
+There were no houses to clean.
+[09/03/2018 14:25:05]  :: Houses cleaned:
+
+There were no houses to clean.
+[09/03/2018 14:52:39]  :: Houses cleaned:
+
+There were no houses to clean.
+[09/03/2018 14:55:00]  :: Houses cleaned:
+
+There were no houses to clean.
+[09/03/2018 16:22:43]  :: Houses cleaned:
+
+There were no houses to clean.
+[09/03/2018 16:25:18]  :: Houses cleaned:
+
+There were no houses to clean.
+[09/03/2018 16:45:25]  :: Houses cleaned:
+
+There were no houses to clean.
+[31/03/2018 17:13:41]  :: Houses cleaned:
+
+There were no houses to clean.
+[31/03/2018 17:14:49]  :: Houses cleaned:
+
+There were no houses to clean.
+[31/03/2018 17:58:12]  :: Houses cleaned:
+
+There were no houses to clean.
+[31/03/2018 18:04:27]  :: Houses cleaned:
+
+There were no houses to clean.
+[31/03/2018 23:31:24]  :: Houses cleaned:
+
+There were no houses to clean.
+[31/03/2018 23:33:41]  :: Houses cleaned:
+
+There were no houses to clean.
+[31/03/2018 23:35:25]  :: Houses cleaned:
+
+There were no houses to clean.
+[31/03/2018 23:40:54]  :: Houses cleaned:
+
+There were no houses to clean.
+[31/03/2018 23:46:17]  :: Houses cleaned:
+
+There were no houses to clean.
+[01/04/2018 00:42:06]  :: Houses cleaned:
+
+There were no houses to clean.
+[01/04/2018 00:43:54]  :: Houses cleaned:
+
+There were no houses to clean.
+[01/04/2018 01:06:51]  :: Houses cleaned:
+
+There were no houses to clean.
+[01/04/2018 01:37:27]  :: Houses cleaned:
+
+There were no houses to clean.
+[01/04/2018 01:41:27]  :: Houses cleaned:
+
+There were no houses to clean.
+[01/04/2018 17:07:23]  :: Houses cleaned:
+
+There were no houses to clean.
+[01/04/2018 17:27:42]  :: Houses cleaned:
+
+There were no houses to clean.
+[01/04/2018 17:48:46]  :: Houses cleaned:
+
+There were no houses to clean.
+[01/04/2018 17:50:55]  :: Houses cleaned:
+
+There were no houses to clean.
+[01/04/2018 17:56:55]  :: Houses cleaned:
+
+There were no houses to clean.
+[01/04/2018 18:01:08]  :: Houses cleaned:
+
+There were no houses to clean.
+[02/04/2018 00:51:44]  :: Houses cleaned:
+
+There were no houses to clean.
+[02/04/2018 00:53:10]  :: Houses cleaned:
+
+There were no houses to clean.
+[02/04/2018 00:54:52]  :: Houses cleaned:
+
+There were no houses to clean.
+[02/04/2018 00:55:40]  :: Houses cleaned:
+
+There were no houses to clean.
+[02/04/2018 00:56:46]  :: Houses cleaned:
+
+There were no houses to clean.
+[02/04/2018 00:58:02]  :: Houses cleaned:
+
+There were no houses to clean.
+[02/04/2018 00:58:59]  :: Houses cleaned:
+
+There were no houses to clean.
+[02/04/2018 01:56:06]  :: Houses cleaned:
+
+There were no houses to clean.
+[02/04/2018 02:03:31]  :: Houses cleaned:
+
+There were no houses to clean.
+[02/04/2018 06:01:18]  :: Houses cleaned:
+
+There were no houses to clean.
+[02/04/2018 13:17:54]  :: Houses cleaned:
+
+There were no houses to clean.
+[02/04/2018 13:41:36]  :: Houses cleaned:
+
+There were no houses to clean.
+[02/04/2018 13:51:37]  :: Houses cleaned:
+
+There were no houses to clean.
+[02/04/2018 13:53:48]  :: Houses cleaned:
+
+There were no houses to clean.
+[02/04/2018 14:06:39]  :: Houses cleaned:
+
+There were no houses to clean.
+[02/04/2018 15:17:30]  :: Houses cleaned:
+
+There were no houses to clean.
+[02/04/2018 15:21:26]  :: Houses cleaned:
+
+There were no houses to clean.
+[02/04/2018 15:25:59]  :: Houses cleaned:
+
+There were no houses to clean.
+[02/04/2018 15:47:29]  :: Houses cleaned:
+
+There were no houses to clean.
+[02/04/2018 15:47:56]  :: Houses cleaned:
+
+There were no houses to clean.
+[08/03/2018 20:47:31]  :: Houses cleaned:
+
+There were no houses to clean.
+[08/03/2018 21:00:01]  :: Houses cleaned:
+
+There were no houses to clean.
+[08/03/2018 21:15:35]  :: Houses cleaned:
+
+There were no houses to clean.
+[08/03/2018 21:18:03]  :: Houses cleaned:
+
+There were no houses to clean.
+[08/03/2018 21:33:44]  :: Houses cleaned:
+
+There were no houses to clean.
+[08/03/2018 21:38:37]  :: Houses cleaned:
+
+There were no houses to clean.
+[08/03/2018 21:43:24]  :: Houses cleaned:
+
+There were no houses to clean.
+[08/03/2018 21:49:30]  :: Houses cleaned:
+
+There were no houses to clean.
+[08/03/2018 21:57:05]  :: Houses cleaned:
+
+There were no houses to clean.
+[08/03/2018 22:00:51]  :: Houses cleaned:
+
+There were no houses to clean.
+[08/03/2018 22:02:28]  :: Houses cleaned:
+
+There were no houses to clean.
+[08/03/2018 22:11:12]  :: Houses cleaned:
+
+There were no houses to clean.
+[08/03/2018 22:13:21]  :: Houses cleaned:
+
+There were no houses to clean.
+[08/03/2018 22:16:26]  :: Houses cleaned:
+
+There were no houses to clean.
+[08/03/2018 22:18:50]  :: Houses cleaned:
+
+There were no houses to clean.
+[08/03/2018 22:20:04]  :: Houses cleaned:
+
+There were no houses to clean.
+[08/03/2018 22:25:08]  :: Houses cleaned:
+
+There were no houses to clean.
+[08/03/2018 22:28:31]  :: Houses cleaned:
+
+There were no houses to clean.
+[09/03/2018 00:47:43]  :: Houses cleaned:
+
+There were no houses to clean.
+[09/03/2018 00:57:17]  :: Houses cleaned:
+
+There were no houses to clean.
+[09/03/2018 01:01:28]  :: Houses cleaned:
+
+There were no houses to clean.
+[09/03/2018 01:09:30]  :: Houses cleaned:
+
+There were no houses to clean.
+[09/03/2018 01:10:03]  :: Houses cleaned:
+
+There were no houses to clean.
+[09/03/2018 01:10:45]  :: Houses cleaned:
+
+There were no houses to clean.
+[09/03/2018 01:31:10]  :: Houses cleaned:
+
+There were no houses to clean.
+[09/03/2018 01:44:10]  :: Houses cleaned:
+
+There were no houses to clean.
+[09/03/2018 01:52:59]  :: Houses cleaned:
+
+There were no houses to clean.
+[09/03/2018 01:53:58]  :: Houses cleaned:
+
+There were no houses to clean.
+[09/03/2018 05:51:56]  :: Houses cleaned:
+
+There were no houses to clean.
+[09/03/2018 06:55:19]  :: Houses cleaned:
+
+There were no houses to clean.
+[09/03/2018 12:27:29]  :: Houses cleaned:
+
+There were no houses to clean.
+[09/03/2018 12:28:20]  :: Houses cleaned:
+
+There were no houses to clean.
+[09/03/2018 14:31:22]  :: Houses cleaned:
+
+There were no houses to clean.
+[09/03/2018 19:15:05]  :: Houses cleaned:
+
+There were no houses to clean.
+[09/03/2018 21:03:59]  :: Houses cleaned:
+
+There were no houses to clean.
+[09/03/2018 21:44:21]  :: Houses cleaned:
+
+There were no houses to clean.
+[09/03/2018 23:11:03]  :: Houses cleaned:
+
+There were no houses to clean.
+[10/03/2018 08:33:02]  :: Houses cleaned:
+
+There were no houses to clean.
+[10/03/2018 15:25:48]  :: Houses cleaned:
+
+There were no houses to clean.
+[10/03/2018 15:34:13]  :: Houses cleaned:
+
+There were no houses to clean.
+[10/03/2018 15:39:09]  :: Houses cleaned:
+
+There were no houses to clean.
+[10/03/2018 15:42:42]  :: Houses cleaned:
+
+There were no houses to clean.
+[10/03/2018 16:19:26]  :: Houses cleaned:
+
+There were no houses to clean.
+[10/03/2018 17:01:25]  :: Houses cleaned:
+
+There were no houses to clean.
+[10/03/2018 17:09:39]  :: Houses cleaned:
+
+There were no houses to clean.
+[10/03/2018 17:31:11]  :: Houses cleaned:
+
+There were no houses to clean.
+[10/03/2018 18:24:25]  :: Houses cleaned:
+
+There were no houses to clean.
+[10/03/2018 20:01:11]  :: Houses cleaned:
+
+There were no houses to clean.
+[10/03/2018 20:02:13]  :: Houses cleaned:
+
+There were no houses to clean.
+[10/03/2018 20:09:43]  :: Houses cleaned:
+
+There were no houses to clean.
+[10/03/2018 20:15:09]  :: Houses cleaned:
+
+There were no houses to clean.
+[10/03/2018 20:59:44]  :: Houses cleaned:
+
+There were no houses to clean.
+[11/03/2018 00:28:18]  :: Houses cleaned:
+
+There were no houses to clean.
+[11/03/2018 00:32:18]  :: Houses cleaned:
+
+There were no houses to clean.
+[11/03/2018 11:33:31]  :: Houses cleaned:
+
+There were no houses to clean.
+[11/03/2018 11:35:46]  :: Houses cleaned:
+
+There were no houses to clean.
+[11/03/2018 11:41:14]  :: Houses cleaned:
+
+There were no houses to clean.
+[11/03/2018 11:42:31]  :: Houses cleaned:
+
+There were no houses to clean.
+[11/03/2018 11:46:24]  :: Houses cleaned:
+
+There were no houses to clean.
+[11/03/2018 12:04:16]  :: Houses cleaned:
+
+There were no houses to clean.
+[11/03/2018 15:30:06]  :: Houses cleaned:
+
+There were no houses to clean.
+[11/03/2018 15:52:09]  :: Houses cleaned:
+
+There were no houses to clean.
+[11/03/2018 16:35:22]  :: Houses cleaned:
+
+There were no houses to clean.
+[11/03/2018 20:41:48]  :: Houses cleaned:
+
+There were no houses to clean.
+[11/03/2018 21:00:14]  :: Houses cleaned:
+
+There were no houses to clean.
+[11/03/2018 21:03:40]  :: Houses cleaned:
+
+There were no houses to clean.
+[11/03/2018 21:05:22]  :: Houses cleaned:
+
+There were no houses to clean.
+[11/03/2018 21:06:36]  :: Houses cleaned:
+
+There were no houses to clean.
+[11/03/2018 21:11:17]  :: Houses cleaned:
+
+There were no houses to clean.
+[11/03/2018 21:12:18]  :: Houses cleaned:
+
+There were no houses to clean.
+[11/03/2018 21:44:49]  :: Houses cleaned:
+
+There were no houses to clean.
+[11/03/2018 23:41:26]  :: Houses cleaned:
+
+There were no houses to clean.
+[12/03/2018 00:33:22]  :: Houses cleaned:
+
+There were no houses to clean.
+[12/03/2018 00:35:01]  :: Houses cleaned:
+
+There were no houses to clean.
+[12/03/2018 00:36:12]  :: Houses cleaned:
+
+There were no houses to clean.
+[12/03/2018 14:14:49]  :: Houses cleaned:
+
+There were no houses to clean.
+[12/03/2018 16:12:17]  :: Houses cleaned:
+
+There were no houses to clean.
+[12/03/2018 16:20:08]  :: Houses cleaned:
+
+There were no houses to clean.
+[12/03/2018 16:22:49]  :: Houses cleaned:
+
+There were no houses to clean.
+[12/03/2018 19:57:06]  :: Houses cleaned:
+
+There were no houses to clean.
+[12/03/2018 20:07:44]  :: Houses cleaned:
+
+There were no houses to clean.
+[12/03/2018 20:17:38]  :: Houses cleaned:
+
+There were no houses to clean.
+[12/03/2018 20:36:29]  :: Houses cleaned:
+
+There were no houses to clean.
+[12/03/2018 20:37:56]  :: Houses cleaned:
+
+There were no houses to clean.
+[12/03/2018 20:38:33]  :: Houses cleaned:
+
+There were no houses to clean.
+[12/03/2018 20:57:07]  :: Houses cleaned:
+
+There were no houses to clean.
+[12/03/2018 20:59:45]  :: Houses cleaned:
+
+There were no houses to clean.
+[12/03/2018 21:02:04]  :: Houses cleaned:
+
+There were no houses to clean.
+[12/03/2018 21:05:47]  :: Houses cleaned:
+
+There were no houses to clean.
+[12/03/2018 21:18:44]  :: Houses cleaned:
+
+There were no houses to clean.
+[12/03/2018 21:29:06]  :: Houses cleaned:
+
+There were no houses to clean.
+[12/03/2018 21:56:57]  :: Houses cleaned:
+
+There were no houses to clean.
+[12/03/2018 22:00:30]  :: Houses cleaned:
+
+There were no houses to clean.
+[12/03/2018 22:02:30]  :: Houses cleaned:
+
+There were no houses to clean.
+[13/03/2018 01:39:12]  :: Houses cleaned:
+
+There were no houses to clean.
+[13/03/2018 02:16:23]  :: Houses cleaned:
+
+There were no houses to clean.
+[13/03/2018 02:18:20]  :: Houses cleaned:
+
+There were no houses to clean.
+[13/03/2018 02:32:42]  :: Houses cleaned:
+
+There were no houses to clean.
+[13/03/2018 02:34:47]  :: Houses cleaned:
+
+There were no houses to clean.
+[13/03/2018 03:16:20]  :: Houses cleaned:
+
+There were no houses to clean.
+[13/03/2018 11:40:55]  :: Houses cleaned:
+
+There were no houses to clean.
+[13/03/2018 11:55:30]  :: Houses cleaned:
+
+There were no houses to clean.
+[13/03/2018 15:51:08]  :: Houses cleaned:
+
+There were no houses to clean.
+[13/03/2018 15:56:13]  :: Houses cleaned:
+
+There were no houses to clean.
+[13/03/2018 17:12:00]  :: Houses cleaned:
+
+There were no houses to clean.
+[13/03/2018 17:42:05]  :: Houses cleaned:
+
+There were no houses to clean.
+[13/03/2018 23:16:00]  :: Houses cleaned:
+
+There were no houses to clean.
+[14/03/2018 00:30:27]  :: Houses cleaned:
+
+There were no houses to clean.
+[14/03/2018 00:40:59]  :: Houses cleaned:
+
+There were no houses to clean.
+[14/03/2018 00:48:16]  :: Houses cleaned:
+
+There were no houses to clean.
+[14/03/2018 00:55:16]  :: Houses cleaned:
+
+There were no houses to clean.
+[14/03/2018 00:55:46]  :: Houses cleaned:
+
+There were no houses to clean.
+[14/03/2018 21:27:32]  :: Houses cleaned:
+
+There were no houses to clean.
+[14/03/2018 22:36:34]  :: Houses cleaned:
+
+There were no houses to clean.
+[14/03/2018 22:45:10]  :: Houses cleaned:
+
+There were no houses to clean.
+[14/03/2018 22:52:52]  :: Houses cleaned:
+
+There were no houses to clean.
+[14/03/2018 23:03:54]  :: Houses cleaned:
+
+There were no houses to clean.
+[14/03/2018 23:16:48]  :: Houses cleaned:
+
+There were no houses to clean.
+[14/03/2018 23:22:24]  :: Houses cleaned:
+
+There were no houses to clean.
+[14/03/2018 23:31:16]  :: Houses cleaned:
+
+There were no houses to clean.
+[14/03/2018 23:42:47]  :: Houses cleaned:
+
+There were no houses to clean.
+[14/03/2018 23:46:44]  :: Houses cleaned:
+
+There were no houses to clean.
+[14/03/2018 23:47:56]  :: Houses cleaned:
+
+There were no houses to clean.
+[14/03/2018 23:52:50]  :: Houses cleaned:
+
+There were no houses to clean.
+[15/03/2018 00:53:17]  :: Houses cleaned:
+
+There were no houses to clean.
+[15/03/2018 09:28:35]  :: Houses cleaned:
+
+There were no houses to clean.
+[15/03/2018 09:32:35]  :: Houses cleaned:
+
+There were no houses to clean.
+[15/03/2018 09:34:09]  :: Houses cleaned:
+
+There were no houses to clean.
+[15/03/2018 09:37:11]  :: Houses cleaned:
+
+There were no houses to clean.
+[15/03/2018 09:40:13]  :: Houses cleaned:
+
+There were no houses to clean.
+[15/03/2018 09:50:24]  :: Houses cleaned:
+
+There were no houses to clean.
+[15/03/2018 09:51:47]  :: Houses cleaned:
+
+There were no houses to clean.
+[15/03/2018 09:53:32]  :: Houses cleaned:
+
+There were no houses to clean.
+[15/03/2018 09:55:24]  :: Houses cleaned:
+
+There were no houses to clean.
+[15/03/2018 09:58:39]  :: Houses cleaned:
+
+There were no houses to clean.
+[15/03/2018 10:00:10]  :: Houses cleaned:
+
+There were no houses to clean.
+[15/03/2018 11:28:45]  :: Houses cleaned:
+
+There were no houses to clean.
+[15/03/2018 11:36:56]  :: Houses cleaned:
+
+There were no houses to clean.
+[15/03/2018 11:39:26]  :: Houses cleaned:
+
+There were no houses to clean.
+[15/03/2018 23:28:50]  :: Houses cleaned:
+
+There were no houses to clean.
+[15/03/2018 23:38:20]  :: Houses cleaned:
+
+There were no houses to clean.
+[15/03/2018 23:57:44]  :: Houses cleaned:
+
+There were no houses to clean.
+[15/03/2018 23:58:40]  :: Houses cleaned:
+
+There were no houses to clean.
+[16/03/2018 00:21:22]  :: Houses cleaned:
+
+There were no houses to clean.
+[16/03/2018 00:47:33]  :: Houses cleaned:
+
+There were no houses to clean.
+[16/03/2018 01:04:39]  :: Houses cleaned:
+
+There were no houses to clean.
+[16/03/2018 01:05:34]  :: Houses cleaned:
+
+There were no houses to clean.
+[16/03/2018 05:54:32]  :: Houses cleaned:
+
+There were no houses to clean.
+[16/03/2018 05:58:40]  :: Houses cleaned:
+
+There were no houses to clean.
+[16/03/2018 13:23:19]  :: Houses cleaned:
+
+There were no houses to clean.
+[16/03/2018 13:26:31]  :: Houses cleaned:
+
+There were no houses to clean.
+[16/03/2018 14:08:17]  :: Houses cleaned:
+
+There were no houses to clean.
+[16/03/2018 14:28:33]  :: Houses cleaned:
+
+There were no houses to clean.
+[16/03/2018 14:31:05]  :: Houses cleaned:
+
+There were no houses to clean.
+[16/03/2018 14:36:06]  :: Houses cleaned:
+
+There were no houses to clean.
+[16/03/2018 14:39:24]  :: Houses cleaned:
+
+There were no houses to clean.
+[16/03/2018 14:41:08]  :: Houses cleaned:
+
+There were no houses to clean.
+[16/03/2018 14:44:35]  :: Houses cleaned:
+
+There were no houses to clean.
+[16/03/2018 14:57:55]  :: Houses cleaned:
+
+There were no houses to clean.
+[16/03/2018 15:01:17]  :: Houses cleaned:
+
+There were no houses to clean.
+[16/03/2018 15:07:04]  :: Houses cleaned:
+
+There were no houses to clean.
+[16/03/2018 15:08:51]  :: Houses cleaned:
+
+There were no houses to clean.
+[16/03/2018 15:09:44]  :: Houses cleaned:
+
+There were no houses to clean.
+[16/03/2018 15:13:56]  :: Houses cleaned:
+
+There were no houses to clean.
+[16/03/2018 20:43:44]  :: Houses cleaned:
+
+There were no houses to clean.
+[17/03/2018 00:11:48]  :: Houses cleaned:
+
+There were no houses to clean.
+[17/03/2018 00:13:08]  :: Houses cleaned:
+
+There were no houses to clean.
+[17/03/2018 00:16:15]  :: Houses cleaned:
+
+There were no houses to clean.
+[17/03/2018 00:18:32]  :: Houses cleaned:
+
+There were no houses to clean.
+[17/03/2018 00:22:53]  :: Houses cleaned:
+
+There were no houses to clean.
+[17/03/2018 00:30:05]  :: Houses cleaned:
+
+There were no houses to clean.
+[17/03/2018 00:35:00]  :: Houses cleaned:
+
+There were no houses to clean.
+[17/03/2018 00:37:23]  :: Houses cleaned:
+
+There were no houses to clean.
+[17/03/2018 00:49:14]  :: Houses cleaned:
+
+There were no houses to clean.
+[17/03/2018 00:52:36]  :: Houses cleaned:
+
+There were no houses to clean.
+[17/03/2018 12:12:02]  :: Houses cleaned:
+
+There were no houses to clean.
+[17/03/2018 12:42:16]  :: Houses cleaned:
+
+There were no houses to clean.
+[17/03/2018 13:05:56]  :: Houses cleaned:
+
+There were no houses to clean.
+[17/03/2018 13:08:16]  :: Houses cleaned:
+
+There were no houses to clean.
+[17/03/2018 13:09:50]  :: Houses cleaned:
+
+There were no houses to clean.
+[17/03/2018 13:11:49]  :: Houses cleaned:
+
+There were no houses to clean.
+[17/03/2018 13:13:23]  :: Houses cleaned:
+
+There were no houses to clean.
+[17/03/2018 13:14:19]  :: Houses cleaned:
+
+There were no houses to clean.
+[17/03/2018 13:14:49]  :: Houses cleaned:
+
+There were no houses to clean.
+[17/03/2018 13:23:19]  :: Houses cleaned:
+
+There were no houses to clean.
+[17/03/2018 13:25:26]  :: Houses cleaned:
+
+There were no houses to clean.
+[17/03/2018 13:26:58]  :: Houses cleaned:
+
+There were no houses to clean.
+[17/03/2018 13:27:30]  :: Houses cleaned:
+
+There were no houses to clean.
+[17/03/2018 13:28:45]  :: Houses cleaned:
+
+There were no houses to clean.
+[17/03/2018 13:29:16]  :: Houses cleaned:
+
+There were no houses to clean.
+[17/03/2018 13:29:50]  :: Houses cleaned:
+
+There were no houses to clean.
+[17/03/2018 13:30:38]  :: Houses cleaned:
+
+There were no houses to clean.
+[17/03/2018 13:31:26]  :: Houses cleaned:
+
+There were no houses to clean.
+[17/03/2018 13:32:11]  :: Houses cleaned:
+
+There were no houses to clean.
+[17/03/2018 13:32:52]  :: Houses cleaned:
+
+There were no houses to clean.
+[17/03/2018 13:33:29]  :: Houses cleaned:
+
+There were no houses to clean.
+[17/03/2018 14:30:38]  :: Houses cleaned:
+
+There were no houses to clean.
+[17/03/2018 17:37:46]  :: Houses cleaned:
+
+There were no houses to clean.
+[17/03/2018 17:51:34]  :: Houses cleaned:
+
+There were no houses to clean.
+[17/03/2018 17:56:26]  :: Houses cleaned:
+
+There were no houses to clean.
+[17/03/2018 18:08:00]  :: Houses cleaned:
+
+There were no houses to clean.
+[17/03/2018 18:16:20]  :: Houses cleaned:
+
+There were no houses to clean.
+[17/03/2018 18:25:33]  :: Houses cleaned:
+
+There were no houses to clean.
+[17/03/2018 18:34:59]  :: Houses cleaned:
+
+There were no houses to clean.
+[17/03/2018 19:22:34]  :: Houses cleaned:
+
+There were no houses to clean.
+[17/03/2018 19:28:21]  :: Houses cleaned:
+
+There were no houses to clean.
+[17/03/2018 19:21:02]  :: Houses cleaned:
+
+There were no houses to clean.
+[17/03/2018 19:29:59]  :: Houses cleaned:
+
+There were no houses to clean.
+[17/03/2018 19:28:44]  :: Houses cleaned:
+
+There were no houses to clean.
+[17/03/2018 19:33:31]  :: Houses cleaned:
+
+There were no houses to clean.
+[18/03/2018 01:08:19]  :: Houses cleaned:
+
+There were no houses to clean.
+[18/03/2018 01:14:56]  :: Houses cleaned:
+
+There were no houses to clean.
+[18/03/2018 02:21:10]  :: Houses cleaned:
+
+There were no houses to clean.
+[18/03/2018 09:32:34]  :: Houses cleaned:
+
+There were no houses to clean.
+[18/03/2018 09:43:42]  :: Houses cleaned:
+
+There were no houses to clean.
+[18/03/2018 10:36:34]  :: Houses cleaned:
+
+There were no houses to clean.
+[18/03/2018 15:33:23]  :: Houses cleaned:
+
+There were no houses to clean.
+[18/03/2018 18:38:28]  :: Houses cleaned:
+
+There were no houses to clean.
+[18/03/2018 18:49:11]  :: Houses cleaned:
+
+There were no houses to clean.
+[18/03/2018 18:53:16]  :: Houses cleaned:
+
+There were no houses to clean.
+[18/03/2018 19:40:56]  :: Houses cleaned:
+
+There were no houses to clean.
+[18/03/2018 19:45:42]  :: Houses cleaned:
+
+There were no houses to clean.
+[18/03/2018 20:39:18]  :: Houses cleaned:
+
+There were no houses to clean.
+[18/03/2018 20:43:57]  :: Houses cleaned:
+
+There were no houses to clean.
+[18/03/2018 01:20:21]  :: Houses cleaned:
+
+There were no houses to clean.
+[18/03/2018 01:30:16]  :: Houses cleaned:
+
+There were no houses to clean.
+[18/03/2018 01:52:38]  :: Houses cleaned:
+
+There were no houses to clean.
+[18/03/2018 02:26:44]  :: Houses cleaned:
+
+There were no houses to clean.
+[18/03/2018 02:29:55]  :: Houses cleaned:
+
+There were no houses to clean.
+[18/03/2018 03:15:43]  :: Houses cleaned:
+
+There were no houses to clean.
+[18/03/2018 03:22:42]  :: Houses cleaned:
+
+There were no houses to clean.
+[18/03/2018 11:33:28]  :: Houses cleaned:
+
+There were no houses to clean.
+[18/03/2018 11:36:47]  :: Houses cleaned:
+
+There were no houses to clean.
+[18/03/2018 11:47:19]  :: Houses cleaned:
+
+There were no houses to clean.
+[18/03/2018 12:45:40]  :: Houses cleaned:
+
+There were no houses to clean.
+[18/03/2018 13:09:25]  :: Houses cleaned:
+
+There were no houses to clean.
+[18/03/2018 13:35:49]  :: Houses cleaned:
+
+There were no houses to clean.
+[18/03/2018 14:50:07]  :: Houses cleaned:
+
+There were no houses to clean.
+[18/03/2018 14:53:43]  :: Houses cleaned:
+
+There were no houses to clean.
+[18/03/2018 15:25:05]  :: Houses cleaned:
+
+There were no houses to clean.
+[18/03/2018 15:58:16]  :: Houses cleaned:
+
+There were no houses to clean.
+[18/03/2018 16:26:11]  :: Houses cleaned:
+
+There were no houses to clean.
+[18/03/2018 16:36:32]  :: Houses cleaned:
+
+There were no houses to clean.
+[18/03/2018 16:54:20]  :: Houses cleaned:
+
+There were no houses to clean.
+[18/03/2018 17:00:26]  :: Houses cleaned:
+
+There were no houses to clean.
+[18/03/2018 17:46:49]  :: Houses cleaned:
+
+There were no houses to clean.
+[18/03/2018 17:51:55]  :: Houses cleaned:
+
+There were no houses to clean.
+[18/03/2018 18:11:09]  :: Houses cleaned:
+
+There were no houses to clean.
+[18/03/2018 20:43:14]  :: Houses cleaned:
+
+There were no houses to clean.
+[18/03/2018 20:46:28]  :: Houses cleaned:
+
+There were no houses to clean.
+[18/03/2018 21:04:19]  :: Houses cleaned:
+
+There were no houses to clean.
+[18/03/2018 21:06:21]  :: Houses cleaned:
+
+There were no houses to clean.
+[18/03/2018 21:11:36]  :: Houses cleaned:
+
+There were no houses to clean.
+[18/03/2018 21:23:18]  :: Houses cleaned:
+
+There were no houses to clean.
+[18/03/2018 21:40:45]  :: Houses cleaned:
+
+There were no houses to clean.
+[18/03/2018 22:02:29]  :: Houses cleaned:
+
+There were no houses to clean.
+[18/03/2018 22:09:28]  :: Houses cleaned:
+
+There were no houses to clean.
+[18/03/2018 22:12:25]  :: Houses cleaned:
+
+There were no houses to clean.
+[18/03/2018 22:36:44]  :: Houses cleaned:
+
+There were no houses to clean.
+[18/03/2018 22:42:04]  :: Houses cleaned:
+
+There were no houses to clean.
+[18/03/2018 22:43:50]  :: Houses cleaned:
+
+There were no houses to clean.
+[18/03/2018 22:45:12]  :: Houses cleaned:
+
+There were no houses to clean.
+[18/03/2018 22:46:28]  :: Houses cleaned:
+
+There were no houses to clean.
+[18/03/2018 22:53:20]  :: Houses cleaned:
+
+There were no houses to clean.
+[18/03/2018 22:54:58]  :: Houses cleaned:
+
+There were no houses to clean.
+[18/03/2018 23:00:30]  :: Houses cleaned:
+
+There were no houses to clean.
+[18/03/2018 23:01:41]  :: Houses cleaned:
+
+There were no houses to clean.
+[18/03/2018 23:03:06]  :: Houses cleaned:
+
+There were no houses to clean.
+[18/03/2018 23:24:14]  :: Houses cleaned:
+
+There were no houses to clean.
+[18/03/2018 23:28:54]  :: Houses cleaned:
+
+There were no houses to clean.
+[18/03/2018 23:31:38]  :: Houses cleaned:
+
+There were no houses to clean.
+[18/03/2018 23:53:30]  :: Houses cleaned:
+
+There were no houses to clean.
+[18/03/2018 23:58:45]  :: Houses cleaned:
+
+There were no houses to clean.
+[19/03/2018 00:02:50]  :: Houses cleaned:
+
+There were no houses to clean.
+[19/03/2018 00:04:25]  :: Houses cleaned:
+
+There were no houses to clean.
+[19/03/2018 00:06:11]  :: Houses cleaned:
+
+There were no houses to clean.
+[19/03/2018 00:29:58]  :: Houses cleaned:
+
+There were no houses to clean.
+[19/03/2018 00:31:58]  :: Houses cleaned:
+
+There were no houses to clean.
+[19/03/2018 00:33:10]  :: Houses cleaned:
+
+There were no houses to clean.
+[19/03/2018 00:36:07]  :: Houses cleaned:
+
+There were no houses to clean.
+[19/03/2018 01:07:05]  :: Houses cleaned:
+
+There were no houses to clean.
+[19/03/2018 01:11:45]  :: Houses cleaned:
+
+There were no houses to clean.
+[19/03/2018 01:14:16]  :: Houses cleaned:
+
+There were no houses to clean.
+[19/03/2018 01:17:27]  :: Houses cleaned:
+
+There were no houses to clean.
+[19/03/2018 01:38:01]  :: Houses cleaned:
+
+There were no houses to clean.
+[19/03/2018 01:41:03]  :: Houses cleaned:
+
+There were no houses to clean.
+[19/03/2018 13:39:40]  :: Houses cleaned:
+
+There were no houses to clean.
+[19/03/2018 13:41:12]  :: Houses cleaned:
+
+There were no houses to clean.
+[19/03/2018 13:54:30]  :: Houses cleaned:
+
+There were no houses to clean.
+[19/03/2018 15:47:01]  :: Houses cleaned:
+
+There were no houses to clean.
+[19/03/2018 16:39:31]  :: Houses cleaned:
+
+There were no houses to clean.
+[19/03/2018 17:26:37]  :: Houses cleaned:
+
+There were no houses to clean.
+[19/03/2018 18:29:39]  :: Houses cleaned:
+
+There were no houses to clean.
+[19/03/2018 18:37:08]  :: Houses cleaned:
+
+There were no houses to clean.
+[19/03/2018 18:54:47]  :: Houses cleaned:
+
+There were no houses to clean.
+[19/03/2018 22:47:25]  :: Houses cleaned:
+
+There were no houses to clean.
+[21/03/2018 13:17:45]  :: Houses cleaned:
+
+There were no houses to clean.
+[21/03/2018 14:11:57]  :: Houses cleaned:
+
+There were no houses to clean.
+[21/03/2018 15:19:31]  :: Houses cleaned:
+
+There were no houses to clean.
+[21/03/2018 16:54:58]  :: Houses cleaned:
+
+There were no houses to clean.
+[21/03/2018 17:16:30]  :: Houses cleaned:
+
+There were no houses to clean.
+[21/03/2018 17:19:54]  :: Houses cleaned:
+
+There were no houses to clean.
+[21/03/2018 17:45:57]  :: Houses cleaned:
+
+There were no houses to clean.
+[21/03/2018 20:11:04]  :: Houses cleaned:
+
+There were no houses to clean.
+[01/01/2009 02:10:13]  :: Houses cleaned:
+
+There were no houses to clean.
+[01/01/2009 02:11:57]  :: Houses cleaned:
+
+There were no houses to clean.
+[22/03/2018 16:38:02]  :: Houses cleaned:
+
+There were no houses to clean.
+[22/03/2018 17:04:09]  :: Houses cleaned:
+
+There were no houses to clean.
+[22/03/2018 18:29:23]  :: Houses cleaned:
+
+There were no houses to clean.
+[22/03/2018 18:32:34]  :: Houses cleaned:
+
+There were no houses to clean.
+[22/03/2018 18:49:37]  :: Houses cleaned:
+
+There were no houses to clean.
+[22/03/2018 18:58:22]  :: Houses cleaned:
+
+There were no houses to clean.
+[22/03/2018 19:26:09]  :: Houses cleaned:
+
+There were no houses to clean.
+[22/03/2018 20:10:17]  :: Houses cleaned:
+
+There were no houses to clean.
+[22/03/2018 20:29:47]  :: Houses cleaned:
+
+There were no houses to clean.
+[22/03/2018 21:45:53]  :: Houses cleaned:
+
+There were no houses to clean.
+[22/03/2018 22:05:45]  :: Houses cleaned:
+
+There were no houses to clean.
+[22/03/2018 22:09:01]  :: Houses cleaned:
+
+There were no houses to clean.
+[22/03/2018 22:12:17]  :: Houses cleaned:
+
+There were no houses to clean.
+[22/03/2018 22:40:57]  :: Houses cleaned:
+
+There were no houses to clean.
+[22/03/2018 22:43:13]  :: Houses cleaned:
+
+There were no houses to clean.
+[23/03/2018 16:02:49]  :: Houses cleaned:
+
+There were no houses to clean.
+[23/03/2018 18:02:12]  :: Houses cleaned:
+
+There were no houses to clean.
+[23/03/2018 18:12:14]  :: Houses cleaned:
+
+There were no houses to clean.
+[24/03/2018 14:50:46]  :: Houses cleaned:
+
+There were no houses to clean.
+[25/03/2018 11:23:34]  :: Houses cleaned:
+
+Unnamed House #1, owned by Gonteks
+Unnamed House #2, owned by Stormmy
+Unnamed House #3, owned by Monstrao chegou
+Unnamed House #5, owned by Goku
+Unnamed House #6, owned by Badas
+Unnamed House #7, owned by Mano Villegas
+Unnamed House #11, owned by Lanca-de-maracuja
+Unnamed House #12, owned by Jeison
+Unnamed House #13, owned by Bakemono
+Unnamed House #14, owned by Revoltado
+Unnamed House #15, owned by Wockeez Willzin
+Unnamed House #18, owned by Fenix Inmortal
+Unnamed House #20, owned by Hell-rusha-memo
+Unnamed House #21, owned by Bella
+Unnamed House #22, owned by Malukao
+Unnamed House #26, owned by Alladin
+Unnamed House #27, owned by Boo Over
+Unnamed House #32, owned by Kill
+Unnamed House #45, owned by Chora Bitchs
+Unnamed House #46, owned by Asdasgg
+Unnamed House #47, owned by Vibe Compra House
+Unnamed House #48, owned by Runan Senzu Max
+Unnamed House #49, owned by Buu'rula
+Unnamed House #50, owned by Dkzinha
+Unnamed House #51, owned by Fail One Wara
+Unnamed House #52, owned by Turles
+Unnamed House #54, owned by Fumo Ate Caii
+Unnamed House #55, owned by Ven Qiten
+Unnamed House #57, owned by Speak
+Unnamed House #59, owned by Eternal Oblivion
+Unnamed House #60, owned by Nersinho
+Unnamed House #63, owned by Brolly Legends
+Unnamed House #64, owned by Cooler Darkslow
+Unnamed House #65, owned by Brollyng
+Unnamed House #66, owned by Menino Rushador
+Unnamed House #67, owned by Sou Malandrao
+Unnamed House #68, owned by Wockezz Kagome
+Unnamed House #72, owned by Trunks Off Kaozao
+Unnamed House #73, owned by Snickers
+Unnamed House #78, owned by Trunks'destroyer
+Unnamed House #79, owned by Majin bugado
+Unnamed House #116, owned by Kuririn
+Unnamed House #117, owned by Chapadao
+
+[25/03/2018 14:04:50]  :: Houses cleaned:
+
+Unnamed House #1, owned by Gonteks
+Unnamed House #2, owned by Stormmy
+Unnamed House #3, owned by Monstrao chegou
+Unnamed House #5, owned by Goku
+Unnamed House #6, owned by Badas
+Unnamed House #7, owned by Mano Villegas
+Unnamed House #11, owned by Lanca-de-maracuja
+Unnamed House #12, owned by Jeison
+Unnamed House #13, owned by Bakemono
+Unnamed House #14, owned by Revoltado
+Unnamed House #15, owned by Wockeez Willzin
+Unnamed House #18, owned by Fenix Inmortal
+Unnamed House #20, owned by Hell-rusha-memo
+Unnamed House #21, owned by Bella
+Unnamed House #22, owned by Malukao
+Unnamed House #26, owned by Alladin
+Unnamed House #27, owned by Boo Over
+Unnamed House #32, owned by Kill
+Unnamed House #45, owned by Chora Bitchs
+Unnamed House #46, owned by Asdasgg
+Unnamed House #47, owned by Vibe Compra House
+Unnamed House #48, owned by Runan Senzu Max
+Unnamed House #49, owned by Buu'rula
+Unnamed House #50, owned by Dkzinha
+Unnamed House #51, owned by Fail One Wara
+Unnamed House #52, owned by Turles
+Unnamed House #54, owned by Fumo Ate Caii
+Unnamed House #55, owned by Ven Qiten
+Unnamed House #57, owned by Speak
+Unnamed House #59, owned by Eternal Oblivion
+Unnamed House #60, owned by Nersinho
+Unnamed House #63, owned by Brolly Legends
+Unnamed House #64, owned by Cooler Darkslow
+Unnamed House #65, owned by Brollyng
+Unnamed House #66, owned by Menino Rushador
+Unnamed House #67, owned by Sou Malandrao
+Unnamed House #68, owned by Wockezz Kagome
+Unnamed House #72, owned by Trunks Off Kaozao
+Unnamed House #73, owned by Snickers
+Unnamed House #78, owned by Trunks'destroyer
+Unnamed House #79, owned by Majin bugado
+Unnamed House #116, owned by Kuririn
+Unnamed House #117, owned by Chapadao
+
+[25/03/2018 15:14:46]  :: Houses cleaned:
+
+There were no houses to clean.
+[25/03/2018 15:27:17]  :: Houses cleaned:
+
+There were no houses to clean.
+[25/03/2018 15:29:42]  :: Houses cleaned:
+
+There were no houses to clean.
+[25/03/2018 15:31:14]  :: Houses cleaned:
+
+There were no houses to clean.
+[25/03/2018 15:32:26]  :: Houses cleaned:
+
+There were no houses to clean.
+[25/03/2018 15:33:46]  :: Houses cleaned:
+
+There were no houses to clean.
+[25/03/2018 15:41:32]  :: Houses cleaned:
+
+There were no houses to clean.
+[25/03/2018 15:44:55]  :: Houses cleaned:
+
+There were no houses to clean.
+[25/03/2018 15:46:38]  :: Houses cleaned:
+
+There were no houses to clean.
+[25/03/2018 15:51:45]  :: Houses cleaned:
+
+There were no houses to clean.
+[25/03/2018 16:53:44]  :: Houses cleaned:
+
+There were no houses to clean.
+[25/03/2018 21:43:51]  :: Houses cleaned:
+
+There were no houses to clean.
+[25/03/2018 21:44:55]  :: Houses cleaned:
+
+There were no houses to clean.
+[25/03/2018 21:46:28]  :: Houses cleaned:
+
+There were no houses to clean.
+[25/03/2018 21:47:07]  :: Houses cleaned:
+
+There were no houses to clean.
+[26/03/2018 19:07:00]  :: Houses cleaned:
+
+There were no houses to clean.
+[26/03/2018 19:12:07]  :: Houses cleaned:
+
+There were no houses to clean.
+[27/03/2018 11:45:10]  :: Houses cleaned:
+
+There were no houses to clean.
+[27/03/2018 15:26:47]  :: Houses cleaned:
+
+There were no houses to clean.
+[27/03/2018 15:42:16]  :: Houses cleaned:
+
+There were no houses to clean.
+[27/03/2018 15:43:03]  :: Houses cleaned:
+
+There were no houses to clean.
+[27/03/2018 16:14:43]  :: Houses cleaned:
+
+There were no houses to clean.
+[27/03/2018 16:19:34]  :: Houses cleaned:
+
+There were no houses to clean.
+[27/03/2018 16:25:45]  :: Houses cleaned:
+
+There were no houses to clean.
+[27/03/2018 16:26:28]  :: Houses cleaned:
+
+There were no houses to clean.
+[28/03/2018 00:58:49]  :: Houses cleaned:
+
+There were no houses to clean.
+[28/03/2018 00:59:42]  :: Houses cleaned:
+
+There were no houses to clean.
+[28/03/2018 01:02:17]  :: Houses cleaned:
+
+There were no houses to clean.
+[28/03/2018 01:18:48]  :: Houses cleaned:
+
+There were no houses to clean.
+[28/03/2018 01:20:15]  :: Houses cleaned:
+
+There were no houses to clean.
+[28/03/2018 01:25:15]  :: Houses cleaned:
+
+There were no houses to clean.
+[28/03/2018 01:33:30]  :: Houses cleaned:
+
+There were no houses to clean.
+[28/03/2018 01:34:23]  :: Houses cleaned:
+
+There were no houses to clean.
+[28/03/2018 01:36:26]  :: Houses cleaned:
+
+There were no houses to clean.
+[28/03/2018 01:39:39]  :: Houses cleaned:
+
+There were no houses to clean.
+[28/03/2018 13:23:34]  :: Houses cleaned:
+
+There were no houses to clean.
+[28/03/2018 21:17:46]  :: Houses cleaned:
+
+There were no houses to clean.
+[28/03/2018 22:58:17]  :: Houses cleaned:
+
+There were no houses to clean.
+[28/03/2018 22:59:21]  :: Houses cleaned:
+
+There were no houses to clean.
+[28/03/2018 23:05:04]  :: Houses cleaned:
+
+There were no houses to clean.
+[28/03/2018 23:16:23]  :: Houses cleaned:
+
+There were no houses to clean.
+[28/03/2018 23:17:44]  :: Houses cleaned:
+
+There were no houses to clean.
+[28/03/2018 23:19:52]  :: Houses cleaned:
+
+There were no houses to clean.
+[28/03/2018 23:47:06]  :: Houses cleaned:
+
+There were no houses to clean.
+[28/03/2018 23:59:49]  :: Houses cleaned:
+
+There were no houses to clean.
+[29/03/2018 00:15:48]  :: Houses cleaned:
+
+There were no houses to clean.
+[29/03/2018 00:19:11]  :: Houses cleaned:
+
+There were no houses to clean.
+[29/03/2018 00:48:45]  :: Houses cleaned:
+
+There were no houses to clean.
+[29/03/2018 00:54:16]  :: Houses cleaned:
+
+There were no houses to clean.
+[29/03/2018 00:57:44]  :: Houses cleaned:
+
+There were no houses to clean.
+[29/03/2018 00:59:24]  :: Houses cleaned:
+
+There were no houses to clean.
+[29/03/2018 01:10:28]  :: Houses cleaned:
+
+There were no houses to clean.
+[29/03/2018 01:18:16]  :: Houses cleaned:
+
+There were no houses to clean.
+[29/03/2018 01:28:01]  :: Houses cleaned:
+
+There were no houses to clean.
+[29/03/2018 01:37:13]  :: Houses cleaned:
+
+There were no houses to clean.
+[29/03/2018 01:38:24]  :: Houses cleaned:
+
+There were no houses to clean.
+[29/03/2018 01:40:11]  :: Houses cleaned:
+
+There were no houses to clean.
+[29/03/2018 01:42:15]  :: Houses cleaned:
+
+There were no houses to clean.
+[29/03/2018 01:43:28]  :: Houses cleaned:
+
+There were no houses to clean.
+[29/03/2018 01:44:30]  :: Houses cleaned:
+
+There were no houses to clean.
+[29/03/2018 01:48:37]  :: Houses cleaned:
+
+There were no houses to clean.
+[29/03/2018 01:49:17]  :: Houses cleaned:
+
+There were no houses to clean.
+[29/03/2018 01:50:51]  :: Houses cleaned:
+
+There were no houses to clean.
+[29/03/2018 02:06:18]  :: Houses cleaned:
+
+There were no houses to clean.
+[29/03/2018 02:45:46]  :: Houses cleaned:
+
+There were no houses to clean.
+[29/03/2018 02:52:05]  :: Houses cleaned:
+
+There were no houses to clean.
+[29/03/2018 02:54:19]  :: Houses cleaned:
+
+There were no houses to clean.
+[29/03/2018 02:55:39]  :: Houses cleaned:
+
+There were no houses to clean.
+[29/03/2018 02:57:47]  :: Houses cleaned:
+
+There were no houses to clean.
+[29/03/2018 02:59:12]  :: Houses cleaned:
+
+There were no houses to clean.
+[29/03/2018 03:00:04]  :: Houses cleaned:
+
+There were no houses to clean.
+[29/03/2018 03:02:45]  :: Houses cleaned:
+
+There were no houses to clean.
+[29/03/2018 03:10:54]  :: Houses cleaned:
+
+There were no houses to clean.
+[29/03/2018 03:11:49]  :: Houses cleaned:
+
+There were no houses to clean.
+[29/03/2018 03:13:11]  :: Houses cleaned:
+
+There were no houses to clean.
+[29/03/2018 03:18:41]  :: Houses cleaned:
+
+There were no houses to clean.
+[29/03/2018 12:27:06]  :: Houses cleaned:
+
+There were no houses to clean.
+[29/03/2018 13:26:51]  :: Houses cleaned:
+
+There were no houses to clean.
+[29/03/2018 13:27:32]  :: Houses cleaned:
+
+There were no houses to clean.
+[29/03/2018 14:00:35]  :: Houses cleaned:
+
+There were no houses to clean.
+[29/03/2018 14:09:24]  :: Houses cleaned:
+
+There were no houses to clean.
+[29/03/2018 14:17:33]  :: Houses cleaned:
+
+There were no houses to clean.
+[29/03/2018 14:24:05]  :: Houses cleaned:
+
+There were no houses to clean.
+[29/03/2018 14:27:47]  :: Houses cleaned:
+
+There were no houses to clean.
+[29/03/2018 14:32:43]  :: Houses cleaned:
+
+There were no houses to clean.
+[29/03/2018 14:35:35]  :: Houses cleaned:
+
+There were no houses to clean.
+[29/03/2018 14:39:15]  :: Houses cleaned:
+
+There were no houses to clean.
+[29/03/2018 14:46:29]  :: Houses cleaned:
+
+There were no houses to clean.
+[29/03/2018 14:48:32]  :: Houses cleaned:
+
+There were no houses to clean.
+[29/03/2018 14:50:04]  :: Houses cleaned:
+
+There were no houses to clean.
+[29/03/2018 15:15:41]  :: Houses cleaned:
+
+There were no houses to clean.
+[29/03/2018 15:31:20]  :: Houses cleaned:
+
+There were no houses to clean.
+[29/03/2018 15:36:30]  :: Houses cleaned:
+
+There were no houses to clean.
+[29/03/2018 15:39:31]  :: Houses cleaned:
+
+There were no houses to clean.
+[29/03/2018 15:42:10]  :: Houses cleaned:
+
+There were no houses to clean.
+[29/03/2018 16:08:06]  :: Houses cleaned:
+
+There were no houses to clean.
+[29/03/2018 16:10:51]  :: Houses cleaned:
+
+There were no houses to clean.
+[29/03/2018 16:31:19]  :: Houses cleaned:
+
+There were no houses to clean.
+[29/03/2018 16:33:15]  :: Houses cleaned:
+
+There were no houses to clean.
+[29/03/2018 16:38:43]  :: Houses cleaned:
+
+There were no houses to clean.
+[29/03/2018 16:43:23]  :: Houses cleaned:
+
+There were no houses to clean.
+[29/03/2018 16:45:43]  :: Houses cleaned:
+
+There were no houses to clean.
+[29/03/2018 16:54:53]  :: Houses cleaned:
+
+There were no houses to clean.
+[29/03/2018 16:56:26]  :: Houses cleaned:
+
+There were no houses to clean.
+[29/03/2018 17:05:40]  :: Houses cleaned:
+
+There were no houses to clean.
+[29/03/2018 17:10:49]  :: Houses cleaned:
+
+There were no houses to clean.
+[29/03/2018 17:11:16]  :: Houses cleaned:
+
+There were no houses to clean.
+[29/03/2018 17:12:21]  :: Houses cleaned:
+
+There were no houses to clean.
+[29/03/2018 17:17:58]  :: Houses cleaned:
+
+There were no houses to clean.
+[29/03/2018 17:36:02]  :: Houses cleaned:
+
+There were no houses to clean.
+[29/03/2018 17:42:01]  :: Houses cleaned:
+
+There were no houses to clean.
+[29/03/2018 17:52:15]  :: Houses cleaned:
+
+There were no houses to clean.
+[29/03/2018 20:11:46]  :: Houses cleaned:
+
+There were no houses to clean.
+[29/03/2018 22:12:17]  :: Houses cleaned:
+
+There were no houses to clean.
+[29/03/2018 22:15:17]  :: Houses cleaned:
+
+There were no houses to clean.
+[29/03/2018 22:17:17]  :: Houses cleaned:
+
+There were no houses to clean.
+[29/03/2018 22:24:15]  :: Houses cleaned:
+
+There were no houses to clean.
+[29/03/2018 22:32:06]  :: Houses cleaned:
+
+There were no houses to clean.
+[29/03/2018 22:40:38]  :: Houses cleaned:
+
+There were no houses to clean.
+[29/03/2018 22:47:19]  :: Houses cleaned:
+
+There were no houses to clean.
+[29/03/2018 22:53:20]  :: Houses cleaned:
+
+There were no houses to clean.
+[29/03/2018 23:14:41]  :: Houses cleaned:
+
+There were no houses to clean.
+[29/03/2018 23:18:10]  :: Houses cleaned:
+
+There were no houses to clean.
+[29/03/2018 23:20:30]  :: Houses cleaned:
+
+There were no houses to clean.
+[29/03/2018 23:21:42]  :: Houses cleaned:
+
+There were no houses to clean.
+[29/03/2018 23:26:19]  :: Houses cleaned:
+
+There were no houses to clean.
+[29/03/2018 23:33:50]  :: Houses cleaned:
+
+There were no houses to clean.
+[29/03/2018 23:55:24]  :: Houses cleaned:
+
+There were no houses to clean.
+[29/03/2018 23:56:12]  :: Houses cleaned:
+
+There were no houses to clean.
+[30/03/2018 00:07:15]  :: Houses cleaned:
+
+There were no houses to clean.
+[30/03/2018 00:08:36]  :: Houses cleaned:
+
+There were no houses to clean.
+[30/03/2018 00:11:53]  :: Houses cleaned:
+
+There were no houses to clean.
+[30/03/2018 00:13:36]  :: Houses cleaned:
+
+There were no houses to clean.
+[30/03/2018 00:16:09]  :: Houses cleaned:
+
+There were no houses to clean.
+[30/03/2018 00:19:15]  :: Houses cleaned:
+
+There were no houses to clean.
+[30/03/2018 00:23:24]  :: Houses cleaned:
+
+There were no houses to clean.
+[30/03/2018 00:27:28]  :: Houses cleaned:
+
+There were no houses to clean.
+[30/03/2018 00:34:26]  :: Houses cleaned:
+
+There were no houses to clean.
+[30/03/2018 00:36:31]  :: Houses cleaned:
+
+There were no houses to clean.
+[30/03/2018 01:00:01]  :: Houses cleaned:
+
+There were no houses to clean.
+[30/03/2018 01:35:16]  :: Houses cleaned:
+
+There were no houses to clean.
+[30/03/2018 01:43:37]  :: Houses cleaned:
+
+There were no houses to clean.
+[30/03/2018 01:48:05]  :: Houses cleaned:
+
+There were no houses to clean.
+[31/03/2018 07:12:37]  :: Houses cleaned:
+
+There were no houses to clean.
+[31/03/2018 07:15:01]  :: Houses cleaned:
+
+There were no houses to clean.
+[31/03/2018 15:12:50]  :: Houses cleaned:
+
+There were no houses to clean.
+[31/03/2018 15:21:19]  :: Houses cleaned:
+
+There were no houses to clean.
+[31/03/2018 15:29:37]  :: Houses cleaned:
+
+There were no houses to clean.
+[31/03/2018 16:00:20]  :: Houses cleaned:
+
+There were no houses to clean.
+[31/03/2018 16:10:10]  :: Houses cleaned:
+
+There were no houses to clean.
+[01/04/2018 07:13:17]  :: Houses cleaned:
+
+There were no houses to clean.
+[01/04/2018 07:58:34]  :: Houses cleaned:
+
+There were no houses to clean.
+[01/04/2018 08:04:50]  :: Houses cleaned:
+
+There were no houses to clean.
+[01/04/2018 14:28:40]  :: Houses cleaned:
+
+There were no houses to clean.
+[01/04/2018 15:16:00]  :: Houses cleaned:
+
+There were no houses to clean.
+[01/04/2018 15:39:45]  :: Houses cleaned:
+
+There were no houses to clean.
+[01/04/2018 15:43:24]  :: Houses cleaned:
+
+There were no houses to clean.
+[01/04/2018 15:47:16]  :: Houses cleaned:
+
+There were no houses to clean.
+[01/04/2018 15:49:22]  :: Houses cleaned:
+
+There were no houses to clean.
+[01/04/2018 15:54:26]  :: Houses cleaned:
+
+There were no houses to clean.
+[01/04/2018 16:17:02]  :: Houses cleaned:
+
+There were no houses to clean.
+[01/04/2018 16:23:30]  :: Houses cleaned:
+
+There were no houses to clean.
+[01/04/2018 16:33:06]  :: Houses cleaned:
+
+There were no houses to clean.
+[01/04/2018 16:38:36]  :: Houses cleaned:
+
+There were no houses to clean.
+[01/04/2018 16:40:32]  :: Houses cleaned:
+
+There were no houses to clean.
+[01/04/2018 21:32:24]  :: Houses cleaned:
+
+There were no houses to clean.
+[01/04/2018 21:33:38]  :: Houses cleaned:
+
+There were no houses to clean.
+[01/04/2018 21:42:14]  :: Houses cleaned:
+
+There were no houses to clean.
+[01/04/2018 21:43:10]  :: Houses cleaned:
+
+There were no houses to clean.
+[01/04/2018 21:45:51]  :: Houses cleaned:
+
+There were no houses to clean.
+[01/04/2018 22:01:39]  :: Houses cleaned:
+
+There were no houses to clean.
+[01/04/2018 22:02:50]  :: Houses cleaned:
+
+There were no houses to clean.
+[01/04/2018 22:06:01]  :: Houses cleaned:
+
+There were no houses to clean.
+[01/04/2018 22:07:29]  :: Houses cleaned:
+
+There were no houses to clean.
+[01/04/2018 22:10:43]  :: Houses cleaned:
+
+There were no houses to clean.
+[02/04/2018 00:34:42]  :: Houses cleaned:
+
+There were no houses to clean.
+[02/04/2018 00:37:56]  :: Houses cleaned:
+
+There were no houses to clean.
+[02/04/2018 16:28:59]  :: Houses cleaned:
+
+There were no houses to clean.
+[03/04/2018 00:36:47]  :: Houses cleaned:
+
+There were no houses to clean.
+[03/04/2018 15:49:26]  :: Houses cleaned:
+
+There were no houses to clean.
+[03/04/2018 16:10:05]  :: Houses cleaned:
+
+There were no houses to clean.
+[03/04/2018 16:48:25]  :: Houses cleaned:
+
+There were no houses to clean.
+[03/04/2018 16:55:21]  :: Houses cleaned:
+
+There were no houses to clean.
+[03/04/2018 16:56:30]  :: Houses cleaned:
+
+There were no houses to clean.
+[03/04/2018 22:20:27]  :: Houses cleaned:
+
+There were no houses to clean.
+[03/04/2018 22:27:47]  :: Houses cleaned:
+
+There were no houses to clean.
+[03/04/2018 23:24:01]  :: Houses cleaned:
+
+There were no houses to clean.
+[03/04/2018 23:40:39]  :: Houses cleaned:
+
+There were no houses to clean.
+[03/04/2018 23:41:45]  :: Houses cleaned:
+
+There were no houses to clean.
+[03/04/2018 23:43:12]  :: Houses cleaned:
+
+There were no houses to clean.
+[03/04/2018 23:49:55]  :: Houses cleaned:
+
+There were no houses to clean.
+[04/04/2018 17:04:29]  :: Houses cleaned:
+
+There were no houses to clean.
+[04/04/2018 17:20:28]  :: Houses cleaned:
+
+There were no houses to clean.
+[05/04/2018 17:56:16]  :: Houses cleaned:
+
+There were no houses to clean.
+[05/04/2018 21:00:26]  :: Houses cleaned:
+
+There were no houses to clean.
+[05/04/2018 21:54:10]  :: Houses cleaned:
+
+There were no houses to clean.
+[05/04/2018 23:11:50]  :: Houses cleaned:
+
+There were no houses to clean.
+[05/04/2018 23:13:36]  :: Houses cleaned:
+
+There were no houses to clean.
+[06/04/2018 15:19:05]  :: Houses cleaned:
+
+There were no houses to clean.
+[06/04/2018 15:25:25]  :: Houses cleaned:
+
+There were no houses to clean.
+[06/04/2018 15:42:18]  :: Houses cleaned:
+
+There were no houses to clean.
+[06/04/2018 16:13:10]  :: Houses cleaned:
+
+There were no houses to clean.
+[06/04/2018 23:47:25]  :: Houses cleaned:
+
+There were no houses to clean.
+[07/04/2018 00:26:54]  :: Houses cleaned:
+
+There were no houses to clean.
+[07/04/2018 00:50:28]  :: Houses cleaned:
+
+There were no houses to clean.
+[07/04/2018 00:51:19]  :: Houses cleaned:
+
+There were no houses to clean.
+[07/04/2018 01:05:29]  :: Houses cleaned:
+
+There were no houses to clean.
+[07/04/2018 01:23:16]  :: Houses cleaned:
+
+There were no houses to clean.
+[07/04/2018 01:32:08]  :: Houses cleaned:
+
+There were no houses to clean.
+[07/04/2018 01:42:46]  :: Houses cleaned:
+
+There were no houses to clean.
+[07/04/2018 01:47:09]  :: Houses cleaned:
+
+There were no houses to clean.
+[07/04/2018 03:22:33]  :: Houses cleaned:
+
+There were no houses to clean.
+[07/04/2018 03:23:13]  :: Houses cleaned:
+
+There were no houses to clean.
+[07/04/2018 09:23:36]  :: Houses cleaned:
+
+There were no houses to clean.
+[07/04/2018 18:07:25]  :: Houses cleaned:
+
+There were no houses to clean.
+[07/04/2018 18:17:39]  :: Houses cleaned:
+
+There were no houses to clean.
+[07/04/2018 18:23:07]  :: Houses cleaned:
+
+There were no houses to clean.
+[07/04/2018 18:23:31]  :: Houses cleaned:
+
+There were no houses to clean.
+[07/04/2018 18:23:43]  :: Houses cleaned:
+
+There were no houses to clean.
+[07/04/2018 19:02:26]  :: Houses cleaned:
+
+There were no houses to clean.
+[07/04/2018 21:50:33]  :: Houses cleaned:
+
+There were no houses to clean.
+[07/04/2018 23:57:47]  :: Houses cleaned:
+
+There were no houses to clean.
+[07/04/2018 23:58:30]  :: Houses cleaned:
+
+There were no houses to clean.
+[08/04/2018 00:29:26]  :: Houses cleaned:
+
+There were no houses to clean.
+[08/04/2018 00:48:51]  :: Houses cleaned:
+
+There were no houses to clean.
+[08/04/2018 01:07:20]  :: Houses cleaned:
+
+There were no houses to clean.
+[08/04/2018 01:13:57]  :: Houses cleaned:
+
+There were no houses to clean.
+[08/04/2018 01:21:47]  :: Houses cleaned:
+
+There were no houses to clean.
+[08/04/2018 01:41:37]  :: Houses cleaned:
+
+There were no houses to clean.
+[08/04/2018 01:44:38]  :: Houses cleaned:
+
+There were no houses to clean.
+[08/04/2018 02:01:58]  :: Houses cleaned:
+
+There were no houses to clean.
+[08/04/2018 02:03:51]  :: Houses cleaned:
+
+There were no houses to clean.
+[08/04/2018 02:25:49]  :: Houses cleaned:
+
+There were no houses to clean.
+[08/04/2018 02:28:40]  :: Houses cleaned:
+
+There were no houses to clean.
+[08/04/2018 02:28:50]  :: Houses cleaned:
+
+There were no houses to clean.
+[08/04/2018 02:39:07]  :: Houses cleaned:
+
+There were no houses to clean.
+[08/04/2018 11:19:53]  :: Houses cleaned:
+
+There were no houses to clean.
+[08/04/2018 11:50:49]  :: Houses cleaned:
+
+There were no houses to clean.
+[08/04/2018 13:40:54]  :: Houses cleaned:
+
+There were no houses to clean.
+[08/04/2018 16:44:41]  :: Houses cleaned:
+
+There were no houses to clean.
+[08/04/2018 19:27:11]  :: Houses cleaned:
+
+There were no houses to clean.
+[08/04/2018 19:28:44]  :: Houses cleaned:
+
+There were no houses to clean.
+[08/04/2018 22:30:23]  :: Houses cleaned:
+
+There were no houses to clean.
+[08/04/2018 22:33:46]  :: Houses cleaned:
+
+There were no houses to clean.
+[09/04/2018 02:20:43]  :: Houses cleaned:
+
+There were no houses to clean.
+[09/04/2018 02:21:42]  :: Houses cleaned:
+
+There were no houses to clean.
+[09/04/2018 02:30:00]  :: Houses cleaned:
+
+There were no houses to clean.
+[09/04/2018 02:34:57]  :: Houses cleaned:
+
+There were no houses to clean.
+[09/04/2018 02:58:08]  :: Houses cleaned:
+
+There were no houses to clean.
+[09/04/2018 04:07:59]  :: Houses cleaned:
+
+There were no houses to clean.
+[09/04/2018 06:09:26]  :: Houses cleaned:
+
+There were no houses to clean.
+[09/04/2018 12:24:15]  :: Houses cleaned:
+
+There were no houses to clean.
+[09/04/2018 14:18:28]  :: Houses cleaned:
+
+There were no houses to clean.
+[09/04/2018 14:46:50]  :: Houses cleaned:
+
+There were no houses to clean.
+[09/04/2018 15:54:17]  :: Houses cleaned:
+
+There were no houses to clean.
+[09/04/2018 16:06:42]  :: Houses cleaned:
+
+There were no houses to clean.
+[09/04/2018 16:10:48]  :: Houses cleaned:
+
+There were no houses to clean.
+[09/04/2018 16:19:51]  :: Houses cleaned:
+
+There were no houses to clean.
+[09/04/2018 18:15:16]  :: Houses cleaned:
+
+There were no houses to clean.
+[09/04/2018 18:46:05]  :: Houses cleaned:
+
+There were no houses to clean.
+[09/04/2018 19:41:42]  :: Houses cleaned:
+
+There were no houses to clean.
+[09/04/2018 20:35:29]  :: Houses cleaned:
+
+There were no houses to clean.
+[09/04/2018 20:37:47]  :: Houses cleaned:
+
+There were no houses to clean.
+[09/04/2018 20:53:23]  :: Houses cleaned:
+
+There were no houses to clean.
+[09/04/2018 20:54:25]  :: Houses cleaned:
+
+There were no houses to clean.
+[09/04/2018 21:10:03]  :: Houses cleaned:
+
+There were no houses to clean.
+[09/04/2018 21:35:32]  :: Houses cleaned:
+
+There were no houses to clean.
+[09/04/2018 22:08:08]  :: Houses cleaned:
+
+There were no houses to clean.
+[09/04/2018 22:13:30]  :: Houses cleaned:
+
+There were no houses to clean.
+[09/04/2018 22:17:41]  :: Houses cleaned:
+
+There were no houses to clean.
+[09/04/2018 23:29:47]  :: Houses cleaned:
+
+There were no houses to clean.
+[10/04/2018 01:38:58]  :: Houses cleaned:
+
+There were no houses to clean.
+[10/04/2018 01:40:51]  :: Houses cleaned:
+
+There were no houses to clean.
+[10/04/2018 01:41:40]  :: Houses cleaned:
+
+There were no houses to clean.
+[10/04/2018 06:41:59]  :: Houses cleaned:
+
+There were no houses to clean.
+[10/04/2018 11:17:43]  :: Houses cleaned:
+
+There were no houses to clean.
+[10/04/2018 13:26:55]  :: Houses cleaned:
+
+There were no houses to clean.
+[10/04/2018 13:32:21]  :: Houses cleaned:
+
+There were no houses to clean.
+[10/04/2018 13:33:26]  :: Houses cleaned:
+
+There were no houses to clean.
+[10/04/2018 13:39:39]  :: Houses cleaned:
+
+There were no houses to clean.
+[10/04/2018 13:45:07]  :: Houses cleaned:
+
+There were no houses to clean.
+[10/04/2018 13:46:53]  :: Houses cleaned:
+
+There were no houses to clean.
+[10/04/2018 13:54:40]  :: Houses cleaned:
+
+There were no houses to clean.
+[10/04/2018 13:57:28]  :: Houses cleaned:
+
+There were no houses to clean.
+[10/04/2018 13:58:34]  :: Houses cleaned:
+
+There were no houses to clean.
+[10/04/2018 14:00:43]  :: Houses cleaned:
+
+There were no houses to clean.
+[10/04/2018 15:48:04]  :: Houses cleaned:
+
+There were no houses to clean.
+[10/04/2018 22:24:01]  :: Houses cleaned:
+
+There were no houses to clean.
+[10/04/2018 22:45:58]  :: Houses cleaned:
+
+There were no houses to clean.
+[10/04/2018 23:20:53]  :: Houses cleaned:
+
+There were no houses to clean.
+[10/04/2018 23:22:52]  :: Houses cleaned:
+
+There were no houses to clean.
+[11/04/2018 00:34:56]  :: Houses cleaned:
+
+There were no houses to clean.
+[11/04/2018 01:17:08]  :: Houses cleaned:
+
+There were no houses to clean.
+[11/04/2018 02:34:55]  :: Houses cleaned:
+
+There were no houses to clean.
+[11/04/2018 02:36:38]  :: Houses cleaned:
+
+There were no houses to clean.
+[11/04/2018 02:43:34]  :: Houses cleaned:
+
+There were no houses to clean.
+[11/04/2018 03:54:30]  :: Houses cleaned:
+
+There were no houses to clean.
+[11/04/2018 08:32:27]  :: Houses cleaned:
+
+There were no houses to clean.
+[11/04/2018 12:06:48]  :: Houses cleaned:
+
+There were no houses to clean.
+[11/04/2018 12:23:41]  :: Houses cleaned:
+
+There were no houses to clean.
+[11/04/2018 14:02:25]  :: Houses cleaned:
+
+There were no houses to clean.
+[11/04/2018 15:02:12]  :: Houses cleaned:
+
+There were no houses to clean.
+[11/04/2018 18:02:31]  :: Houses cleaned:
+
+There were no houses to clean.
+[11/04/2018 19:02:51]  :: Houses cleaned:
+
+There were no houses to clean.
+[11/04/2018 20:19:56]  :: Houses cleaned:
+
+There were no houses to clean.
+[11/04/2018 21:44:25]  :: Houses cleaned:
+
+There were no houses to clean.
+[11/04/2018 21:57:39]  :: Houses cleaned:
+
+There were no houses to clean.
+[11/04/2018 22:10:27]  :: Houses cleaned:
+
+There were no houses to clean.
+[11/04/2018 23:29:36]  :: Houses cleaned:
+
+There were no houses to clean.
+[12/04/2018 00:56:29]  :: Houses cleaned:
+
+There were no houses to clean.
+[12/04/2018 01:12:37]  :: Houses cleaned:
+
+There were no houses to clean.
+[12/04/2018 01:41:32]  :: Houses cleaned:
+
+There were no houses to clean.
+[12/04/2018 01:47:03]  :: Houses cleaned:
+
+There were no houses to clean.
+[12/04/2018 02:43:18]  :: Houses cleaned:
+
+There were no houses to clean.
+[12/04/2018 03:23:14]  :: Houses cleaned:
+
+There were no houses to clean.
+[12/04/2018 03:47:42]  :: Houses cleaned:
+
+There were no houses to clean.
+[12/04/2018 03:53:07]  :: Houses cleaned:
+
+There were no houses to clean.
+[12/04/2018 07:47:53]  :: Houses cleaned:
+
+There were no houses to clean.
+[12/04/2018 09:17:18]  :: Houses cleaned:
+
+There were no houses to clean.
+[12/04/2018 11:34:03]  :: Houses cleaned:
+
+There were no houses to clean.
+[12/04/2018 12:54:23]  :: Houses cleaned:
+
+There were no houses to clean.
+[12/04/2018 14:04:39]  :: Houses cleaned:
+
+There were no houses to clean.
+[12/04/2018 15:01:11]  :: Houses cleaned:
+
+There were no houses to clean.
+[12/04/2018 16:52:40]  :: Houses cleaned:
+
+There were no houses to clean.
+[12/04/2018 17:52:59]  :: Houses cleaned:
+
+There were no houses to clean.
+[13/04/2018 02:03:41]  :: Houses cleaned:
+
+There were no houses to clean.
+[13/04/2018 02:41:19]  :: Houses cleaned:
+
+There were no houses to clean.
+[13/04/2018 03:50:36]  :: Houses cleaned:
+
+There were no houses to clean.
+[13/04/2018 06:54:45]  :: Houses cleaned:
+
+There were no houses to clean.
+[13/04/2018 07:35:40]  :: Houses cleaned:
+
+There were no houses to clean.
+[13/04/2018 08:34:11]  :: Houses cleaned:
+
+There were no houses to clean.
+[13/04/2018 08:45:47]  :: Houses cleaned:
+
+There were no houses to clean.
+[13/04/2018 11:02:36]  :: Houses cleaned:
+
+There were no houses to clean.
+[13/04/2018 11:50:25]  :: Houses cleaned:
+
+There were no houses to clean.
+[13/04/2018 17:28:41]  :: Houses cleaned:
+
+There were no houses to clean.
+[13/04/2018 18:49:12]  :: Houses cleaned:
+
+There were no houses to clean.
+[13/04/2018 20:44:21]  :: Houses cleaned:
+
+There were no houses to clean.
+[13/04/2018 21:00:28]  :: Houses cleaned:
+
+There were no houses to clean.
+[14/04/2018 00:54:12]  :: Houses cleaned:
+
+There were no houses to clean.
+[14/04/2018 02:57:48]  :: Houses cleaned:
+
+There were no houses to clean.
+[14/04/2018 03:38:24]  :: Houses cleaned:
+
+There were no houses to clean.
+[14/04/2018 06:40:39]  :: Houses cleaned:
+
+There were no houses to clean.
+[14/04/2018 07:00:56]  :: Houses cleaned:
+
+There were no houses to clean.
+[14/04/2018 07:04:57]  :: Houses cleaned:
+
+There were no houses to clean.
+[14/04/2018 07:35:44]  :: Houses cleaned:
+
+There were no houses to clean.
+[14/04/2018 07:37:25]  :: Houses cleaned:
+
+There were no houses to clean.
+[14/04/2018 07:46:14]  :: Houses cleaned:
+
+There were no houses to clean.
+[14/04/2018 08:23:00]  :: Houses cleaned:
+
+There were no houses to clean.
+[14/04/2018 10:02:13]  :: Houses cleaned:
+
+There were no houses to clean.
+[14/04/2018 10:17:02]  :: Houses cleaned:
+
+There were no houses to clean.
+[14/04/2018 10:50:10]  :: Houses cleaned:
+
+There were no houses to clean.
+[14/04/2018 11:47:59]  :: Houses cleaned:
+
+There were no houses to clean.
+[14/04/2018 11:53:40]  :: Houses cleaned:
+
+There were no houses to clean.
+[14/04/2018 13:13:34]  :: Houses cleaned:
+
+There were no houses to clean.
+[14/04/2018 13:25:37]  :: Houses cleaned:
+
+There were no houses to clean.
+[14/04/2018 13:31:26]  :: Houses cleaned:
+
+There were no houses to clean.
+[14/04/2018 14:49:21]  :: Houses cleaned:
+
+There were no houses to clean.
+[14/04/2018 14:50:27]  :: Houses cleaned:
+
+There were no houses to clean.
+[14/04/2018 15:38:07]  :: Houses cleaned:
+
+There were no houses to clean.
+[14/04/2018 16:27:56]  :: Houses cleaned:
+
+There were no houses to clean.
+[14/04/2018 16:58:19]  :: Houses cleaned:
+
+There were no houses to clean.
+[14/04/2018 18:14:58]  :: Houses cleaned:
+
+There were no houses to clean.
+[14/04/2018 19:18:59]  :: Houses cleaned:
+
+There were no houses to clean.
+[14/04/2018 19:20:59]  :: Houses cleaned:
+
+There were no houses to clean.
+[14/04/2018 20:09:15]  :: Houses cleaned:
+
+There were no houses to clean.
+[14/04/2018 20:10:24]  :: Houses cleaned:
+
+There were no houses to clean.
+[14/04/2018 20:51:54]  :: Houses cleaned:
+
+There were no houses to clean.
+[15/04/2018 01:44:01]  :: Houses cleaned:
+
+There were no houses to clean.
+[15/04/2018 15:40:27]  :: Houses cleaned:
+
+There were no houses to clean.
+[15/04/2018 18:27:33]  :: Houses cleaned:
+
+There were no houses to clean.
+[15/04/2018 19:06:56]  :: Houses cleaned:
+
+There were no houses to clean.
+[15/04/2018 19:08:55]  :: Houses cleaned:
+
+There were no houses to clean.
+[15/04/2018 20:21:40]  :: Houses cleaned:
+
+There were no houses to clean.
+[15/04/2018 22:32:29]  :: Houses cleaned:
+
+There were no houses to clean.
+[15/04/2018 23:56:36]  :: Houses cleaned:
+
+There were no houses to clean.
+[16/04/2018 00:00:55]  :: Houses cleaned:
+
+There were no houses to clean.
+[17/04/2018 11:56:19]  :: Houses cleaned:
+
+There were no houses to clean.
+[17/04/2018 14:19:10]  :: Houses cleaned:
+
+There were no houses to clean.
+[17/04/2018 14:30:27]  :: Houses cleaned:
+
+There were no houses to clean.
+[17/04/2018 15:21:03]  :: Houses cleaned:
+
+There were no houses to clean.
+[17/04/2018 15:34:45]  :: Houses cleaned:
+
+There were no houses to clean.
+[17/04/2018 15:35:45]  :: Houses cleaned:
+
+There were no houses to clean.
+[17/04/2018 15:36:35]  :: Houses cleaned:
+
+There were no houses to clean.
+[17/04/2018 17:14:37]  :: Houses cleaned:
+
+There were no houses to clean.
+[17/04/2018 17:57:43]  :: Houses cleaned:
+
+There were no houses to clean.
+[17/04/2018 21:02:05]  :: Houses cleaned:
+
+There were no houses to clean.
+[17/04/2018 22:25:49]  :: Houses cleaned:
+
+There were no houses to clean.
+[17/04/2018 22:26:56]  :: Houses cleaned:
+
+There were no houses to clean.
+[17/04/2018 22:27:46]  :: Houses cleaned:
+
+There were no houses to clean.
+[18/04/2018 11:28:19]  :: Houses cleaned:
+
+There were no houses to clean.
+[19/04/2018 00:03:33]  :: Houses cleaned:
+
+There were no houses to clean.
+[19/04/2018 07:50:49]  :: Houses cleaned:
+
+There were no houses to clean.
+[19/04/2018 15:18:50]  :: Houses cleaned:
+
+There were no houses to clean.
+[19/04/2018 17:42:56]  :: Houses cleaned:
+
+There were no houses to clean.
+[19/04/2018 17:44:22]  :: Houses cleaned:
+
+There were no houses to clean.
+[19/04/2018 18:04:37]  :: Houses cleaned:
+
+There were no houses to clean.
+[20/04/2018 17:19:16]  :: Houses cleaned:
+
+There were no houses to clean.
+[20/04/2018 19:43:18]  :: Houses cleaned:
+
+There were no houses to clean.
+[21/04/2018 03:40:16]  :: Houses cleaned:
+
+There were no houses to clean.
+[21/04/2018 14:09:50]  :: Houses cleaned:
+
+There were no houses to clean.
+[21/04/2018 23:44:22]  :: Houses cleaned:
+
+There were no houses to clean.
+[21/04/2018 23:48:06]  :: Houses cleaned:
+
+There were no houses to clean.
+[21/04/2018 23:52:35]  :: Houses cleaned:
+
+There were no houses to clean.
+[22/04/2018 00:27:32]  :: Houses cleaned:
+
+There were no houses to clean.
+[22/04/2018 00:31:45]  :: Houses cleaned:
+
+There were no houses to clean.
+[22/04/2018 01:36:48]  :: Houses cleaned:
+
+There were no houses to clean.
+[22/04/2018 03:03:03]  :: Houses cleaned:
+
+There were no houses to clean.
+[23/04/2018 01:31:46]  :: Houses cleaned:
+
+There were no houses to clean.
+[23/04/2018 02:35:30]  :: Houses cleaned:
+
+There were no houses to clean.
+[23/04/2018 06:23:15]  :: Houses cleaned:
+
+There were no houses to clean.
+[23/04/2018 08:56:50]  :: Houses cleaned:
+
+There were no houses to clean.
+[23/04/2018 09:04:00]  :: Houses cleaned:
+
+There were no houses to clean.
+[23/04/2018 09:05:50]  :: Houses cleaned:
+
+There were no houses to clean.
+[23/04/2018 09:07:24]  :: Houses cleaned:
+
+There were no houses to clean.
+[23/04/2018 09:16:53]  :: Houses cleaned:
+
+There were no houses to clean.
+[23/04/2018 10:47:23]  :: Houses cleaned:
+
+There were no houses to clean.
+[23/04/2018 12:53:51]  :: Houses cleaned:
+
+There were no houses to clean.
+[23/04/2018 13:28:26]  :: Houses cleaned:
+
+There were no houses to clean.
+[23/04/2018 13:33:33]  :: Houses cleaned:
+
+There were no houses to clean.
+[23/04/2018 13:41:38]  :: Houses cleaned:
+
+There were no houses to clean.
+[23/04/2018 15:14:14]  :: Houses cleaned:
+
+There were no houses to clean.
+[23/04/2018 16:41:19]  :: Houses cleaned:
+
+There were no houses to clean.
+[25/04/2018 01:02:41]  :: Houses cleaned:
+
+There were no houses to clean.
+[25/04/2018 16:19:45]  :: Houses cleaned:
+
+There were no houses to clean.
+[25/04/2018 19:16:13]  :: Houses cleaned:
+
+There were no houses to clean.
+[26/04/2018 19:52:53]  :: Houses cleaned:
+
+There were no houses to clean.
+[26/04/2018 19:55:41]  :: Houses cleaned:
+
+There were no houses to clean.
+[26/04/2018 19:57:05]  :: Houses cleaned:
+
+There were no houses to clean.
+[27/04/2018 12:39:44]  :: Houses cleaned:
+
+There were no houses to clean.
+[30/04/2018 09:09:45]  :: Houses cleaned:
+
+There were no houses to clean.
+[30/04/2018 09:11:56]  :: Houses cleaned:
+
+There were no houses to clean.
+[30/04/2018 09:19:11]  :: Houses cleaned:
+
+There were no houses to clean.
+[30/04/2018 09:28:31]  :: Houses cleaned:
+
+There were no houses to clean.
+[30/04/2018 09:33:53]  :: Houses cleaned:
+
+There were no houses to clean.
+[30/04/2018 09:34:37]  :: Houses cleaned:
+
+There were no houses to clean.
+[30/04/2018 09:37:47]  :: Houses cleaned:
+
+There were no houses to clean.
+[30/04/2018 09:41:17]  :: Houses cleaned:
+
+There were no houses to clean.
+[30/04/2018 09:42:35]  :: Houses cleaned:
+
+There were no houses to clean.
+[30/04/2018 09:45:05]  :: Houses cleaned:
+
+There were no houses to clean.
+[30/04/2018 09:50:46]  :: Houses cleaned:
+
+There were no houses to clean.
+[30/04/2018 09:52:06]  :: Houses cleaned:
+
+There were no houses to clean.
+[30/04/2018 11:17:57]  :: Houses cleaned:
+
+There were no houses to clean.
+[30/04/2018 13:55:59]  :: Houses cleaned:
+
+There were no houses to clean.
+[30/04/2018 14:29:27]  :: Houses cleaned:
+
+There were no houses to clean.
+[30/04/2018 14:44:53]  :: Houses cleaned:
+
+There were no houses to clean.
+[01/05/2018 01:52:37]  :: Houses cleaned:
+
+There were no houses to clean.
+[01/05/2018 01:56:18]  :: Houses cleaned:
+
+There were no houses to clean.
+[01/05/2018 01:57:55]  :: Houses cleaned:
+
+There were no houses to clean.
+[02/05/2018 13:47:02]  :: Houses cleaned:
+
+There were no houses to clean.
+[03/05/2018 05:00:00]  :: Houses cleaned:
+
+There were no houses to clean.
+[04/05/2018 14:38:12]  :: Houses cleaned:
+
+There were no houses to clean.
+[06/05/2018 21:33:16]  :: Houses cleaned:
+
+There were no houses to clean.
+[08/05/2018 11:57:08]  :: Houses cleaned:
+
+There were no houses to clean.
+[08/05/2018 12:03:34]  :: Houses cleaned:
+
+There were no houses to clean.
+[08/05/2018 12:07:41]  :: Houses cleaned:
+
+There were no houses to clean.
+[08/05/2018 16:49:35]  :: Houses cleaned:
+
+There were no houses to clean.
+[11/05/2018 13:02:55]  :: Houses cleaned:
+
+There were no houses to clean.
+[12/05/2018 10:51:40]  :: Houses cleaned:
+
+There were no houses to clean.
+[12/05/2018 16:45:09]  :: Houses cleaned:
+
+There were no houses to clean.
+[14/05/2018 23:01:55]  :: Houses cleaned:
+
+There were no houses to clean.
+[14/05/2018 23:07:41]  :: Houses cleaned:
+
+There were no houses to clean.
+[14/05/2018 23:11:33]  :: Houses cleaned:
+
+There were no houses to clean.
+[14/05/2018 23:14:27]  :: Houses cleaned:
+
+There were no houses to clean.
+[15/05/2018 11:45:46]  :: Houses cleaned:
+
+There were no houses to clean.
+[15/05/2018 11:52:25]  :: Houses cleaned:
+
+There were no houses to clean.
+[15/05/2018 12:04:31]  :: Houses cleaned:
+
+There were no houses to clean.
+[15/05/2018 12:05:02]  :: Houses cleaned:
+
+There were no houses to clean.
+[15/05/2018 14:15:00]  :: Houses cleaned:
+
+There were no houses to clean.
+[16/05/2018 17:26:12]  :: Houses cleaned:
+
+There were no houses to clean.
+[16/05/2018 17:47:26]  :: Houses cleaned:
+
+There were no houses to clean.
+[18/05/2018 18:35:32]  :: Houses cleaned:
+
+Unnamed House #2, owned by Nopainnogain
+Unnamed House #170, owned by Psycho Kakarot
+Unnamed House #194, owned by Skyline
+
+[15/07/2018 21:05:15]  :: Houses cleaned:
+
+There were no houses to clean.
+[15/07/2018 21:07:04]  :: Houses cleaned:
+
+There were no houses to clean.
+[15/07/2018 21:11:12]  :: Houses cleaned:
+
+There were no houses to clean.
+[18/07/2018 12:48:08]  :: Houses cleaned:
+
+There were no houses to clean.
+[18/07/2018 12:49:54]  :: Houses cleaned:
+
+There were no houses to clean.
+[18/07/2018 12:52:21]  :: Houses cleaned:
+
+There were no houses to clean.
+[18/07/2018 13:05:06]  :: Houses cleaned:
+
+There were no houses to clean.
+[18/07/2018 13:20:03]  :: Houses cleaned:
+
+There were no houses to clean.
+[18/07/2018 13:21:18]  :: Houses cleaned:
+
+There were no houses to clean.
+[18/07/2018 13:23:09]  :: Houses cleaned:
+
+There were no houses to clean.
+[18/07/2018 15:03:38]  :: Houses cleaned:
+
+There were no houses to clean.
+[18/07/2018 15:11:26]  :: Houses cleaned:
+
+There were no houses to clean.
+[18/07/2018 15:15:31]  :: Houses cleaned:
+
+There were no houses to clean.
+[18/07/2018 15:46:32]  :: Houses cleaned:
+
+There were no houses to clean.
+[18/07/2018 16:05:45]  :: Houses cleaned:
+
+There were no houses to clean.
+[01/08/2018 08:55:21]  :: Houses cleaned:
+
+There were no houses to clean.
+[07/08/2018 14:40:04]  :: Houses cleaned:
+
+There were no houses to clean.
+[07/08/2018 17:43:22]  :: Houses cleaned:
+
+There were no houses to clean.
+[15/09/2018 20:35:16]  :: Houses cleaned:
+
+There were no houses to clean.
+[15/09/2018 20:44:10]  :: Houses cleaned:
+
+There were no houses to clean.
+[21/10/2018 18:00:42]  :: Houses cleaned:
+
+There were no houses to clean.
+[21/10/2018 18:07:51]  :: Houses cleaned:
+
+There were no houses to clean.
+[21/10/2018 19:08:58]  :: Houses cleaned:
+
+There were no houses to clean.
+[21/10/2018 19:19:15]  :: Houses cleaned:
+
+There were no houses to clean.
+[21/10/2018 19:21:50]  :: Houses cleaned:
+
+There were no houses to clean.
+[21/10/2018 19:51:20]  :: Houses cleaned:
+
+There were no houses to clean.
+[21/10/2018 19:55:22]  :: Houses cleaned:
+
+There were no houses to clean.
+[21/10/2018 20:02:11]  :: Houses cleaned:
+
+There were no houses to clean.
+[21/10/2018 20:03:44]  :: Houses cleaned:
+
+There were no houses to clean.
+[21/10/2018 20:29:30]  :: Houses cleaned:
+
+There were no houses to clean.
+[21/10/2018 20:41:07]  :: Houses cleaned:
+
+There were no houses to clean.
+[21/10/2018 20:43:43]  :: Houses cleaned:
+
+There were no houses to clean.
+[21/10/2018 20:44:41]  :: Houses cleaned:
+
+There were no houses to clean.
+[21/10/2018 20:46:43]  :: Houses cleaned:
+
+There were no houses to clean.
+[21/10/2018 21:12:06]  :: Houses cleaned:
+
+There were no houses to clean.
+[21/10/2018 21:48:38]  :: Houses cleaned:
+
+There were no houses to clean.
+[21/10/2018 21:55:17]  :: Houses cleaned:
+
+There were no houses to clean.
+[21/10/2018 22:30:33]  :: Houses cleaned:
+
+There were no houses to clean.
+[21/10/2018 22:34:21]  :: Houses cleaned:
+
+There were no houses to clean.
+[21/10/2018 22:35:28]  :: Houses cleaned:
+
+There were no houses to clean.
+[21/10/2018 22:36:59]  :: Houses cleaned:
+
+There were no houses to clean.
+[21/10/2018 22:39:38]  :: Houses cleaned:
+
+There were no houses to clean.
+[21/10/2018 22:41:55]  :: Houses cleaned:
+
+There were no houses to clean.
+[21/10/2018 22:43:42]  :: Houses cleaned:
+
+There were no houses to clean.
+[21/10/2018 22:44:56]  :: Houses cleaned:
+
+There were no houses to clean.
+[22/10/2018 21:31:58]  :: Houses cleaned:
+
+There were no houses to clean.
+[22/10/2018 22:22:23]  :: Houses cleaned:
+
+There were no houses to clean.
+[22/10/2018 22:27:51]  :: Houses cleaned:
+
+There were no houses to clean.
+[22/10/2018 22:46:30]  :: Houses cleaned:
+
+There were no houses to clean.
+[22/10/2018 23:03:52]  :: Houses cleaned:
+
+There were no houses to clean.
+[23/10/2018 12:29:43]  :: Houses cleaned:
+
+There were no houses to clean.
+[23/10/2018 23:44:36]  :: Houses cleaned:
+
+There were no houses to clean.
+[23/10/2018 23:58:35]  :: Houses cleaned:
+
+There were no houses to clean.
+[24/10/2018 06:20:13]  :: Houses cleaned:
+
+There were no houses to clean.
+[24/10/2018 16:05:30]  :: Houses cleaned:
+
+There were no houses to clean.
+[24/10/2018 16:14:49]  :: Houses cleaned:
+
+There were no houses to clean.
+[24/10/2018 16:21:17]  :: Houses cleaned:
+
+There were no houses to clean.
+[24/10/2018 16:57:48]  :: Houses cleaned:
+
+There were no houses to clean.
+[24/10/2018 17:22:17]  :: Houses cleaned:
+
+There were no houses to clean.
+[24/10/2018 17:26:44]  :: Houses cleaned:
+
+There were no houses to clean.
+[24/10/2018 17:30:42]  :: Houses cleaned:
+
+There were no houses to clean.
+[24/10/2018 17:35:00]  :: Houses cleaned:
+
+There were no houses to clean.
+[24/10/2018 17:49:06]  :: Houses cleaned:
+
+There were no houses to clean.
+[24/10/2018 18:13:56]  :: Houses cleaned:
+
+There were no houses to clean.
+[24/10/2018 18:30:21]  :: Houses cleaned:
+
+There were no houses to clean.
+[24/10/2018 18:34:32]  :: Houses cleaned:
+
+There were no houses to clean.
+[24/10/2018 19:08:11]  :: Houses cleaned:
+
+There were no houses to clean.
+[24/10/2018 21:56:23]  :: Houses cleaned:
+
+There were no houses to clean.
+[25/10/2018 00:01:41]  :: Houses cleaned:
+
+There were no houses to clean.
+[25/10/2018 00:22:28]  :: Houses cleaned:
+
+There were no houses to clean.
+[25/10/2018 00:27:36]  :: Houses cleaned:
+
+There were no houses to clean.
+[25/10/2018 10:03:14]  :: Houses cleaned:
+
+There were no houses to clean.
+[25/10/2018 12:05:27]  :: Houses cleaned:
+
+There were no houses to clean.
+[25/10/2018 12:11:13]  :: Houses cleaned:
+
+There were no houses to clean.
+[25/10/2018 16:39:36]  :: Houses cleaned:
+
+There were no houses to clean.
+[25/10/2018 17:05:23]  :: Houses cleaned:
+
+There were no houses to clean.
+[25/10/2018 17:33:18]  :: Houses cleaned:
+
+There were no houses to clean.
+[25/10/2018 17:47:46]  :: Houses cleaned:
+
+There were no houses to clean.
+[25/10/2018 18:17:16]  :: Houses cleaned:
+
+There were no houses to clean.
+[26/10/2018 00:50:29]  :: Houses cleaned:
+
+There were no houses to clean.
+[26/10/2018 01:28:32]  :: Houses cleaned:
+
+There were no houses to clean.
+[26/10/2018 13:07:09]  :: Houses cleaned:
+
+There were no houses to clean.
+[26/10/2018 19:12:33]  :: Houses cleaned:
+
+There were no houses to clean.
+[26/10/2018 20:02:48]  :: Houses cleaned:
+
+There were no houses to clean.
+[26/10/2018 22:57:05]  :: Houses cleaned:
+
+There were no houses to clean.
+[27/10/2018 17:35:40]  :: Houses cleaned:
+
+There were no houses to clean.
+[27/10/2018 17:37:42]  :: Houses cleaned:
+
+There were no houses to clean.
+[27/10/2018 17:42:58]  :: Houses cleaned:
+
+There were no houses to clean.
+[27/10/2018 18:25:03]  :: Houses cleaned:
+
+There were no houses to clean.
+[27/10/2018 18:26:21]  :: Houses cleaned:
+
+There were no houses to clean.
+[27/10/2018 18:32:30]  :: Houses cleaned:
+
+There were no houses to clean.
+[27/10/2018 22:14:24]  :: Houses cleaned:
+
+There were no houses to clean.
+[28/10/2018 00:07:32]  :: Houses cleaned:
+
+There were no houses to clean.
+[28/10/2018 00:24:45]  :: Houses cleaned:
+
+There were no houses to clean.
+[28/10/2018 00:28:55]  :: Houses cleaned:
+
+There were no houses to clean.
+[28/10/2018 04:43:01]  :: Houses cleaned:
+
+There were no houses to clean.
+[28/10/2018 04:45:06]  :: Houses cleaned:
+
+There were no houses to clean.
+[28/10/2018 05:49:02]  :: Houses cleaned:
+
+There were no houses to clean.
+[28/10/2018 05:50:15]  :: Houses cleaned:
+
+There were no houses to clean.
+[28/10/2018 13:04:44]  :: Houses cleaned:
+
+There were no houses to clean.
+[28/10/2018 16:15:49]  :: Houses cleaned:
+
+There were no houses to clean.
+[28/10/2018 16:19:29]  :: Houses cleaned:
+
+There were no houses to clean.
+[28/10/2018 21:26:40]  :: Houses cleaned:
+
+There were no houses to clean.
+[29/10/2018 15:43:56]  :: Houses cleaned:
+
+There were no houses to clean.
+[29/10/2018 16:36:48]  :: Houses cleaned:
+
+There were no houses to clean.
+[29/10/2018 16:38:56]  :: Houses cleaned:
+
+There were no houses to clean.
+[29/10/2018 17:09:41]  :: Houses cleaned:
+
+There were no houses to clean.
+[29/10/2018 21:50:21]  :: Houses cleaned:
+
+There were no houses to clean.
+[29/10/2018 22:06:13]  :: Houses cleaned:
+
+There were no houses to clean.
+[29/10/2018 22:13:24]  :: Houses cleaned:
+
+There were no houses to clean.
+[29/10/2018 22:20:21]  :: Houses cleaned:
+
+There were no houses to clean.
+[29/10/2018 22:21:18]  :: Houses cleaned:
+
+There were no houses to clean.
+[29/10/2018 22:31:17]  :: Houses cleaned:
+
+There were no houses to clean.
+[29/10/2018 22:38:31]  :: Houses cleaned:
+
+There were no houses to clean.
+[29/10/2018 22:41:01]  :: Houses cleaned:
+
+There were no houses to clean.
+[29/10/2018 22:43:12]  :: Houses cleaned:
+
+There were no houses to clean.
+[29/10/2018 23:22:57]  :: Houses cleaned:
+
+There were no houses to clean.
+[29/10/2018 23:33:17]  :: Houses cleaned:
+
+There were no houses to clean.
+[30/10/2018 00:47:13]  :: Houses cleaned:
+
+There were no houses to clean.
+[30/10/2018 01:47:24]  :: Houses cleaned:
+
+There were no houses to clean.
+[30/10/2018 01:59:09]  :: Houses cleaned:
+
+There were no houses to clean.
+[30/10/2018 02:07:31]  :: Houses cleaned:
+
+There were no houses to clean.
+[30/10/2018 02:23:01]  :: Houses cleaned:
+
+There were no houses to clean.
+[30/10/2018 02:30:03]  :: Houses cleaned:
+
+There were no houses to clean.
+[30/10/2018 02:42:17]  :: Houses cleaned:
+
+There were no houses to clean.
+[30/10/2018 03:04:48]  :: Houses cleaned:
+
+There were no houses to clean.
+[30/10/2018 03:09:50]  :: Houses cleaned:
+
+There were no houses to clean.
+[30/10/2018 03:17:30]  :: Houses cleaned:
+
+There were no houses to clean.
+[30/10/2018 04:14:44]  :: Houses cleaned:
+
+There were no houses to clean.
+[30/10/2018 04:22:38]  :: Houses cleaned:
+
+There were no houses to clean.
+[30/10/2018 04:29:39]  :: Houses cleaned:
+
+There were no houses to clean.
+[30/10/2018 04:33:53]  :: Houses cleaned:
+
+There were no houses to clean.
+[30/10/2018 04:53:28]  :: Houses cleaned:
+
+There were no houses to clean.
+[30/10/2018 05:08:09]  :: Houses cleaned:
+
+There were no houses to clean.
+[30/10/2018 05:20:09]  :: Houses cleaned:
+
+There were no houses to clean.
+[30/10/2018 05:34:24]  :: Houses cleaned:
+
+There were no houses to clean.
+[30/10/2018 06:25:45]  :: Houses cleaned:
+
+There were no houses to clean.
+[30/10/2018 06:31:00]  :: Houses cleaned:
+
+There were no houses to clean.
+[30/10/2018 07:16:52]  :: Houses cleaned:
+
+There were no houses to clean.
+[30/10/2018 10:43:36]  :: Houses cleaned:
+
+There were no houses to clean.
+[30/10/2018 11:27:19]  :: Houses cleaned:
+
+There were no houses to clean.
+[30/11/2018 11:53:39]  :: Houses cleaned:
+
+There were no houses to clean.
+[30/11/2018 11:55:51]  :: Houses cleaned:
+
+There were no houses to clean.
+[30/11/2018 11:56:22]  :: Houses cleaned:
+
+There were no houses to clean.
+[30/11/2018 22:44:11]  :: Houses cleaned:
+
+There were no houses to clean.
+[30/11/2018 22:49:33]  :: Houses cleaned:
+
+There were no houses to clean.
+[30/11/2018 22:52:03]  :: Houses cleaned:
+
+There were no houses to clean.
+[01/12/2018 00:03:34]  :: Houses cleaned:
+
+There were no houses to clean.
+[01/12/2018 00:04:22]  :: Houses cleaned:
+
+There were no houses to clean.
+[01/11/2018 10:53:49]  :: Houses cleaned:
+
+There were no houses to clean.
+[01/11/2018 10:57:36]  :: Houses cleaned:
+
+There were no houses to clean.
+[01/11/2018 11:02:25]  :: Houses cleaned:
+
+There were no houses to clean.
+[01/11/2018 11:06:58]  :: Houses cleaned:
+
+There were no houses to clean.
+[01/11/2018 11:58:07]  :: Houses cleaned:
+
+There were no houses to clean.
+[01/11/2018 12:55:59]  :: Houses cleaned:
+
+There were no houses to clean.
+[01/11/2018 12:57:11]  :: Houses cleaned:
+
+There were no houses to clean.
+[01/11/2018 12:57:38]  :: Houses cleaned:
+
+There were no houses to clean.
+[01/11/2018 12:58:19]  :: Houses cleaned:
+
+There were no houses to clean.
+[01/11/2018 13:13:33]  :: Houses cleaned:
+
+There were no houses to clean.
+[01/11/2018 13:19:01]  :: Houses cleaned:
+
+There were no houses to clean.
+[01/11/2018 13:29:39]  :: Houses cleaned:
+
+There were no houses to clean.
+[01/11/2018 16:00:47]  :: Houses cleaned:
+
+There were no houses to clean.
+[01/11/2018 16:02:58]  :: Houses cleaned:
+
+There were no houses to clean.
+[01/11/2018 16:04:42]  :: Houses cleaned:
+
+There were no houses to clean.
+[01/11/2018 16:09:36]  :: Houses cleaned:
+
+There were no houses to clean.
+[01/11/2018 16:14:44]  :: Houses cleaned:
+
+There were no houses to clean.
+[01/11/2018 16:16:18]  :: Houses cleaned:
+
+There were no houses to clean.
+[01/11/2018 16:18:58]  :: Houses cleaned:
+
+There were no houses to clean.
+[01/11/2018 16:21:47]  :: Houses cleaned:
+
+There were no houses to clean.
+[01/11/2018 16:59:57]  :: Houses cleaned:
+
+There were no houses to clean.
+[01/11/2018 23:58:15]  :: Houses cleaned:
+
+There were no houses to clean.
+[02/11/2018 01:27:28]  :: Houses cleaned:
+
+There were no houses to clean.
+[02/11/2018 01:30:20]  :: Houses cleaned:
+
+There were no houses to clean.
+[02/11/2018 01:32:20]  :: Houses cleaned:
+
+There were no houses to clean.
+[02/11/2018 02:10:53]  :: Houses cleaned:
+
+There were no houses to clean.
+[02/11/2018 02:16:42]  :: Houses cleaned:
+
+There were no houses to clean.
+[01/11/2018 02:46:57]  :: Houses cleaned:
+
+There were no houses to clean.
+[01/11/2018 02:47:43]  :: Houses cleaned:
+
+There were no houses to clean.
+[01/11/2018 02:55:40]  :: Houses cleaned:
+
+There were no houses to clean.
+[01/11/2018 03:00:02]  :: Houses cleaned:
+
+There were no houses to clean.
+[01/11/2018 03:04:56]  :: Houses cleaned:
+
+There were no houses to clean.
+[01/11/2018 03:34:23]  :: Houses cleaned:
+
+There were no houses to clean.
+[01/11/2018 04:04:35]  :: Houses cleaned:
+
+There were no houses to clean.
+[01/11/2018 04:15:34]  :: Houses cleaned:
+
+There were no houses to clean.
+[01/11/2018 04:51:18]  :: Houses cleaned:
+
+There were no houses to clean.
+[01/11/2018 05:01:50]  :: Houses cleaned:
+
+There were no houses to clean.
+[01/11/2018 05:05:51]  :: Houses cleaned:
+
+There were no houses to clean.
+[01/11/2018 05:10:46]  :: Houses cleaned:
+
+There were no houses to clean.
+[01/11/2018 05:14:27]  :: Houses cleaned:
+
+There were no houses to clean.
+[01/11/2018 05:39:00]  :: Houses cleaned:
+
+There were no houses to clean.
+[01/11/2018 05:52:05]  :: Houses cleaned:
+
+There were no houses to clean.
+[01/11/2018 05:54:48]  :: Houses cleaned:
+
+There were no houses to clean.
+[01/11/2018 05:57:57]  :: Houses cleaned:
+
+There were no houses to clean.
+[01/11/2018 05:58:32]  :: Houses cleaned:
+
+There were no houses to clean.
+[01/11/2018 17:22:28]  :: Houses cleaned:
+
+There were no houses to clean.
+[01/11/2018 17:24:44]  :: Houses cleaned:
+
+There were no houses to clean.
+[01/11/2018 17:28:20]  :: Houses cleaned:
+
+There were no houses to clean.
+[01/11/2018 17:40:13]  :: Houses cleaned:
+
+There were no houses to clean.
+[01/11/2018 17:44:56]  :: Houses cleaned:
+
+There were no houses to clean.
+[01/11/2018 20:25:50]  :: Houses cleaned:
+
+There were no houses to clean.
+[01/11/2018 20:31:14]  :: Houses cleaned:
+
+There were no houses to clean.
+[01/11/2018 20:42:46]  :: Houses cleaned:
+
+There were no houses to clean.
+[01/11/2018 20:47:42]  :: Houses cleaned:
+
+There were no houses to clean.
+[01/11/2018 20:49:16]  :: Houses cleaned:
+
+There were no houses to clean.
+[01/11/2018 20:51:12]  :: Houses cleaned:
+
+There were no houses to clean.
+[01/11/2018 20:55:50]  :: Houses cleaned:
+
+There were no houses to clean.
+[01/11/2018 21:35:54]  :: Houses cleaned:
+
+There were no houses to clean.
+[02/11/2018 10:45:12]  :: Houses cleaned:
+
+There were no houses to clean.
+[02/11/2018 10:49:35]  :: Houses cleaned:
+
+There were no houses to clean.
+[02/11/2018 10:51:30]  :: Houses cleaned:
+
+There were no houses to clean.
+[02/11/2018 10:54:53]  :: Houses cleaned:
+
+There were no houses to clean.
+[02/11/2018 10:56:21]  :: Houses cleaned:
+
+There were no houses to clean.
+[02/11/2018 10:57:16]  :: Houses cleaned:
+
+There were no houses to clean.
+[02/11/2018 10:58:52]  :: Houses cleaned:
+
+There were no houses to clean.
+[02/11/2018 11:05:21]  :: Houses cleaned:
+
+There were no houses to clean.
+[02/11/2018 11:07:36]  :: Houses cleaned:
+
+There were no houses to clean.
+[02/11/2018 12:01:42]  :: Houses cleaned:
+
+There were no houses to clean.
+[02/11/2018 12:07:49]  :: Houses cleaned:
+
+There were no houses to clean.
+[02/11/2018 13:25:16]  :: Houses cleaned:
+
+There were no houses to clean.
+[02/11/2018 13:29:15]  :: Houses cleaned:
+
+There were no houses to clean.
+[02/11/2018 13:29:51]  :: Houses cleaned:
+
+There were no houses to clean.
+[02/11/2018 13:45:36]  :: Houses cleaned:
+
+There were no houses to clean.
+[02/11/2018 13:49:55]  :: Houses cleaned:
+
+There were no houses to clean.
+[02/11/2018 13:50:31]  :: Houses cleaned:
+
+There were no houses to clean.
+[02/11/2018 13:55:33]  :: Houses cleaned:
+
+There were no houses to clean.
+[02/11/2018 13:59:05]  :: Houses cleaned:
+
+There were no houses to clean.
+[02/11/2018 14:28:31]  :: Houses cleaned:
+
+There were no houses to clean.
+[02/11/2018 14:29:38]  :: Houses cleaned:
+
+There were no houses to clean.
+[02/11/2018 14:40:04]  :: Houses cleaned:
+
+There were no houses to clean.
+[02/11/2018 14:40:35]  :: Houses cleaned:
+
+There were no houses to clean.
+[02/11/2018 14:41:29]  :: Houses cleaned:
+
+There were no houses to clean.
+[02/11/2018 14:49:39]  :: Houses cleaned:
+
+There were no houses to clean.
+[02/11/2018 17:13:20]  :: Houses cleaned:
+
+There were no houses to clean.
+[02/11/2018 17:21:13]  :: Houses cleaned:
+
+There were no houses to clean.
+[02/11/2018 17:51:55]  :: Houses cleaned:
+
+There were no houses to clean.
+[02/11/2018 18:50:47]  :: Houses cleaned:
+
+There were no houses to clean.
+[02/11/2018 18:55:18]  :: Houses cleaned:
+
+There were no houses to clean.
+[02/11/2018 19:20:45]  :: Houses cleaned:
+
+There were no houses to clean.
+[02/11/2018 19:23:09]  :: Houses cleaned:
+
+There were no houses to clean.
+[02/11/2018 19:24:55]  :: Houses cleaned:
+
+There were no houses to clean.
+[02/11/2018 19:26:48]  :: Houses cleaned:
+
+There were no houses to clean.
+[02/11/2018 19:27:18]  :: Houses cleaned:
+
+There were no houses to clean.
+[02/11/2018 19:32:37]  :: Houses cleaned:
+
+There were no houses to clean.
+[02/11/2018 19:34:29]  :: Houses cleaned:
+
+There were no houses to clean.
+[02/11/2018 19:36:53]  :: Houses cleaned:
+
+There were no houses to clean.
+[02/11/2018 19:37:23]  :: Houses cleaned:
+
+There were no houses to clean.
+[02/11/2018 19:39:19]  :: Houses cleaned:
+
+There were no houses to clean.
+[02/11/2018 19:40:23]  :: Houses cleaned:
+
+There were no houses to clean.
+[02/11/2018 19:42:33]  :: Houses cleaned:
+
+There were no houses to clean.
+[02/11/2018 20:29:55]  :: Houses cleaned:
+
+There were no houses to clean.
+[03/11/2018 00:04:02]  :: Houses cleaned:
+
+There were no houses to clean.
+[03/11/2018 03:53:41]  :: Houses cleaned:
+
+There were no houses to clean.
+[03/11/2018 03:54:31]  :: Houses cleaned:
+
+There were no houses to clean.
+[03/11/2018 03:54:59]  :: Houses cleaned:
+
+There were no houses to clean.
+[03/11/2018 03:56:16]  :: Houses cleaned:
+
+There were no houses to clean.
+[03/11/2018 03:59:56]  :: Houses cleaned:
+
+There were no houses to clean.
+[03/11/2018 04:01:06]  :: Houses cleaned:
+
+There were no houses to clean.
+[03/11/2018 04:02:54]  :: Houses cleaned:
+
+There were no houses to clean.
+[03/11/2018 04:30:06]  :: Houses cleaned:
+
+There were no houses to clean.
+[03/11/2018 04:33:36]  :: Houses cleaned:
+
+There were no houses to clean.
+[03/11/2018 11:19:18]  :: Houses cleaned:
+
+There were no houses to clean.
+[03/11/2018 11:40:56]  :: Houses cleaned:
+
+There were no houses to clean.
+[03/11/2018 12:03:22]  :: Houses cleaned:
+
+There were no houses to clean.
+[04/11/2018 01:57:21]  :: Houses cleaned:
+
+There were no houses to clean.
+[04/11/2018 09:39:49]  :: Houses cleaned:
+
+There were no houses to clean.
+[04/11/2018 09:42:30]  :: Houses cleaned:
+
+There were no houses to clean.
+[04/11/2018 14:37:44]  :: Houses cleaned:
+
+There were no houses to clean.
+[04/11/2018 14:40:30]  :: Houses cleaned:
+
+There were no houses to clean.
+[04/11/2018 16:29:06]  :: Houses cleaned:
+
+There were no houses to clean.
+[04/11/2018 16:38:46]  :: Houses cleaned:
+
+There were no houses to clean.
+[05/11/2018 16:35:29]  :: Houses cleaned:
+
+There were no houses to clean.
+[05/11/2018 23:14:40]  :: Houses cleaned:
+
+There were no houses to clean.
+[06/11/2018 00:05:28]  :: Houses cleaned:
+
+There were no houses to clean.
+[06/11/2018 00:25:04]  :: Houses cleaned:
+
+There were no houses to clean.
+[06/11/2018 00:58:56]  :: Houses cleaned:
+
+There were no houses to clean.
+[06/11/2018 00:59:45]  :: Houses cleaned:
+
+There were no houses to clean.
+[06/11/2018 01:07:35]  :: Houses cleaned:
+
+There were no houses to clean.
+[06/11/2018 01:27:04]  :: Houses cleaned:
+
+There were no houses to clean.
+[06/11/2018 04:44:21]  :: Houses cleaned:
+
+There were no houses to clean.
+[06/11/2018 14:34:08]  :: Houses cleaned:
+
+There were no houses to clean.
+[06/11/2018 22:12:29]  :: Houses cleaned:
+
+There were no houses to clean.
+[07/11/2018 04:35:30]  :: Houses cleaned:
+
+There were no houses to clean.
+[07/11/2018 10:37:34]  :: Houses cleaned:
+
+There were no houses to clean.
+[07/11/2018 10:44:48]  :: Houses cleaned:
+
+There were no houses to clean.
+[07/11/2018 11:55:05]  :: Houses cleaned:
+
+There were no houses to clean.
+[07/11/2018 12:15:12]  :: Houses cleaned:
+
+There were no houses to clean.
+[07/11/2018 13:42:01]  :: Houses cleaned:
+
+There were no houses to clean.
+[07/11/2018 15:39:37]  :: Houses cleaned:
+
+There were no houses to clean.
+[08/11/2018 16:32:16]  :: Houses cleaned:
+
+There were no houses to clean.
+[08/11/2018 16:41:01]  :: Houses cleaned:
+
+There were no houses to clean.
+[09/11/2018 15:05:33]  :: Houses cleaned:
+
+There were no houses to clean.
+[09/11/2018 15:54:32]  :: Houses cleaned:
+
+There were no houses to clean.
+[09/11/2018 16:11:03]  :: Houses cleaned:
+
+There were no houses to clean.
+[09/11/2018 16:14:19]  :: Houses cleaned:
+
+There were no houses to clean.
+[09/11/2018 16:22:09]  :: Houses cleaned:
+
+There were no houses to clean.
+[09/11/2018 16:25:16]  :: Houses cleaned:
+
+There were no houses to clean.
+[09/11/2018 16:31:56]  :: Houses cleaned:
+
+There were no houses to clean.
+[09/11/2018 16:36:17]  :: Houses cleaned:
+
+There were no houses to clean.
+[09/11/2018 16:43:28]  :: Houses cleaned:
+
+There were no houses to clean.
+[09/11/2018 16:46:01]  :: Houses cleaned:
+
+There were no houses to clean.
+[09/11/2018 16:50:08]  :: Houses cleaned:
+
+There were no houses to clean.
+[09/11/2018 16:52:31]  :: Houses cleaned:
+
+There were no houses to clean.
+[09/11/2018 16:55:43]  :: Houses cleaned:
+
+There were no houses to clean.
+[09/11/2018 16:59:23]  :: Houses cleaned:
+
+There were no houses to clean.
+[09/11/2018 17:02:09]  :: Houses cleaned:
+
+There were no houses to clean.
+[09/11/2018 17:14:39]  :: Houses cleaned:
+
+There were no houses to clean.
+[09/11/2018 17:16:36]  :: Houses cleaned:
+
+There were no houses to clean.
+[09/11/2018 17:19:49]  :: Houses cleaned:
+
+There were no houses to clean.
+[09/11/2018 17:25:22]  :: Houses cleaned:
+
+There were no houses to clean.
+[09/11/2018 17:28:27]  :: Houses cleaned:
+
+There were no houses to clean.
+[09/11/2018 17:35:06]  :: Houses cleaned:
+
+There were no houses to clean.
+[09/11/2018 17:41:15]  :: Houses cleaned:
+
+There were no houses to clean.
+[09/11/2018 17:42:58]  :: Houses cleaned:
+
+There were no houses to clean.
+[09/11/2018 17:45:47]  :: Houses cleaned:
+
+There were no houses to clean.
+[09/11/2018 17:47:04]  :: Houses cleaned:
+
+There were no houses to clean.
+[09/11/2018 17:54:50]  :: Houses cleaned:
+
+There were no houses to clean.
+[09/11/2018 17:56:52]  :: Houses cleaned:
+
+There were no houses to clean.
+[09/11/2018 18:00:31]  :: Houses cleaned:
+
+There were no houses to clean.
+[09/11/2018 18:01:39]  :: Houses cleaned:
+
+There were no houses to clean.
+[09/11/2018 18:03:33]  :: Houses cleaned:
+
+There were no houses to clean.
+[09/11/2018 18:04:47]  :: Houses cleaned:
+
+There were no houses to clean.
+[09/11/2018 18:05:18]  :: Houses cleaned:
+
+There were no houses to clean.
+[09/11/2018 18:39:06]  :: Houses cleaned:
+
+There were no houses to clean.
+[09/11/2018 18:41:35]  :: Houses cleaned:
+
+There were no houses to clean.
+[09/11/2018 18:49:45]  :: Houses cleaned:
+
+There were no houses to clean.
+[09/11/2018 22:49:30]  :: Houses cleaned:
+
+There were no houses to clean.
+[09/11/2018 23:09:07]  :: Houses cleaned:
+
+There were no houses to clean.
+[09/11/2018 23:16:39]  :: Houses cleaned:
+
+There were no houses to clean.
+[09/11/2018 23:19:59]  :: Houses cleaned:
+
+There were no houses to clean.
+[09/11/2018 23:20:37]  :: Houses cleaned:
+
+There were no houses to clean.
+[09/11/2018 23:25:10]  :: Houses cleaned:
+
+There were no houses to clean.
+[09/11/2018 23:26:35]  :: Houses cleaned:
+
+There were no houses to clean.
+[09/11/2018 23:37:34]  :: Houses cleaned:
+
+There were no houses to clean.
+[09/11/2018 23:39:08]  :: Houses cleaned:
+
+There were no houses to clean.
+[10/11/2018 18:04:18]  :: Houses cleaned:
+
+There were no houses to clean.
+[10/11/2018 18:35:11]  :: Houses cleaned:
+
+There were no houses to clean.
+[10/11/2018 19:01:57]  :: Houses cleaned:
+
+There were no houses to clean.
+[10/11/2018 19:06:53]  :: Houses cleaned:
+
+There were no houses to clean.
+[10/11/2018 19:15:04]  :: Houses cleaned:
+
+There were no houses to clean.
+[10/11/2018 19:20:54]  :: Houses cleaned:
+
+There were no houses to clean.
+[10/11/2018 19:23:00]  :: Houses cleaned:
+
+There were no houses to clean.
+[10/11/2018 19:29:51]  :: Houses cleaned:
+
+There were no houses to clean.
+[10/11/2018 19:36:51]  :: Houses cleaned:
+
+There were no houses to clean.
+[10/11/2018 19:41:44]  :: Houses cleaned:
+
+There were no houses to clean.
+[10/11/2018 19:45:17]  :: Houses cleaned:
+
+There were no houses to clean.
+[10/11/2018 19:57:52]  :: Houses cleaned:
+
+There were no houses to clean.
+[10/11/2018 20:00:34]  :: Houses cleaned:
+
+There were no houses to clean.
+[10/11/2018 20:02:29]  :: Houses cleaned:
+
+There were no houses to clean.
+[10/11/2018 20:03:11]  :: Houses cleaned:
+
+There were no houses to clean.
+[10/11/2018 20:03:23]  :: Houses cleaned:
+
+There were no houses to clean.
+[10/11/2018 20:06:51]  :: Houses cleaned:
+
+There were no houses to clean.
+[10/11/2018 20:10:18]  :: Houses cleaned:
+
+There were no houses to clean.
+[10/11/2018 20:10:29]  :: Houses cleaned:
+
+There were no houses to clean.
+[10/11/2018 20:15:25]  :: Houses cleaned:
+
+There were no houses to clean.
+[10/11/2018 21:14:39]  :: Houses cleaned:
+
+There were no houses to clean.
+[10/11/2018 23:27:21]  :: Houses cleaned:
+
+There were no houses to clean.
+[10/11/2018 23:34:07]  :: Houses cleaned:
+
+There were no houses to clean.
+[10/11/2018 23:36:21]  :: Houses cleaned:
+
+There were no houses to clean.
+[10/11/2018 23:37:56]  :: Houses cleaned:
+
+There were no houses to clean.
+[10/11/2018 23:49:45]  :: Houses cleaned:
+
+There were no houses to clean.
+[10/11/2018 23:50:56]  :: Houses cleaned:
+
+There were no houses to clean.
+[10/11/2018 23:51:53]  :: Houses cleaned:
+
+There were no houses to clean.
+[11/11/2018 00:04:45]  :: Houses cleaned:
+
+There were no houses to clean.
+[11/11/2018 00:07:06]  :: Houses cleaned:
+
+There were no houses to clean.
+[11/11/2018 00:07:40]  :: Houses cleaned:
+
+There were no houses to clean.
+[11/11/2018 00:07:56]  :: Houses cleaned:
+
+There were no houses to clean.
+[11/11/2018 00:08:16]  :: Houses cleaned:
+
+There were no houses to clean.
+[11/11/2018 00:08:31]  :: Houses cleaned:
+
+There were no houses to clean.
+[11/11/2018 00:21:32]  :: Houses cleaned:
+
+There were no houses to clean.
+[11/11/2018 00:22:53]  :: Houses cleaned:
+
+There were no houses to clean.
+[11/11/2018 00:37:33]  :: Houses cleaned:
+
+There were no houses to clean.
+[11/11/2018 00:37:52]  :: Houses cleaned:
+
+There were no houses to clean.
+[11/11/2018 00:39:21]  :: Houses cleaned:
+
+There were no houses to clean.
+[11/11/2018 00:45:08]  :: Houses cleaned:
+
+There were no houses to clean.
+[11/11/2018 00:46:27]  :: Houses cleaned:
+
+There were no houses to clean.
+[11/11/2018 00:46:50]  :: Houses cleaned:
+
+There were no houses to clean.
+[11/11/2018 00:48:58]  :: Houses cleaned:
+
+There were no houses to clean.
+[11/11/2018 00:49:13]  :: Houses cleaned:
+
+There were no houses to clean.
+[11/11/2018 00:49:25]  :: Houses cleaned:
+
+There were no houses to clean.
+[11/11/2018 11:35:40]  :: Houses cleaned:
+
+There were no houses to clean.
+[11/11/2018 12:23:56]  :: Houses cleaned:
+
+There were no houses to clean.
+[11/11/2018 13:24:22]  :: Houses cleaned:
+
+There were no houses to clean.
+[11/11/2018 13:26:47]  :: Houses cleaned:
+
+There were no houses to clean.
+[11/11/2018 13:34:57]  :: Houses cleaned:
+
+There were no houses to clean.
+[11/11/2018 14:14:22]  :: Houses cleaned:
+
+There were no houses to clean.
+[11/11/2018 16:47:15]  :: Houses cleaned:
+
+There were no houses to clean.
+[11/11/2018 17:50:27]  :: Houses cleaned:
+
+There were no houses to clean.
+[11/11/2018 19:56:20]  :: Houses cleaned:
+
+There were no houses to clean.
+[12/11/2018 01:13:26]  :: Houses cleaned:
+
+There were no houses to clean.
+[12/11/2018 03:03:52]  :: Houses cleaned:
+
+There were no houses to clean.
+[12/11/2018 03:06:43]  :: Houses cleaned:
+
+There were no houses to clean.
+[12/11/2018 07:13:21]  :: Houses cleaned:
+
+There were no houses to clean.
+[12/11/2018 07:18:12]  :: Houses cleaned:
+
+There were no houses to clean.
+[12/11/2018 07:21:49]  :: Houses cleaned:
+
+There were no houses to clean.
+[12/11/2018 07:30:19]  :: Houses cleaned:
+
+There were no houses to clean.
+[12/11/2018 07:41:49]  :: Houses cleaned:
+
+There were no houses to clean.
+[12/11/2018 09:28:51]  :: Houses cleaned:
+
+There were no houses to clean.
+[12/11/2018 09:51:40]  :: Houses cleaned:
+
+There were no houses to clean.
+[12/11/2018 09:56:21]  :: Houses cleaned:
+
+There were no houses to clean.
+[12/11/2018 10:01:31]  :: Houses cleaned:
+
+There were no houses to clean.
+[12/11/2018 10:01:51]  :: Houses cleaned:
+
+There were no houses to clean.
+[12/11/2018 19:01:11]  :: Houses cleaned:
+
+There were no houses to clean.
+[12/11/2018 19:20:49]  :: Houses cleaned:
+
+There were no houses to clean.
+[12/11/2018 19:32:57]  :: Houses cleaned:
+
+There were no houses to clean.
+[12/11/2018 19:33:18]  :: Houses cleaned:
+
+There were no houses to clean.
+[12/11/2018 19:51:57]  :: Houses cleaned:
+
+There were no houses to clean.
+[12/11/2018 19:53:19]  :: Houses cleaned:
+
+There were no houses to clean.
+[12/11/2018 19:55:03]  :: Houses cleaned:
+
+There were no houses to clean.
+[15/11/2018 10:23:42]  :: Houses cleaned:
+
+There were no houses to clean.
+[15/11/2018 10:27:11]  :: Houses cleaned:
+
+There were no houses to clean.
+[15/11/2018 10:29:14]  :: Houses cleaned:
+
+There were no houses to clean.
+[17/11/2018 06:20:55]  :: Houses cleaned:
+
+There were no houses to clean.
+[17/11/2018 22:54:51]  :: Houses cleaned:
+
+There were no houses to clean.
+[18/11/2018 00:55:09]  :: Houses cleaned:
+
+There were no houses to clean.
+[18/11/2018 00:56:33]  :: Houses cleaned:
+
+There were no houses to clean.
+[18/11/2018 01:02:33]  :: Houses cleaned:
+
+There were no houses to clean.
+[18/11/2018 01:03:36]  :: Houses cleaned:
+
+There were no houses to clean.
+[19/11/2018 14:33:56]  :: Houses cleaned:
+
+There were no houses to clean.
+[19/11/2018 14:40:03]  :: Houses cleaned:
+
+There were no houses to clean.
+[19/11/2018 14:41:10]  :: Houses cleaned:
+
+There were no houses to clean.
+[19/11/2018 14:48:15]  :: Houses cleaned:
+
+There were no houses to clean.
+[19/11/2018 16:08:26]  :: Houses cleaned:
+
+There were no houses to clean.
+[19/11/2018 17:11:42]  :: Houses cleaned:
+
+There were no houses to clean.
+[19/11/2018 17:12:59]  :: Houses cleaned:
+
+There were no houses to clean.
+[19/11/2018 17:14:05]  :: Houses cleaned:
+
+There were no houses to clean.
+[20/11/2018 23:15:18]  :: Houses cleaned:
+
+There were no houses to clean.
+[21/11/2018 00:31:27]  :: Houses cleaned:
+
+There were no houses to clean.
+[21/11/2018 01:09:08]  :: Houses cleaned:
+
+There were no houses to clean.
+[25/12/2018 04:21:48]  :: Houses cleaned:
+
+There were no houses to clean.
+[25/12/2018 04:24:04]  :: Houses cleaned:
+
+There were no houses to clean.
+[01/05/2020 14:08:52]  :: Houses cleaned:
+
+There were no houses to clean.
+[01/05/2020 16:24:57]  :: Houses cleaned:
+
+There were no houses to clean.
+[02/05/2020 18:31:12]  :: Houses cleaned:
+
+There were no houses to clean.

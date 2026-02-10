@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Blessing" script="blessing.lua" walkinterval="2000">
+	<health now="100" max="100"/>
+	<look type="328"/>
+	<parameters>
+		<parameter key="module_shop" value="1"/>
+		<parameter key="message_greet" value="Olá, |PLAYERNAME|! sendo free account posso lhe vender apenas a {primeira}, {segunda} e {terceira} bless. Caso voce for premium account voce pode adquirir {todas} as blessings."/>
+	</parameters>
+</npc>

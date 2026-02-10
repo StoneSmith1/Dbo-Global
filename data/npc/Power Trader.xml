@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Power Trader" script="default.lua" walkinterval="2000">
+	<health now="100" max="100"/>
+	<look type="457"/>
+	<parameters>
+		<parameter key="module_shop" value="1"/>
+		<parameter key="message_greet" value="Olá, |PLAYERNAME|! Eu vendo alguns Powers. Diga {Trade}."/>
+		<parameter key="shop_sellable" value="
+			Makankosappo Power,12736,10000;
+			Green Gun,12742,50000;
+			Stronge Gun,12743,50000;
+			Namek Power,12744,30000;
+			Blaster,12745,20000;
+			Red Ki,12746,35000;
+			Blue Ki,12747,35000;
+			Green Ki,13434,35000;
+			Yellow Ki,13435,35000;
+			Saiyan Power,12748,50000;
+			Shotgun,13389,50000
+		"/>
+		<parameter key="shop_buyable" value="
+			Makankosappo Power,12736,10000;
+			Makankosappo,12737,5000;
+			Sniper,12739,10000;
+			Gun,12740,5000;
+			Uzi,12741,15000;
+			Green Gun,12742,50000;
+			Stronge Gun,12743,50000;
+			Namek Power,12744,60000;
+			Blaster,12745,30000;
+			Red Ki,12746,70000;
+			Blue Ki,12747,70000;
+			Green Ki,13434,70000;
+			Yellow Ki,13435,70000;
+			Saiyan Power,12748,100000;
+			Shotgun,13389,50000
+		"/>
+	</parameters>
+</npc>

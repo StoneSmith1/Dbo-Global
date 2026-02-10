@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<creaturescripts>
+	<event type="login" name="PlayerLogin" event="script" value="login.lua"/>
+	<event type="login" name="vip" event="script" value="vip.lua"/>
+	<event type="think" name="TiraBattle" event="script" value="tirabattle.lua"/>
+	<event type="think" name="Idle" event="script" value="idle.lua"/>
+	<event type="think" name="SkullCheck" event="script" value="skullcheck.lua"/>
+	<event type="death" name="PlayerDeath" event="script" value="playerdeath.lua"/>
+	<event type="statschange" name="Reflect" event="script" value="reflect.lua"/>
+	<event type="advance" name="LevelRecompense" event="script" value="recompenselvl.lua"/>
+	<event type="advance" name="AdvanceSave" event="script" value="advancesave.lua"/>
+	<event type="login" name="BoasVindas" event="script" value="boasvindas.lua"/>
+	<event type="advance" name="FullHpMana" event="script" value="fullhpmana.lua"/>
+	<event type="login" name="SkillStagesLogin" event="script" value="skillstageslogin.lua"/> 
+    <event type="advance" name="SkillStagesAdvance" event="script" value="skillstagesadvance.lua"/>
+	<event type="death" name="tp" event="script" value="tpmonster.lua"/>
+	<event type="death" name="Teach Hawk" event="script" value="teach hawk.lua"/> 
+	<event type="death" name="Goku Ssj4 Boss" event="script" value="goku ssj4 boss.lua"/> 
+	<event type="think" name="VocShenron" event="script" value="vocshenron.lua"/>
+	<event type="think" name="VocVegetto" event="script" value="vocvegetto.lua"/>
+	<event type="think" name="VocTapion" event="script" value="voctapion.lua"/>
+	<event type="think" name="VocKame" event="script" value="vockame.lua"/>
+	<event type="think" name="VocKagome" event="script" value="vockagome.lua"/>
+	<event type="think" name="VocKingVegeta" event="script" value="vockingvegeta.lua"/>
+	<event type="think" name="VocZaiko" event="script" value="voczaiko.lua"/>
+	<event type="think" name="VocChilled" event="script" value="vocchilled.lua"/>
+	<event type="think" name="VocC8" event="script" value="vocc8.lua"/>
+	<event type="think" name="VocJiren" event="script" value="vocjiren.lua"/>
+	<event type="think" name="VocBills" event="script" value="vocbills.lua"/>
+	<event type="think" name="VocBillsFurie" event="script" value="vocbillsfurie.lua"/>
+	<event type="think" name="VocZamasu" event="script" value="voczamasu.lua"/>
+	<event type="think" name="VocHitto" event="script" value="vochitto.lua"/>
+	<event type="think" name="VocLiquir" event="script" value="vocliquir.lua"/>
+	<event type="think" name="VocVermoud" event="script" value="vocvermoud.lua"/>
+	<event type="think" name="VocMrSatan" event="script" value="vocmrsatan.lua"/>
+	<event type="think" name="VocKyabe" event="script" value="vockyabe.lua"/>
+	<event type="think" name="VocGokuBlack" event="script" value="vocgokublack.lua"/>
+	<event type="think" name="VocMarcarita" event="script" value="vocmarcarita.lua"/>
+	<event type="think" name="RemovedorDeFrags" event="script" value="removedordefrags.lua"/>
+	<event type="login" name="BlessCheck" event="script" value="CheckBless.lua"/>
+	<event type="death" name="Kyabe" event="script" value="kyabe.lua"/>
+	<event type="death" name="Goku Fusion" event="script" value="goku fusion.lua"/>
+	<event type="death" name="Vegeta Fusion" event="script" value="vegeta fusion.lua"/> 
+	<event type="death" name="Boss Fusion Completo" event="script" value="boss fusion completo.lua"/>
+	<event type="death" name="Hitto Quest" event="script" value="hitto quest.lua"/> 
+	<event type="death" name="Warlock" event="script" value="warlock.lua"/> 
+	<event type="death" name="Warlock Teach" event="script" value="warlock teach.lua"/>
+	<event type="death" name="Estegossauro" event="script" value="estegossauro.lua"/> 
+	<event type="death" name="Caterpillar" event="script" value="caterpillar.lua"/>
+</creaturescripts>

@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Cooler Rage" nameDescription="an Cooler Rage" race="blood" experience="1000000" speed="800" manacost="0">
+	<health now="8000000" max="8000000"/>
+	<look type="162" head="1" body="1" legs="1" feet="1" addons="0" corpse="12783"/>
+	<targetchange interval="5000" chance="8"/>
+	<strategy attack="100" defense="0"/>
+	<flags>
+		<flag summonable="0"/> <flag sagamonster = "0" />
+		<flag attackable="1"/>
+		<flag hostile="1"/>
+		<flag illusionable="0"/>
+		<flag convinceable="0"/>
+		<flag pushable="1"/>
+		<flag canpushitems="1"/>
+		<flag canpushcreatures="1"/>
+		<flag targetdistance="1"/>
+		<flag staticattack="90"/>
+		<flag runonhealth="0"/>
+	</flags>
+	<attacks>
+		<attack name="melee" interval="1000" min="-8000" max="-13000"/>
+		<attack name="divine missile" interval="2000" chance="35"/>
+		<attack name="nova blast" interval="1000" chance="50" min="-2000" max="-4000"/>
+		<attack name="eye laser" interval="3200" chance="50" min="-20000" max="-40000"/>
+		<attack name="psycho barrier" interval="2500" chance="25" min="-10000" max="-25000"/>
+	</attacks>
+	<defenses armor="0" defense="0">
+	</defenses>
+	<immunities>
+		<immunity physical="0"/>
+		<immunity energy="0"/>
+		<immunity fire="0"/>
+		<immunity poison="0"/>
+		<immunity lifedrain="0"/>
+		<immunity paralyze="1"/>
+		<immunity outfit="1"/>
+		<immunity invisible="1"/>
+	</immunities>
+	<voices interval="5000" chance="10">
+		<voice sentence="MORRA DESGRAÇADO!"/>
+		<voice sentence="Não me provoque!"/>
+	</voices>
+		<loot>
+			<item id="2152" countmax="500" chance="100000"/> <!-- Dollars -->
+			<item id="2160" countmax="15" chance="10000"/> <!-- Golds -->
+			<item id="12779" countmax="50" chance="25000"/> <!-- Senzu Bean -->
+			<item id="12779" countmax="25" chance="10000"/> <!-- Magic Senzu Bean -->
+		</loot>
+</monster>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Food Trader" script="default.lua" walkinterval="2000">
+	<health now="100" max="100"/>
+	<look type="455"/>
+	<parameters>
+		<parameter key="module_shop" value="1"/>
+		<parameter key="message_greet" value="Olá, |PLAYERNAME|! Eu vendo alguns Foods! Diga {Trade}."/>
+		<parameter key="shop_buyable" value="
+			Cheese,2696,50;
+			Meat,2666,50;
+			Fish,2667,50;
+			Ham,2671,50;
+			Dragon Tail,2672,50
+		"/>
+	</parameters>
+</npc>

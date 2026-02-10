@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Reborn Travel" script="rbtravel.lua" walkinterval="1000">
+	<health now="100" max="100"/>
+	<look type="478"/>
+	<parameters>
+		<parameter key="module_shop" value="1"/>
+		<parameter key="message_greet" value="Bravo Guerreiro, Parabéns pela sua vitoria, agr o verdadeiro obstaculo começa aqui, Boa Sorte Na Sua {reborn}."/>
+	</parameters>
+</npc>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Black Passagem" script="black passagem.lua" walkinterval="0">
+	<health now="100" max="100"/>
+	<look type="590"/>
+	<parameters>
+		<parameter key="module_shop" value="1"/>
+		<parameter key="message_greet" value="Olá, |PLAYERNAME|! Se voce me arranja 400 {blue barrs}, voce poderá transformar seu janemba set em black janemba set que se encontra ao final dessa quest."/>
+	</parameters>
+</npc>

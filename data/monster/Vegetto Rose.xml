@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Vegetto Rose" nameDescription="an Vegetto Rose" race="blood" experience="525000" speed="1000" manacost="0">
+	<health now="5000000" max="5000000"/>
+	<look type="608" head="1" body="1" legs="1" feet="1" addons="0" corpse="12875"/>
+	<targetchange interval="5000" chance="8"/>
+	<strategy attack="100" defense="0"/>
+	<flags>
+		<flag summonable="0"/> <flag sagamonster = "0" />
+		<flag attackable="1"/>
+		<flag hostile="1"/>
+		<flag illusionable="0"/>
+		<flag convinceable="0"/>
+		<flag pushable="1"/>
+		<flag canpushitems="1"/>
+		<flag canpushcreatures="1"/>
+		<flag targetdistance="1"/>
+		<flag staticattack="90"/>
+		<flag runonhealth="0"/>
+	</flags>
+	<attacks>
+		<attack name="melee" interval="1000" min="-1000" max="-2000"/>
+		<attack name="Final Shine" interval="1000" chance="25" min="-9000" max="-12000"/>
+		<attack name="fusion storm" interval="3000" chance="25" min="-15000" max="-20000"/>
+		<attack name="super hell granade" interval="2500" chance="25" min="-9500" max="-15000"/>
+	</attacks>
+	<defenses armor="0" defense="0">
+	</defenses>
+	<immunities>
+		<immunity physical="0"/>
+		<immunity energy="0"/>
+		<immunity fire="0"/>
+		<immunity poison="0"/>
+		<immunity lifedrain="0"/>
+		<immunity paralyze="1"/>
+		<immunity outfit="1"/>
+		<immunity invisible="1"/>
+	</immunities>
+		<loot>
+			<item id="2152" countmax="200" chance="50000"/> <!-- Dollars -->
+			<item id="2160" countmax="10" chance="40000"/> <!-- Golds -->
+			<item id="12778" countmax="25" chance="10000"/> <!-- Senzu Root -->
+			<item id="12779" countmax="15" chance="5000"/> <!-- Senzu Bean -->
+			<item id="12779" countmax="10" chance="2500"/> <!-- Magic Senzu Bean -->
+		</loot>
+</monster>

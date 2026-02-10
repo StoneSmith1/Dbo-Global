@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Mr Satan" script="voc mr satan.lua" walkinterval="2000">
+	<health now="100" max="100" />
+	<look type="778"/>
+	<parameters>
+		<parameter key="message_greet" value="Olá, |PLAYERNAME|! Posso Te Transformar Em Um Mr Satan {satan}." />
+		<parameter key="message_farewell" value="Até mais, |PLAYERNAME|!" />
+	</parameters>
+</npc>

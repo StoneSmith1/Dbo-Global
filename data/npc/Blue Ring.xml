@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Blue Ring" script="blue ring.lua" walkinterval="2000">
+	<health now="100" max="100" />
+	<look type="609"/>
+	<parameters>
+		<parameter key="message_greet" value="Olá, |PLAYERNAME|! Posso Trocar Seu Earring Of Magic Por Um Blue Ring?  {blue ring}." />
+		<parameter key="message_farewell" value="Até mais, |PLAYERNAME|!" />
+	</parameters>
+</npc>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Kyabe" script="voc kyabe.lua" walkinterval="2000">
+	<health now="100" max="100" />
+	<look type="712"/>
+	<parameters>
+		<parameter key="message_greet" value="Olá, |PLAYERNAME|! Vendo Vocation Kyabe Por 15 Premium Points {Kyabe}." />
+		<parameter key="message_farewell" value="Até mais, |PLAYERNAME|!" />
+	</parameters>
+</npc>

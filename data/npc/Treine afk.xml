@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Treine Afk" script="treine afk.lua" walkinterval="0">
+	<health now="100" max="100"/>
+	<look type="459"/>
+	<parameters>
+		<parameter key="module_shop" value="1"/>
+		<parameter key="message_greet" value="Olá, |PLAYERNAME|! Se voce me arranja 10k=10000 de {white pearls}, voce poderá ter acesso ao nosso treine 100% AFK."/>
+	</parameters>
+</npc>

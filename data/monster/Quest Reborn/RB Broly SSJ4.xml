@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<monster name="RB Broly SSJ4" nameDescription="an Broly SSJ4" race="blood" experience="290000" speed="650" manacost="0">
+	<health now="3300000" max="3300000"/>
+	<look type="117" head="1" body="1" legs="1" feet="1" addons="0" corpse="12782"/>
+	<targetchange interval="5000" chance="8"/>
+	<strategy attack="100" defense="0"/>
+	<flags>
+		<flag summonable="0"/>
+		<flag attackable="1"/>
+		<flag hostile="1"/>
+		<flag illusionable="0"/>
+		<flag convinceable="0"/>
+		<flag pushable="1"/>
+		<flag canpushitems="1"/>
+		<flag canpushcreatures="1"/>
+		<flag targetdistance="1"/>
+		<flag staticattack="90"/>
+		<flag runonhealth="0"/>
+	</flags>
+	<attacks>
+		<attack name="melee" interval="1000" min="-6500" max="-8000"/>
+		<attack name="meteor" interval="1000" chance="25" min="-10000" max="-15000"/>
+		<attack name="barakuitsu blast" interval="3000" chance="25" min="-1800" max="-2000"/>
+	</attacks>
+	<defenses armor="0" defense="0">
+	</defenses>
+	<immunities>
+		<immunity physical="0"/>
+		<immunity energy="0"/>
+		<immunity fire="0"/>
+		<immunity poison="0"/>
+		<immunity lifedrain="0"/>
+		<immunity paralyze="0"/>
+		<immunity outfit="1"/>
+		<immunity invisible="1"/>
+	</immunities>
+	<voices interval="5000" chance="10">
+		<voice sentence="HAHAHA!!!"/>
+		<voice sentence="KAKAROTOO!!!"/>
+		<voice sentence="Aaaahhh!"/>
+	</voices>
+		<loot>
+			<item id="2148" countmax="100" chance="100000"/> <!-- Cents -->
+			<item id="2152" countmax="100" chance="75000"/> <!-- Dollars -->
+			<item id="2160" countmax="5" chance="10000"/> <!-- Golds -->
+			<item id="12777" countmax="15" chance="25000"/> <!-- Senzu Leaf -->
+			<item id="12778" countmax="10" chance="15000"/> <!-- Senzu Root -->
+			<item id="12779" countmax="5" chance="10000"/> <!-- Senzu Bean -->
+			
+			<item id="12630" chance="2500"/> <!-- Broly Amulation -->
+			<item id="12676" chance="2500"/> <!-- Broly Legs -->
+			<item id="12690" chance="2500"/> <!-- Broly Boots -->
+			<item id="12723" chance="2500"/> <!-- Broly Sword -->
+		</loot>
+		<script>
+			<event name="tp"/>
+		</script>
+</monster>
