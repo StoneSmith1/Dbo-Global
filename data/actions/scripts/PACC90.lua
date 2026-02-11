@@ -1,9 +1,13 @@
-function onUse(cid, item, frompos, item2, topos)
-if item.itemid == 9004 then
-local playerpos = getCreaturePosition(cid)
-doRemoveItem(item.uid,9004)
-doPlayerAddPremiumDays(cid, 90)
-doSendMagicEffect(playerpos, 34)
-doPlayerSendTextMessage(cid,22,"Voce recebeu 90 dias de premium account.")
-end
+-- PACC90.lua (VIP/Premium Days)
+-- Keeps original behavior; adds a VIP benefits message.
+function onUse(cid, item, fromPosition, itemEx, toPosition)
+    if item.itemid == 9004 then
+        doRemoveItem(item.uid, 1)
+        doPlayerAddPremiumDays(cid, 90)
+        doSendMagicEffect(getCreaturePosition(cid), CONST_ME_MAGIC_GREEN)
+        doPlayerSendTextMessage(cid, MESSAGE_STATUS_CONSOLE_BLUE,
+            "VIP ativado/renovado: +10% EXP (monstros), +5% skill/magic tries (treino), stamina 2x no PZ, e somente VIP compra casa.")
+        return true
+    end
+    return false
 end

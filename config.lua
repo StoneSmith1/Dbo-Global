@@ -20,7 +20,7 @@
 	sqlPort = 3306
 	sqlUser = "root"
 	sqlPass = ""
-	sqlDatabase = "teach"
+	sqlDatabase = "dbo"
 	sqlFile = "schemas/otxserver.s3db"
 	sqlKeepAlive = 0
 	mysqlReadTimeout = 6000
@@ -224,9 +224,9 @@
 
 	-- Houses
 	buyableAndSellableHouses = true
-	houseNeedPremium = false
+	houseNeedPremium = true
 	bedsRequirePremium = false
-	levelToBuyHouse = 300
+	levelToBuyHouse = 200
 	housesPerAccount = 2
 	houseRentAsPrice = false
 	housePriceAsRent = 20000
